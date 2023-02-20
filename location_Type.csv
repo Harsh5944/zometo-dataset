@@ -1,0 +1,1076 @@
+rest_type,location,name
+Bakery,BTM,76
+Bakery,Banashankari,20
+Bakery,Banaswadi,27
+Bakery,Bannerghatta Road,53
+Bakery,Basavanagudi,35
+Bakery,Bellandur,16
+Bakery,Brigade Road,30
+Bakery,Brookefield,23
+Bakery,Commercial Street,6
+Bakery,Cunningham Road,3
+Bakery,Domlur,26
+Bakery,Electronic City,39
+Bakery,Frazer Town,33
+Bakery,HSR,33
+Bakery,Indiranagar,28
+Bakery,JP Nagar,63
+Bakery,Jayanagar,59
+Bakery,Kalyan Nagar,17
+Bakery,Kammanahalli,2
+Bakery,Koramangala 1st Block,42
+Bakery,Koramangala 4th Block,33
+Bakery,Koramangala 5th Block,28
+Bakery,Koramangala 6th Block,14
+Bakery,Koramangala 7th Block,25
+Bakery,Koramangala 8th Block,10
+Bakery,Lavelle Road,20
+Bakery,MG Road,3
+Bakery,Malleshwaram,15
+Bakery,Marathahalli,49
+Bakery,New BEL Road,9
+Bakery,Old Airport Road,23
+Bakery,Rajajinagar,16
+Bakery,Richmond Road,10
+Bakery,Sarjapur Road,52
+Bakery,Shanti Nagar,6
+Bakery,Shivajinagar,6
+Bakery,Ulsoor,38
+Bakery,Whitefield,58
+Bakery,others,94
+"Bakery, Beverage Shop",Jayanagar,3
+"Bakery, Beverage Shop",Old Airport Road,1
+"Bakery, Beverage Shop",Richmond Road,6
+"Bakery, Beverage Shop",Shanti Nagar,5
+"Bakery, Beverage Shop",others,1
+"Bakery, Cafe",Frazer Town,5
+"Bakery, Cafe",HSR,5
+"Bakery, Cafe",Indiranagar,15
+"Bakery, Cafe",Lavelle Road,29
+"Bakery, Cafe",Marathahalli,2
+"Bakery, Cafe",Whitefield,14
+"Bakery, Cafe",others,8
+"Bakery, Dessert Parlor",Banashankari,2
+"Bakery, Dessert Parlor",Bellandur,16
+"Bakery, Dessert Parlor",Domlur,8
+"Bakery, Dessert Parlor",HSR,10
+"Bakery, Dessert Parlor",Indiranagar,6
+"Bakery, Dessert Parlor",JP Nagar,2
+"Bakery, Dessert Parlor",Kalyan Nagar,14
+"Bakery, Dessert Parlor",Koramangala 5th Block,10
+"Bakery, Dessert Parlor",Koramangala 7th Block,31
+"Bakery, Dessert Parlor",Lavelle Road,11
+"Bakery, Dessert Parlor",Malleshwaram,7
+"Bakery, Dessert Parlor",Marathahalli,4
+"Bakery, Dessert Parlor",New BEL Road,3
+"Bakery, Dessert Parlor",Rajajinagar,3
+"Bakery, Dessert Parlor",Ulsoor,4
+"Bakery, Dessert Parlor",others,16
+"Bakery, Food Court",Bellandur,1
+"Bakery, Food Court",Malleshwaram,1
+"Bakery, Kiosk",MG Road,13
+"Bakery, Quick Bites",BTM,11
+"Bakery, Quick Bites",Banaswadi,1
+"Bakery, Quick Bites",Bannerghatta Road,9
+"Bakery, Quick Bites",Basavanagudi,6
+"Bakery, Quick Bites",Bellandur,16
+"Bakery, Quick Bites",Brigade Road,10
+"Bakery, Quick Bites",Brookefield,4
+"Bakery, Quick Bites",Commercial Street,16
+"Bakery, Quick Bites",Cunningham Road,1
+"Bakery, Quick Bites",Domlur,3
+"Bakery, Quick Bites",Electronic City,11
+"Bakery, Quick Bites",Frazer Town,18
+"Bakery, Quick Bites",HSR,6
+"Bakery, Quick Bites",Indiranagar,11
+"Bakery, Quick Bites",JP Nagar,20
+"Bakery, Quick Bites",Jayanagar,26
+"Bakery, Quick Bites",Kalyan Nagar,3
+"Bakery, Quick Bites",Kammanahalli,8
+"Bakery, Quick Bites",Koramangala 1st Block,12
+"Bakery, Quick Bites",Koramangala 4th Block,12
+"Bakery, Quick Bites",Koramangala 8th Block,12
+"Bakery, Quick Bites",MG Road,5
+"Bakery, Quick Bites",Marathahalli,6
+"Bakery, Quick Bites",New BEL Road,3
+"Bakery, Quick Bites",Old Airport Road,3
+"Bakery, Quick Bites",Richmond Road,20
+"Bakery, Quick Bites",Sarjapur Road,7
+"Bakery, Quick Bites",Shanti Nagar,11
+"Bakery, Quick Bites",Ulsoor,7
+"Bakery, Quick Bites",Whitefield,2
+"Bakery, Quick Bites",others,9
+"Bakery, Sweet Shop",Jayanagar,3
+Bar,BTM,49
+Bar,Banashankari,23
+Bar,Banaswadi,9
+Bar,Basavanagudi,11
+Bar,Bellandur,11
+Bar,Brigade Road,10
+Bar,Cunningham Road,13
+Bar,Domlur,17
+Bar,Electronic City,25
+Bar,HSR,11
+Bar,Indiranagar,24
+Bar,JP Nagar,17
+Bar,Kalyan Nagar,10
+Bar,Kammanahalli,10
+Bar,Koramangala 1st Block,8
+Bar,Koramangala 4th Block,67
+Bar,Koramangala 5th Block,37
+Bar,Koramangala 6th Block,56
+Bar,Lavelle Road,13
+Bar,Malleshwaram,6
+Bar,Marathahalli,21
+Bar,New BEL Road,4
+Bar,Old Airport Road,10
+Bar,Rajajinagar,2
+Bar,Residency Road,39
+Bar,Richmond Road,44
+Bar,Shanti Nagar,10
+Bar,Shivajinagar,16
+Bar,St. Marks Road,13
+Bar,Ulsoor,22
+Bar,Whitefield,18
+Bar,others,71
+"Bar, Cafe",Church Street,13
+"Bar, Casual Dining",BTM,6
+"Bar, Casual Dining",Banashankari,4
+"Bar, Casual Dining",Bellandur,11
+"Bar, Casual Dining",Brigade Road,48
+"Bar, Casual Dining",Church Street,13
+"Bar, Casual Dining",Electronic City,6
+"Bar, Casual Dining",HSR,18
+"Bar, Casual Dining",Indiranagar,72
+"Bar, Casual Dining",JP Nagar,8
+"Bar, Casual Dining",Koramangala 4th Block,10
+"Bar, Casual Dining",Koramangala 5th Block,7
+"Bar, Casual Dining",Koramangala 6th Block,8
+"Bar, Casual Dining",Koramangala 7th Block,40
+"Bar, Casual Dining",MG Road,17
+"Bar, Casual Dining",Malleshwaram,14
+"Bar, Casual Dining",Marathahalli,9
+"Bar, Casual Dining",New BEL Road,4
+"Bar, Casual Dining",Rajajinagar,6
+"Bar, Casual Dining",Residency Road,10
+"Bar, Casual Dining",Sarjapur Road,26
+"Bar, Casual Dining",St. Marks Road,31
+"Bar, Casual Dining",Whitefield,10
+"Bar, Casual Dining",others,43
+"Bar, Lounge",Whitefield,3
+"Bar, Lounge",others,3
+"Bar, Pub",HSR,5
+"Bar, Quick Bites",Brigade Road,9
+Beverage Shop,BTM,193
+Beverage Shop,Banashankari,6
+Beverage Shop,Banaswadi,11
+Beverage Shop,Bannerghatta Road,16
+Beverage Shop,Basavanagudi,7
+Beverage Shop,Bellandur,19
+Beverage Shop,Brigade Road,14
+Beverage Shop,Brookefield,12
+Beverage Shop,Church Street,1
+Beverage Shop,Commercial Street,13
+Beverage Shop,Cunningham Road,12
+Beverage Shop,Domlur,6
+Beverage Shop,Ejipura,18
+Beverage Shop,Electronic City,12
+Beverage Shop,Frazer Town,5
+Beverage Shop,HSR,46
+Beverage Shop,Indiranagar,16
+Beverage Shop,JP Nagar,38
+Beverage Shop,Jayanagar,41
+Beverage Shop,Kalyan Nagar,16
+Beverage Shop,Kammanahalli,8
+Beverage Shop,Koramangala 4th Block,8
+Beverage Shop,Koramangala 5th Block,66
+Beverage Shop,Koramangala 6th Block,6
+Beverage Shop,Koramangala 7th Block,15
+Beverage Shop,Koramangala 8th Block,37
+Beverage Shop,Lavelle Road,6
+Beverage Shop,Malleshwaram,10
+Beverage Shop,Marathahalli,17
+Beverage Shop,New BEL Road,4
+Beverage Shop,Old Airport Road,12
+Beverage Shop,Rajajinagar,2
+Beverage Shop,Sarjapur Road,19
+Beverage Shop,Shanti Nagar,22
+Beverage Shop,Shivajinagar,6
+Beverage Shop,Ulsoor,21
+Beverage Shop,Whitefield,28
+Beverage Shop,others,77
+"Beverage Shop, Cafe",Bellandur,6
+"Beverage Shop, Cafe",Church Street,16
+"Beverage Shop, Cafe",Malleshwaram,6
+"Beverage Shop, Dessert Parlor",BTM,1
+"Beverage Shop, Dessert Parlor",Banashankari,3
+"Beverage Shop, Dessert Parlor",Bannerghatta Road,2
+"Beverage Shop, Dessert Parlor",Bellandur,3
+"Beverage Shop, Dessert Parlor",Brigade Road,2
+"Beverage Shop, Dessert Parlor",Commercial Street,4
+"Beverage Shop, Dessert Parlor",Electronic City,2
+"Beverage Shop, Dessert Parlor",HSR,7
+"Beverage Shop, Dessert Parlor",Indiranagar,6
+"Beverage Shop, Dessert Parlor",JP Nagar,1
+"Beverage Shop, Dessert Parlor",Jayanagar,14
+"Beverage Shop, Dessert Parlor",Kalyan Nagar,4
+"Beverage Shop, Dessert Parlor",Koramangala 5th Block,5
+"Beverage Shop, Dessert Parlor",Koramangala 7th Block,1
+"Beverage Shop, Dessert Parlor",Lavelle Road,4
+"Beverage Shop, Dessert Parlor",Malleshwaram,2
+"Beverage Shop, Dessert Parlor",Marathahalli,2
+"Beverage Shop, Dessert Parlor",New BEL Road,3
+"Beverage Shop, Dessert Parlor",Rajajinagar,4
+"Beverage Shop, Dessert Parlor",Sarjapur Road,5
+"Beverage Shop, Dessert Parlor",others,4
+"Beverage Shop, Quick Bites",BTM,33
+"Beverage Shop, Quick Bites",Banashankari,11
+"Beverage Shop, Quick Bites",Bannerghatta Road,6
+"Beverage Shop, Quick Bites",Basavanagudi,3
+"Beverage Shop, Quick Bites",Bellandur,7
+"Beverage Shop, Quick Bites",Brookefield,6
+"Beverage Shop, Quick Bites",Church Street,7
+"Beverage Shop, Quick Bites",Cunningham Road,3
+"Beverage Shop, Quick Bites",Electronic City,5
+"Beverage Shop, Quick Bites",Frazer Town,4
+"Beverage Shop, Quick Bites",HSR,15
+"Beverage Shop, Quick Bites",Indiranagar,8
+"Beverage Shop, Quick Bites",JP Nagar,9
+"Beverage Shop, Quick Bites",Jayanagar,17
+"Beverage Shop, Quick Bites",Kalyan Nagar,6
+"Beverage Shop, Quick Bites",Koramangala 1st Block,10
+"Beverage Shop, Quick Bites",Koramangala 5th Block,32
+"Beverage Shop, Quick Bites",Koramangala 6th Block,15
+"Beverage Shop, Quick Bites",Koramangala 7th Block,16
+"Beverage Shop, Quick Bites",MG Road,9
+"Beverage Shop, Quick Bites",Malleshwaram,3
+"Beverage Shop, Quick Bites",Marathahalli,28
+"Beverage Shop, Quick Bites",New BEL Road,7
+"Beverage Shop, Quick Bites",Old Airport Road,2
+"Beverage Shop, Quick Bites",Rajajinagar,2
+"Beverage Shop, Quick Bites",Residency Road,5
+"Beverage Shop, Quick Bites",Whitefield,10
+"Beverage Shop, Quick Bites",others,19
+Bhojanalya,others,3
+Cafe,BTM,290
+Cafe,Banashankari,87
+Cafe,Banaswadi,44
+Cafe,Bannerghatta Road,79
+Cafe,Basavanagudi,42
+Cafe,Bellandur,55
+Cafe,Brigade Road,111
+Cafe,Brookefield,35
+Cafe,Church Street,92
+Cafe,Commercial Street,20
+Cafe,Cunningham Road,46
+Cafe,Domlur,19
+Cafe,Electronic City,43
+Cafe,Frazer Town,35
+Cafe,HSR,141
+Cafe,Indiranagar,201
+Cafe,JP Nagar,159
+Cafe,Jayanagar,201
+Cafe,Kalyan Nagar,76
+Cafe,Kammanahalli,52
+Cafe,Koramangala 1st Block,97
+Cafe,Koramangala 4th Block,138
+Cafe,Koramangala 5th Block,361
+Cafe,Koramangala 6th Block,109
+Cafe,Koramangala 7th Block,117
+Cafe,Koramangala 8th Block,31
+Cafe,Lavelle Road,5
+Cafe,MG Road,102
+Cafe,Malleshwaram,59
+Cafe,Marathahalli,67
+Cafe,New BEL Road,73
+Cafe,Old Airport Road,9
+Cafe,Rajajinagar,6
+Cafe,Residency Road,58
+Cafe,Richmond Road,51
+Cafe,Sarjapur Road,50
+Cafe,Shanti Nagar,46
+Cafe,Shivajinagar,22
+Cafe,St. Marks Road,20
+Cafe,Ulsoor,130
+Cafe,Whitefield,65
+Cafe,others,284
+"Cafe, Bakery",BTM,13
+"Cafe, Bakery",Bannerghatta Road,19
+"Cafe, Bakery",Bellandur,6
+"Cafe, Bakery",Brookefield,6
+"Cafe, Bakery",Electronic City,4
+"Cafe, Bakery",HSR,4
+"Cafe, Bakery",Indiranagar,17
+"Cafe, Bakery",JP Nagar,4
+"Cafe, Bakery",Kalyan Nagar,6
+"Cafe, Bakery",Koramangala 7th Block,9
+"Cafe, Bakery",Lavelle Road,10
+"Cafe, Bakery",MG Road,20
+"Cafe, Bakery",New BEL Road,3
+"Cafe, Bakery",Shivajinagar,18
+"Cafe, Bakery",Ulsoor,18
+"Cafe, Bakery",others,6
+"Cafe, Bar",Koramangala 5th Block,19
+"Cafe, Casual Dining",Banashankari,11
+"Cafe, Casual Dining",Bannerghatta Road,14
+"Cafe, Casual Dining",Church Street,15
+"Cafe, Casual Dining",HSR,20
+"Cafe, Casual Dining",Indiranagar,27
+"Cafe, Casual Dining",Jayanagar,8
+"Cafe, Casual Dining",Kalyan Nagar,6
+"Cafe, Casual Dining",Koramangala 4th Block,12
+"Cafe, Casual Dining",Koramangala 5th Block,20
+"Cafe, Casual Dining",New BEL Road,7
+"Cafe, Casual Dining",Ulsoor,15
+"Cafe, Casual Dining",others,18
+"Cafe, Dessert Parlor",Bellandur,5
+"Cafe, Dessert Parlor",Cunningham Road,25
+"Cafe, Dessert Parlor",Domlur,16
+"Cafe, Dessert Parlor",Electronic City,6
+"Cafe, Dessert Parlor",HSR,5
+"Cafe, Dessert Parlor",Indiranagar,12
+"Cafe, Dessert Parlor",Koramangala 5th Block,15
+"Cafe, Dessert Parlor",Koramangala 7th Block,19
+"Cafe, Dessert Parlor",Malleshwaram,6
+"Cafe, Dessert Parlor",Sarjapur Road,2
+"Cafe, Dessert Parlor",Whitefield,12
+"Cafe, Dessert Parlor",others,25
+"Cafe, Food Court",Bellandur,2
+"Cafe, Lounge",others,15
+"Cafe, Quick Bites",BTM,16
+"Cafe, Quick Bites",Banashankari,8
+"Cafe, Quick Bites",Banaswadi,6
+"Cafe, Quick Bites",Bellandur,4
+"Cafe, Quick Bites",Indiranagar,5
+"Cafe, Quick Bites",JP Nagar,12
+"Cafe, Quick Bites",Kammanahalli,12
+"Cafe, Quick Bites",Lavelle Road,10
+"Cafe, Quick Bites",MG Road,10
+"Cafe, Quick Bites",Malleshwaram,2
+"Cafe, Quick Bites",Marathahalli,14
+"Cafe, Quick Bites",Sarjapur Road,9
+"Cafe, Quick Bites",others,3
+Casual Dining,BTM,711
+Casual Dining,Banashankari,148
+Casual Dining,Banaswadi,111
+Casual Dining,Bannerghatta Road,317
+Casual Dining,Basavanagudi,98
+Casual Dining,Bellandur,295
+Casual Dining,Brigade Road,290
+Casual Dining,Brookefield,135
+Casual Dining,Church Street,151
+Casual Dining,Commercial Street,71
+Casual Dining,Cunningham Road,202
+Casual Dining,Domlur,90
+Casual Dining,Ejipura,27
+Casual Dining,Electronic City,282
+Casual Dining,Frazer Town,152
+Casual Dining,HSR,541
+Casual Dining,Indiranagar,483
+Casual Dining,JP Nagar,543
+Casual Dining,Jayanagar,489
+Casual Dining,Kalyan Nagar,243
+Casual Dining,Kammanahalli,143
+Casual Dining,Koramangala 1st Block,102
+Casual Dining,Koramangala 4th Block,179
+Casual Dining,Koramangala 5th Block,559
+Casual Dining,Koramangala 6th Block,216
+Casual Dining,Koramangala 7th Block,283
+Casual Dining,Koramangala 8th Block,10
+Casual Dining,Lavelle Road,80
+Casual Dining,MG Road,172
+Casual Dining,Malleshwaram,115
+Casual Dining,Marathahalli,394
+Casual Dining,New BEL Road,115
+Casual Dining,Old Airport Road,72
+Casual Dining,Rajajinagar,112
+Casual Dining,Residency Road,152
+Casual Dining,Richmond Road,203
+Casual Dining,Sarjapur Road,198
+Casual Dining,Shanti Nagar,145
+Casual Dining,Shivajinagar,43
+Casual Dining,St. Marks Road,95
+Casual Dining,Ulsoor,174
+Casual Dining,Whitefield,459
+Casual Dining,others,916
+"Casual Dining, Bar",BTM,22
+"Casual Dining, Bar",Banashankari,1
+"Casual Dining, Bar",Banaswadi,9
+"Casual Dining, Bar",Bannerghatta Road,10
+"Casual Dining, Bar",Basavanagudi,8
+"Casual Dining, Bar",Bellandur,28
+"Casual Dining, Bar",Brigade Road,26
+"Casual Dining, Bar",Brookefield,12
+"Casual Dining, Bar",Church Street,71
+"Casual Dining, Bar",Domlur,13
+"Casual Dining, Bar",Electronic City,19
+"Casual Dining, Bar",HSR,23
+"Casual Dining, Bar",Indiranagar,51
+"Casual Dining, Bar",JP Nagar,53
+"Casual Dining, Bar",Jayanagar,18
+"Casual Dining, Bar",Kalyan Nagar,9
+"Casual Dining, Bar",Kammanahalli,10
+"Casual Dining, Bar",Koramangala 1st Block,57
+"Casual Dining, Bar",Koramangala 4th Block,44
+"Casual Dining, Bar",Koramangala 5th Block,81
+"Casual Dining, Bar",Koramangala 7th Block,59
+"Casual Dining, Bar",Lavelle Road,119
+"Casual Dining, Bar",MG Road,40
+"Casual Dining, Bar",Malleshwaram,14
+"Casual Dining, Bar",Marathahalli,47
+"Casual Dining, Bar",New BEL Road,2
+"Casual Dining, Bar",Old Airport Road,8
+"Casual Dining, Bar",Rajajinagar,16
+"Casual Dining, Bar",Residency Road,9
+"Casual Dining, Bar",Richmond Road,14
+"Casual Dining, Bar",Sarjapur Road,16
+"Casual Dining, Bar",Shivajinagar,23
+"Casual Dining, Bar",St. Marks Road,60
+"Casual Dining, Bar",Ulsoor,48
+"Casual Dining, Bar",Whitefield,37
+"Casual Dining, Bar",others,72
+"Casual Dining, Cafe",Banashankari,5
+"Casual Dining, Cafe",Banaswadi,6
+"Casual Dining, Cafe",Basavanagudi,8
+"Casual Dining, Cafe",Brookefield,6
+"Casual Dining, Cafe",Cunningham Road,19
+"Casual Dining, Cafe",Electronic City,5
+"Casual Dining, Cafe",HSR,13
+"Casual Dining, Cafe",Indiranagar,20
+"Casual Dining, Cafe",JP Nagar,24
+"Casual Dining, Cafe",Jayanagar,11
+"Casual Dining, Cafe",Kalyan Nagar,8
+"Casual Dining, Cafe",Kammanahalli,6
+"Casual Dining, Cafe",Koramangala 4th Block,19
+"Casual Dining, Cafe",Koramangala 5th Block,16
+"Casual Dining, Cafe",MG Road,50
+"Casual Dining, Cafe",Marathahalli,4
+"Casual Dining, Cafe",New BEL Road,8
+"Casual Dining, Cafe",Residency Road,21
+"Casual Dining, Cafe",Richmond Road,20
+"Casual Dining, Cafe",Ulsoor,12
+"Casual Dining, Cafe",Whitefield,26
+"Casual Dining, Cafe",others,12
+"Casual Dining, Irani Cafee",Lavelle Road,15
+"Casual Dining, Lounge",HSR,6
+"Casual Dining, Lounge",New BEL Road,2
+"Casual Dining, Lounge",Rajajinagar,2
+"Casual Dining, Microbrewery",BTM,17
+"Casual Dining, Microbrewery",Indiranagar,4
+"Casual Dining, Microbrewery",Koramangala 5th Block,16
+"Casual Dining, Microbrewery",Lavelle Road,19
+"Casual Dining, Microbrewery",Whitefield,3
+"Casual Dining, Pub",Bellandur,9
+"Casual Dining, Pub",Brigade Road,6
+"Casual Dining, Pub",Electronic City,3
+"Casual Dining, Pub",Frazer Town,3
+"Casual Dining, Pub",Indiranagar,6
+"Casual Dining, Pub",JP Nagar,22
+"Casual Dining, Pub",Kalyan Nagar,4
+"Casual Dining, Pub",Koramangala 5th Block,26
+"Casual Dining, Pub",MG Road,16
+"Casual Dining, Pub",Marathahalli,2
+"Casual Dining, Pub",Old Airport Road,5
+"Casual Dining, Pub",Sarjapur Road,12
+"Casual Dining, Pub",Shanti Nagar,6
+"Casual Dining, Pub",Whitefield,7
+"Casual Dining, Quick Bites",Whitefield,4
+"Casual Dining, Sweet Shop",JP Nagar,8
+Club,Bellandur,4
+Club,Brigade Road,17
+Club,MG Road,11
+Club,others,5
+"Club, Casual Dining",Old Airport Road,4
+Confectionery,Banashankari,4
+Confectionery,Banaswadi,4
+Confectionery,Bannerghatta Road,2
+Confectionery,HSR,3
+Confectionery,Lavelle Road,4
+Confectionery,MG Road,9
+Confectionery,Malleshwaram,11
+Confectionery,Rajajinagar,2
+Confectionery,Residency Road,5
+Confectionery,Whitefield,3
+Delivery,BTM,254
+Delivery,Banashankari,28
+Delivery,Banaswadi,13
+Delivery,Bannerghatta Road,69
+Delivery,Bellandur,60
+Delivery,Brookefield,6
+Delivery,Cunningham Road,4
+Delivery,Domlur,58
+Delivery,Ejipura,46
+Delivery,Electronic City,62
+Delivery,Frazer Town,61
+Delivery,HSR,186
+Delivery,Indiranagar,172
+Delivery,JP Nagar,125
+Delivery,Jayanagar,14
+Delivery,Kalyan Nagar,31
+Delivery,Kammanahalli,24
+Delivery,Koramangala 1st Block,107
+Delivery,Koramangala 4th Block,121
+Delivery,Koramangala 5th Block,51
+Delivery,Koramangala 6th Block,80
+Delivery,Koramangala 7th Block,102
+Delivery,Koramangala 8th Block,50
+Delivery,Lavelle Road,10
+Delivery,MG Road,6
+Delivery,Malleshwaram,7
+Delivery,Marathahalli,110
+Delivery,New BEL Road,22
+Delivery,Old Airport Road,32
+Delivery,Rajajinagar,12
+Delivery,Residency Road,14
+Delivery,Richmond Road,8
+Delivery,Sarjapur Road,97
+Delivery,Shanti Nagar,13
+Delivery,Ulsoor,27
+Delivery,Whitefield,145
+Delivery,others,373
+Dessert Parlor,BTM,112
+Dessert Parlor,Banashankari,47
+Dessert Parlor,Banaswadi,12
+Dessert Parlor,Bannerghatta Road,97
+Dessert Parlor,Basavanagudi,52
+Dessert Parlor,Bellandur,30
+Dessert Parlor,Brigade Road,86
+Dessert Parlor,Brookefield,36
+Dessert Parlor,Church Street,42
+Dessert Parlor,Commercial Street,19
+Dessert Parlor,Cunningham Road,27
+Dessert Parlor,Domlur,11
+Dessert Parlor,Ejipura,19
+Dessert Parlor,Electronic City,23
+Dessert Parlor,Frazer Town,45
+Dessert Parlor,HSR,125
+Dessert Parlor,Indiranagar,122
+Dessert Parlor,JP Nagar,114
+Dessert Parlor,Jayanagar,133
+Dessert Parlor,Kalyan Nagar,62
+Dessert Parlor,Kammanahalli,2
+Dessert Parlor,Koramangala 1st Block,34
+Dessert Parlor,Koramangala 4th Block,55
+Dessert Parlor,Koramangala 5th Block,171
+Dessert Parlor,Koramangala 6th Block,49
+Dessert Parlor,Koramangala 7th Block,81
+Dessert Parlor,Koramangala 8th Block,14
+Dessert Parlor,Lavelle Road,12
+Dessert Parlor,MG Road,45
+Dessert Parlor,Malleshwaram,55
+Dessert Parlor,Marathahalli,69
+Dessert Parlor,New BEL Road,31
+Dessert Parlor,Old Airport Road,9
+Dessert Parlor,Rajajinagar,31
+Dessert Parlor,Residency Road,66
+Dessert Parlor,Richmond Road,30
+Dessert Parlor,Sarjapur Road,50
+Dessert Parlor,Shanti Nagar,10
+Dessert Parlor,Shivajinagar,4
+Dessert Parlor,St. Marks Road,20
+Dessert Parlor,Ulsoor,26
+Dessert Parlor,Whitefield,81
+Dessert Parlor,others,104
+"Dessert Parlor, Bakery",Bellandur,14
+"Dessert Parlor, Bakery",Domlur,8
+"Dessert Parlor, Bakery",HSR,6
+"Dessert Parlor, Bakery",Kalyan Nagar,4
+"Dessert Parlor, Bakery",Kammanahalli,11
+"Dessert Parlor, Bakery",Koramangala 4th Block,20
+"Dessert Parlor, Bakery",Malleshwaram,4
+"Dessert Parlor, Bakery",Marathahalli,8
+"Dessert Parlor, Bakery",Richmond Road,10
+"Dessert Parlor, Beverage Shop",BTM,17
+"Dessert Parlor, Beverage Shop",Domlur,7
+"Dessert Parlor, Beverage Shop",HSR,5
+"Dessert Parlor, Beverage Shop",Indiranagar,7
+"Dessert Parlor, Beverage Shop",Jayanagar,5
+"Dessert Parlor, Beverage Shop",Kammanahalli,4
+"Dessert Parlor, Beverage Shop",Koramangala 4th Block,5
+"Dessert Parlor, Beverage Shop",Koramangala 7th Block,5
+"Dessert Parlor, Beverage Shop",Malleshwaram,3
+"Dessert Parlor, Beverage Shop",Marathahalli,8
+"Dessert Parlor, Beverage Shop",Rajajinagar,3
+"Dessert Parlor, Beverage Shop",Sarjapur Road,2
+"Dessert Parlor, Beverage Shop",Shivajinagar,3
+"Dessert Parlor, Beverage Shop",others,6
+"Dessert Parlor, Cafe",Commercial Street,24
+"Dessert Parlor, Cafe",Indiranagar,29
+"Dessert Parlor, Cafe",Kalyan Nagar,16
+"Dessert Parlor, Cafe",Koramangala 5th Block,37
+"Dessert Parlor, Cafe",Koramangala 7th Block,9
+"Dessert Parlor, Cafe",Koramangala 8th Block,16
+"Dessert Parlor, Cafe",MG Road,20
+"Dessert Parlor, Cafe",Old Airport Road,8
+"Dessert Parlor, Cafe",Sarjapur Road,7
+"Dessert Parlor, Cafe",Whitefield,9
+"Dessert Parlor, Food Court",Malleshwaram,2
+"Dessert Parlor, Kiosk",Whitefield,2
+"Dessert Parlor, Quick Bites",Bannerghatta Road,2
+"Dessert Parlor, Quick Bites",Bellandur,4
+"Dessert Parlor, Quick Bites",Cunningham Road,2
+"Dessert Parlor, Quick Bites",Electronic City,2
+"Dessert Parlor, Quick Bites",Frazer Town,1
+"Dessert Parlor, Quick Bites",HSR,8
+"Dessert Parlor, Quick Bites",Indiranagar,4
+"Dessert Parlor, Quick Bites",JP Nagar,4
+"Dessert Parlor, Quick Bites",Kammanahalli,2
+"Dessert Parlor, Quick Bites",Koramangala 5th Block,29
+"Dessert Parlor, Quick Bites",Koramangala 7th Block,11
+"Dessert Parlor, Quick Bites",New BEL Road,2
+"Dessert Parlor, Quick Bites",Rajajinagar,6
+"Dessert Parlor, Quick Bites",Residency Road,17
+"Dessert Parlor, Quick Bites",Whitefield,11
+"Dessert Parlor, Quick Bites",others,20
+"Dessert Parlor, Sweet Shop",BTM,5
+"Dessert Parlor, Sweet Shop",Basavanagudi,5
+"Dessert Parlor, Sweet Shop",Electronic City,2
+Dhaba,BTM,12
+Dhaba,Brookefield,2
+Dhaba,Koramangala 1st Block,10
+Dhaba,Koramangala 4th Block,4
+Dhaba,Marathahalli,7
+Dhaba,Whitefield,2
+Dhaba,others,3
+Fine Dining,Brookefield,4
+Fine Dining,Cunningham Road,6
+Fine Dining,Domlur,6
+Fine Dining,Electronic City,9
+Fine Dining,JP Nagar,3
+Fine Dining,Lavelle Road,28
+Fine Dining,MG Road,84
+Fine Dining,Malleshwaram,8
+Fine Dining,Marathahalli,10
+Fine Dining,Old Airport Road,20
+Fine Dining,Residency Road,30
+Fine Dining,Richmond Road,39
+Fine Dining,Sarjapur Road,3
+Fine Dining,Ulsoor,35
+Fine Dining,Whitefield,16
+Fine Dining,others,44
+"Fine Dining, Bar",Indiranagar,4
+"Fine Dining, Bar",Marathahalli,1
+"Fine Dining, Bar",Rajajinagar,3
+"Fine Dining, Bar",Residency Road,18
+"Fine Dining, Bar",Whitefield,6
+"Fine Dining, Bar",others,7
+"Fine Dining, Lounge",Lavelle Road,14
+"Fine Dining, Microbrewery",Lavelle Road,5
+Food Court,Banaswadi,16
+Food Court,Bannerghatta Road,142
+Food Court,Bellandur,47
+Food Court,Brigade Road,69
+Food Court,Brookefield,15
+Food Court,Domlur,6
+Food Court,Electronic City,10
+Food Court,HSR,4
+Food Court,JP Nagar,42
+Food Court,Jayanagar,16
+Food Court,Koramangala 4th Block,5
+Food Court,Koramangala 6th Block,14
+Food Court,Koramangala 7th Block,15
+Food Court,Malleshwaram,60
+Food Court,Marathahalli,46
+Food Court,Rajajinagar,5
+Food Court,Whitefield,82
+Food Court,others,29
+"Food Court, Beverage Shop",Whitefield,1
+"Food Court, Beverage Shop",others,1
+"Food Court, Casual Dining",Bannerghatta Road,4
+"Food Court, Casual Dining",Whitefield,1
+"Food Court, Dessert Parlor",BTM,4
+"Food Court, Dessert Parlor",Bannerghatta Road,1
+"Food Court, Dessert Parlor",Whitefield,3
+"Food Court, Quick Bites",Banaswadi,2
+"Food Court, Quick Bites",Bannerghatta Road,9
+"Food Court, Quick Bites",Bellandur,16
+"Food Court, Quick Bites",Brigade Road,22
+"Food Court, Quick Bites",Domlur,2
+"Food Court, Quick Bites",Electronic City,2
+"Food Court, Quick Bites",Koramangala 6th Block,16
+"Food Court, Quick Bites",Koramangala 7th Block,5
+"Food Court, Quick Bites",Malleshwaram,7
+"Food Court, Quick Bites",Marathahalli,5
+"Food Court, Quick Bites",Whitefield,13
+"Food Court, Quick Bites",others,2
+Food Truck,others,84
+Kiosk,BTM,3
+Kiosk,Banaswadi,3
+Kiosk,Bannerghatta Road,9
+Kiosk,Basavanagudi,6
+Kiosk,Bellandur,14
+Kiosk,Brigade Road,30
+Kiosk,Domlur,4
+Kiosk,Electronic City,2
+Kiosk,Frazer Town,2
+Kiosk,HSR,4
+Kiosk,Indiranagar,6
+Kiosk,JP Nagar,9
+Kiosk,Jayanagar,3
+Kiosk,Kalyan Nagar,6
+Kiosk,Kammanahalli,3
+Kiosk,Koramangala 5th Block,6
+Kiosk,Koramangala 6th Block,9
+Kiosk,Koramangala 7th Block,1
+Kiosk,Lavelle Road,2
+Kiosk,MG Road,2
+Kiosk,Marathahalli,3
+Kiosk,Old Airport Road,10
+Kiosk,Rajajinagar,1
+Kiosk,Sarjapur Road,4
+Kiosk,Whitefield,14
+Kiosk,others,20
+Lounge,Banashankari,4
+Lounge,Bannerghatta Road,5
+Lounge,Bellandur,6
+Lounge,Brigade Road,9
+Lounge,Church Street,27
+Lounge,Cunningham Road,17
+Lounge,Electronic City,11
+Lounge,Frazer Town,2
+Lounge,HSR,2
+Lounge,Indiranagar,23
+Lounge,JP Nagar,8
+Lounge,Jayanagar,9
+Lounge,Kalyan Nagar,6
+Lounge,Koramangala 5th Block,60
+Lounge,Koramangala 6th Block,8
+Lounge,Koramangala 7th Block,16
+Lounge,Lavelle Road,27
+Lounge,MG Road,20
+Lounge,Malleshwaram,8
+Lounge,Marathahalli,8
+Lounge,New BEL Road,2
+Lounge,Old Airport Road,8
+Lounge,Residency Road,27
+Lounge,Sarjapur Road,6
+Lounge,St. Marks Road,9
+Lounge,Ulsoor,19
+Lounge,Whitefield,29
+Lounge,others,20
+"Lounge, Bar",HSR,10
+"Lounge, Bar",JP Nagar,4
+"Lounge, Bar",MG Road,15
+"Lounge, Bar",Whitefield,5
+"Lounge, Bar",others,2
+"Lounge, Cafe",Domlur,16
+"Lounge, Casual Dining",Bellandur,3
+"Lounge, Casual Dining",HSR,8
+"Lounge, Casual Dining",Indiranagar,12
+"Lounge, Casual Dining",Koramangala 5th Block,10
+"Lounge, Casual Dining",Malleshwaram,4
+"Lounge, Microbrewery",Koramangala 6th Block,16
+Mess,BTM,18
+Mess,Banashankari,6
+Mess,Banaswadi,8
+Mess,Bannerghatta Road,2
+Mess,Bellandur,20
+Mess,Brookefield,8
+Mess,Domlur,9
+Mess,Ejipura,8
+Mess,Electronic City,11
+Mess,HSR,8
+Mess,Indiranagar,5
+Mess,JP Nagar,11
+Mess,Kammanahalli,4
+Mess,Koramangala 1st Block,5
+Mess,Koramangala 5th Block,50
+Mess,Koramangala 6th Block,4
+Mess,Koramangala 7th Block,5
+Mess,Malleshwaram,8
+Mess,Marathahalli,8
+Mess,New BEL Road,11
+Mess,Old Airport Road,4
+Mess,Shanti Nagar,1
+Mess,Shivajinagar,12
+Mess,Whitefield,15
+Mess,others,26
+"Mess, Quick Bites",Shanti Nagar,3
+Microbrewery,Electronic City,2
+Microbrewery,Indiranagar,2
+Microbrewery,JP Nagar,16
+Microbrewery,Malleshwaram,4
+Microbrewery,Sarjapur Road,6
+"Microbrewery, Bar",Koramangala 4th Block,13
+"Microbrewery, Casual Dining",Bannerghatta Road,1
+"Microbrewery, Casual Dining",Brigade Road,9
+"Microbrewery, Casual Dining",JP Nagar,12
+"Microbrewery, Casual Dining",Jayanagar,10
+"Microbrewery, Casual Dining",Kalyan Nagar,16
+"Microbrewery, Casual Dining",Koramangala 4th Block,10
+"Microbrewery, Casual Dining",Koramangala 5th Block,25
+"Microbrewery, Casual Dining",Koramangala 6th Block,12
+"Microbrewery, Casual Dining",Residency Road,23
+"Microbrewery, Casual Dining",Sarjapur Road,11
+"Microbrewery, Casual Dining",others,1
+"Microbrewery, Lounge",Residency Road,9
+"Microbrewery, Pub",Indiranagar,6
+"Microbrewery, Pub",Marathahalli,5
+"Microbrewery, Pub",Sarjapur Road,14
+"Microbrewery, Pub",Whitefield,17
+Pop Up,Whitefield,2
+Pub,Banashankari,6
+Pub,Banaswadi,4
+Pub,Bannerghatta Road,18
+Pub,Basavanagudi,4
+Pub,Bellandur,6
+Pub,Brigade Road,24
+Pub,Church Street,26
+Pub,HSR,2
+Pub,Indiranagar,24
+Pub,Jayanagar,8
+Pub,Koramangala 1st Block,10
+Pub,Koramangala 4th Block,30
+Pub,Koramangala 5th Block,35
+Pub,Koramangala 6th Block,10
+Pub,Lavelle Road,17
+Pub,MG Road,16
+Pub,Malleshwaram,14
+Pub,Marathahalli,3
+Pub,New BEL Road,7
+Pub,Residency Road,30
+Pub,Sarjapur Road,20
+Pub,Ulsoor,9
+Pub,Whitefield,18
+Pub,others,14
+"Pub, Bar",JP Nagar,13
+"Pub, Bar",Koramangala 4th Block,14
+"Pub, Bar",Koramangala 5th Block,13
+"Pub, Cafe",Cunningham Road,34
+"Pub, Cafe",New BEL Road,6
+"Pub, Casual Dining",BTM,10
+"Pub, Casual Dining",Brigade Road,15
+"Pub, Casual Dining",Brookefield,11
+"Pub, Casual Dining",Electronic City,11
+"Pub, Casual Dining",Frazer Town,4
+"Pub, Casual Dining",Indiranagar,21
+"Pub, Casual Dining",JP Nagar,13
+"Pub, Casual Dining",Jayanagar,10
+"Pub, Casual Dining",Kalyan Nagar,12
+"Pub, Casual Dining",Koramangala 5th Block,31
+"Pub, Casual Dining",Koramangala 6th Block,30
+"Pub, Casual Dining",MG Road,29
+"Pub, Casual Dining",Marathahalli,14
+"Pub, Casual Dining",New BEL Road,6
+"Pub, Casual Dining",St. Marks Road,13
+"Pub, Casual Dining",Ulsoor,16
+"Pub, Casual Dining",Whitefield,6
+"Pub, Casual Dining",others,3
+"Pub, Microbrewery",Brigade Road,11
+"Pub, Microbrewery",Domlur,10
+"Pub, Microbrewery",Koramangala 4th Block,10
+"Pub, Microbrewery",Koramangala 5th Block,13
+"Pub, Microbrewery",Lavelle Road,19
+"Pub, Microbrewery",MG Road,5
+"Pub, Microbrewery",Old Airport Road,8
+"Pub, Microbrewery",Whitefield,7
+Quick Bites,BTM,2725
+Quick Bites,Banashankari,430
+Quick Bites,Banaswadi,332
+Quick Bites,Bannerghatta Road,646
+Quick Bites,Basavanagudi,377
+Quick Bites,Bellandur,449
+Quick Bites,Brigade Road,315
+Quick Bites,Brookefield,309
+Quick Bites,Church Street,94
+Quick Bites,Commercial Street,143
+Quick Bites,Cunningham Road,76
+Quick Bites,Domlur,146
+Quick Bites,Ejipura,301
+Quick Bites,Electronic City,562
+Quick Bites,Frazer Town,301
+Quick Bites,HSR,931
+Quick Bites,Indiranagar,488
+Quick Bites,JP Nagar,700
+Quick Bites,Jayanagar,733
+Quick Bites,Kalyan Nagar,245
+Quick Bites,Kammanahalli,286
+Quick Bites,Koramangala 1st Block,619
+Quick Bites,Koramangala 4th Block,169
+Quick Bites,Koramangala 5th Block,591
+Quick Bites,Koramangala 6th Block,416
+Quick Bites,Koramangala 7th Block,260
+Quick Bites,Koramangala 8th Block,112
+Quick Bites,Lavelle Road,46
+Quick Bites,MG Road,169
+Quick Bites,Malleshwaram,232
+Quick Bites,Marathahalli,746
+Quick Bites,New BEL Road,286
+Quick Bites,Old Airport Road,170
+Quick Bites,Rajajinagar,324
+Quick Bites,Residency Road,118
+Quick Bites,Richmond Road,319
+Quick Bites,Sarjapur Road,381
+Quick Bites,Shanti Nagar,201
+Quick Bites,Shivajinagar,327
+Quick Bites,St. Marks Road,82
+Quick Bites,Ulsoor,374
+Quick Bites,Whitefield,721
+Quick Bites,others,1861
+"Quick Bites, Bakery",Banashankari,2
+"Quick Bites, Bakery",Brigade Road,17
+"Quick Bites, Bakery",Frazer Town,4
+"Quick Bites, Bakery",HSR,7
+"Quick Bites, Bakery",Malleshwaram,7
+"Quick Bites, Bakery",Richmond Road,17
+"Quick Bites, Bakery",Shanti Nagar,6
+"Quick Bites, Beverage Shop",BTM,18
+"Quick Bites, Beverage Shop",Banashankari,2
+"Quick Bites, Beverage Shop",Bellandur,2
+"Quick Bites, Beverage Shop",Commercial Street,17
+"Quick Bites, Beverage Shop",Electronic City,2
+"Quick Bites, Beverage Shop",HSR,8
+"Quick Bites, Beverage Shop",Indiranagar,11
+"Quick Bites, Beverage Shop",JP Nagar,11
+"Quick Bites, Beverage Shop",Koramangala 4th Block,4
+"Quick Bites, Beverage Shop",Marathahalli,5
+"Quick Bites, Beverage Shop",New BEL Road,8
+"Quick Bites, Beverage Shop",Sarjapur Road,3
+"Quick Bites, Beverage Shop",Whitefield,3
+"Quick Bites, Beverage Shop",others,7
+"Quick Bites, Cafe",Banashankari,3
+"Quick Bites, Cafe",Banaswadi,4
+"Quick Bites, Cafe",Bannerghatta Road,4
+"Quick Bites, Cafe",JP Nagar,5
+"Quick Bites, Cafe",Jayanagar,15
+"Quick Bites, Cafe",Whitefield,9
+"Quick Bites, Cafe",others,1
+"Quick Bites, Dessert Parlor",BTM,17
+"Quick Bites, Dessert Parlor",Bannerghatta Road,3
+"Quick Bites, Dessert Parlor",Brigade Road,17
+"Quick Bites, Dessert Parlor",Brookefield,7
+"Quick Bites, Dessert Parlor",Electronic City,2
+"Quick Bites, Dessert Parlor",Frazer Town,1
+"Quick Bites, Dessert Parlor",HSR,5
+"Quick Bites, Dessert Parlor",Jayanagar,10
+"Quick Bites, Dessert Parlor",Marathahalli,9
+"Quick Bites, Dessert Parlor",Sarjapur Road,6
+"Quick Bites, Dessert Parlor",others,7
+"Quick Bites, Food Court",Bellandur,3
+"Quick Bites, Food Court",Koramangala 5th Block,8
+"Quick Bites, Food Court",Malleshwaram,4
+"Quick Bites, Food Court",Whitefield,3
+"Quick Bites, Food Court",others,1
+"Quick Bites, Kiosk",Kalyan Nagar,1
+"Quick Bites, Meat Shop",Kalyan Nagar,4
+"Quick Bites, Mess",Banaswadi,4
+"Quick Bites, Sweet Shop",BTM,18
+"Quick Bites, Sweet Shop",Bannerghatta Road,1
+"Quick Bites, Sweet Shop",Bellandur,6
+"Quick Bites, Sweet Shop",Electronic City,3
+"Quick Bites, Sweet Shop",HSR,2
+"Quick Bites, Sweet Shop",Indiranagar,7
+"Quick Bites, Sweet Shop",JP Nagar,2
+"Quick Bites, Sweet Shop",Koramangala 7th Block,19
+"Quick Bites, Sweet Shop",Marathahalli,10
+"Quick Bites, Sweet Shop",Sarjapur Road,5
+"Quick Bites, Sweet Shop",others,2
+Sweet Shop,BTM,50
+Sweet Shop,Banashankari,18
+Sweet Shop,Banaswadi,2
+Sweet Shop,Bannerghatta Road,22
+Sweet Shop,Basavanagudi,6
+Sweet Shop,Bellandur,6
+Sweet Shop,Brookefield,11
+Sweet Shop,Commercial Street,31
+Sweet Shop,Electronic City,8
+Sweet Shop,Frazer Town,3
+Sweet Shop,HSR,18
+Sweet Shop,Indiranagar,14
+Sweet Shop,JP Nagar,8
+Sweet Shop,Jayanagar,40
+Sweet Shop,Kammanahalli,9
+Sweet Shop,Koramangala 1st Block,26
+Sweet Shop,Koramangala 4th Block,5
+Sweet Shop,Koramangala 5th Block,26
+Sweet Shop,Koramangala 6th Block,10
+Sweet Shop,Koramangala 8th Block,4
+Sweet Shop,MG Road,5
+Sweet Shop,Malleshwaram,18
+Sweet Shop,Marathahalli,13
+Sweet Shop,New BEL Road,1
+Sweet Shop,Old Airport Road,5
+Sweet Shop,Rajajinagar,9
+Sweet Shop,Richmond Road,5
+Sweet Shop,Sarjapur Road,4
+Sweet Shop,Shivajinagar,6
+Sweet Shop,Whitefield,27
+Sweet Shop,others,58
+"Sweet Shop, Dessert Parlor",Basavanagudi,1
+"Sweet Shop, Quick Bites",BTM,26
+"Sweet Shop, Quick Bites",Banashankari,5
+"Sweet Shop, Quick Bites",Banaswadi,5
+"Sweet Shop, Quick Bites",Bannerghatta Road,1
+"Sweet Shop, Quick Bites",Basavanagudi,11
+"Sweet Shop, Quick Bites",Bellandur,4
+"Sweet Shop, Quick Bites",Brigade Road,8
+"Sweet Shop, Quick Bites",Frazer Town,3
+"Sweet Shop, Quick Bites",HSR,6
+"Sweet Shop, Quick Bites",Indiranagar,6
+"Sweet Shop, Quick Bites",JP Nagar,3
+"Sweet Shop, Quick Bites",Jayanagar,8
+"Sweet Shop, Quick Bites",Kalyan Nagar,4
+"Sweet Shop, Quick Bites",Kammanahalli,5
+"Sweet Shop, Quick Bites",Koramangala 6th Block,13
+"Sweet Shop, Quick Bites",MG Road,11
+"Sweet Shop, Quick Bites",Malleshwaram,3
+"Sweet Shop, Quick Bites",Marathahalli,1
+"Sweet Shop, Quick Bites",New BEL Road,1
+"Sweet Shop, Quick Bites",Sarjapur Road,6
+"Sweet Shop, Quick Bites",Ulsoor,4
+"Sweet Shop, Quick Bites",Whitefield,12
+"Sweet Shop, Quick Bites",others,32
+Takeaway,BTM,26
+Takeaway,Banashankari,3
+Takeaway,Bannerghatta Road,1
+Takeaway,Bellandur,2
+Takeaway,Electronic City,2
+Takeaway,HSR,9
+Takeaway,Indiranagar,10
+Takeaway,JP Nagar,12
+Takeaway,Jayanagar,7
+Takeaway,Koramangala 7th Block,4
+Takeaway,MG Road,2
+Takeaway,Sarjapur Road,3
+Takeaway,Shanti Nagar,3
+Takeaway,Whitefield,4
+Takeaway,others,32
+"Takeaway, Delivery",BTM,334
+"Takeaway, Delivery",Banashankari,17
+"Takeaway, Delivery",Banaswadi,22
+"Takeaway, Delivery",Bannerghatta Road,60
+"Takeaway, Delivery",Basavanagudi,4
+"Takeaway, Delivery",Bellandur,65
+"Takeaway, Delivery",Brigade Road,10
+"Takeaway, Delivery",Brookefield,10
+"Takeaway, Delivery",Commercial Street,6
+"Takeaway, Delivery",Domlur,15
+"Takeaway, Delivery",Ejipura,19
+"Takeaway, Delivery",Electronic City,60
+"Takeaway, Delivery",Frazer Town,40
+"Takeaway, Delivery",HSR,243
+"Takeaway, Delivery",Indiranagar,86
+"Takeaway, Delivery",JP Nagar,125
+"Takeaway, Delivery",Jayanagar,13
+"Takeaway, Delivery",Kalyan Nagar,17
+"Takeaway, Delivery",Kammanahalli,42
+"Takeaway, Delivery",Koramangala 1st Block,98
+"Takeaway, Delivery",Koramangala 4th Block,30
+"Takeaway, Delivery",Koramangala 5th Block,48
+"Takeaway, Delivery",Koramangala 6th Block,28
+"Takeaway, Delivery",Koramangala 7th Block,31
+"Takeaway, Delivery",Koramangala 8th Block,16
+"Takeaway, Delivery",MG Road,12
+"Takeaway, Delivery",Malleshwaram,6
+"Takeaway, Delivery",Marathahalli,71
+"Takeaway, Delivery",New BEL Road,16
+"Takeaway, Delivery",Old Airport Road,17
+"Takeaway, Delivery",Rajajinagar,24
+"Takeaway, Delivery",Residency Road,22
+"Takeaway, Delivery",Richmond Road,16
+"Takeaway, Delivery",Sarjapur Road,31
+"Takeaway, Delivery",Shanti Nagar,20
+"Takeaway, Delivery",Shivajinagar,12
+"Takeaway, Delivery",Ulsoor,21
+"Takeaway, Delivery",Whitefield,103
+"Takeaway, Delivery",others,222

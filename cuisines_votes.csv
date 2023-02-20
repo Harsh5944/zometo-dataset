@@ -1,0 +1,7060 @@
+cuisines,votes,name
+Andhra,0,47
+Andhra,4,12
+Andhra,5,9
+Andhra,6,2
+Andhra,7,2
+Andhra,8,6
+Andhra,9,2
+Andhra,10,1
+Andhra,11,3
+Andhra,12,2
+Andhra,13,7
+Andhra,16,2
+Andhra,18,2
+Andhra,21,14
+Andhra,22,10
+Andhra,23,13
+Andhra,41,2
+Andhra,45,2
+Andhra,46,5
+Andhra,48,1
+Andhra,51,1
+Andhra,57,1
+Andhra,70,2
+Andhra,71,1
+Andhra,83,2
+Andhra,85,2
+Andhra,175,2
+Andhra,177,1
+Andhra,178,2
+Andhra,240,2
+Andhra,779,1
+Andhra,781,3
+Andhra,785,4
+Andhra,787,3
+"Andhra, Biryani",0,39
+"Andhra, Biryani",4,1
+"Andhra, Biryani",6,1
+"Andhra, Biryani",7,2
+"Andhra, Biryani",9,1
+"Andhra, Biryani",11,2
+"Andhra, Biryani",13,2
+"Andhra, Biryani",14,2
+"Andhra, Biryani",16,7
+"Andhra, Biryani",18,2
+"Andhra, Biryani",22,2
+"Andhra, Biryani",52,2
+"Andhra, Biryani",59,4
+"Andhra, Biryani",60,6
+"Andhra, Biryani",68,9
+"Andhra, Biryani",87,2
+"Andhra, Biryani",108,2
+"Andhra, Biryani",110,2
+"Andhra, Biryani",111,5
+"Andhra, Biryani",131,1
+"Andhra, Biryani",135,1
+"Andhra, Biryani",136,2
+"Andhra, Biryani",146,1
+"Andhra, Biryani",158,1
+"Andhra, Biryani",187,3
+"Andhra, Biryani",188,1
+"Andhra, Biryani",189,2
+"Andhra, Biryani",190,1
+"Andhra, Biryani",196,2
+"Andhra, Biryani",212,1
+"Andhra, Biryani",289,2
+"Andhra, Biryani",321,1
+"Andhra, Biryani",325,1
+"Andhra, Biryani",326,2
+"Andhra, Biryani",327,5
+"Andhra, Biryani",330,1
+"Andhra, Biryani",344,2
+"Andhra, Biryani",920,1
+"Andhra, Biryani",923,1
+"Andhra, Biryani",927,1
+"Andhra, Biryani",950,1
+"Andhra, Biryani",970,1
+"Andhra, Biryani",1278,1
+"Andhra, Biryani",1292,2
+"Andhra, Biryani",1772,2
+"Andhra, Biryani",1773,2
+"Andhra, Biryani",1789,2
+"Andhra, Biryani",1792,2
+"Andhra, Biryani",1796,1
+"Andhra, Biryani",1817,1
+"Andhra, Biryani",1926,2
+Arabian,0,39
+Arabian,8,10
+Arabian,9,3
+Arabian,10,4
+Arabian,11,4
+Arabian,13,5
+Arabian,14,3
+Arabian,16,2
+Arabian,18,1
+Arabian,20,2
+Arabian,21,3
+Arabian,30,3
+Arabian,31,2
+Arabian,32,2
+Arabian,41,4
+Arabian,66,2
+Arabian,78,3
+Arabian,79,1
+Arabian,80,5
+Arabian,82,4
+Arabian,89,1
+Arabian,96,1
+Arabian,110,3
+Arabian,111,3
+Arabian,117,1
+Arabian,118,3
+Arabian,137,2
+Arabian,160,1
+Arabian,170,1
+Arabian,175,1
+Arabian,176,2
+Arabian,179,2
+Arabian,197,1
+Arabian,198,1
+Arabian,201,3
+Arabian,219,3
+Arabian,224,1
+Arabian,381,6
+Arabian,382,5
+Arabian,405,2
+Arabian,407,2
+Arabian,410,1
+Arabian,412,3
+Arabian,413,1
+Arabian,414,1
+Arabian,792,1
+Arabian,794,1
+Bakery,0,274
+Bakery,4,24
+Bakery,5,13
+Bakery,6,19
+Bakery,7,12
+Bakery,8,16
+Bakery,9,4
+Bakery,10,11
+Bakery,11,22
+Bakery,12,5
+Bakery,13,2
+Bakery,14,10
+Bakery,15,18
+Bakery,16,4
+Bakery,17,8
+Bakery,19,12
+Bakery,20,4
+Bakery,21,3
+Bakery,22,6
+Bakery,23,29
+Bakery,24,8
+Bakery,25,7
+Bakery,27,7
+Bakery,30,4
+Bakery,31,4
+Bakery,33,5
+Bakery,34,2
+Bakery,35,2
+Bakery,36,15
+Bakery,37,12
+Bakery,38,2
+Bakery,39,1
+Bakery,40,2
+Bakery,41,21
+Bakery,43,1
+Bakery,44,2
+Bakery,45,2
+Bakery,49,2
+Bakery,50,2
+Bakery,51,1
+Bakery,53,1
+Bakery,56,2
+Bakery,59,1
+Bakery,60,1
+Bakery,63,1
+Bakery,67,1
+Bakery,71,4
+Bakery,73,4
+Bakery,74,2
+Bakery,77,1
+Bakery,78,2
+Bakery,81,1
+Bakery,83,1
+Bakery,84,2
+Bakery,95,1
+Bakery,97,1
+Bakery,98,2
+Bakery,100,11
+Bakery,102,1
+Bakery,130,2
+Bakery,142,4
+Bakery,146,1
+Bakery,148,1
+Bakery,245,1
+Bakery,502,1
+Bakery,544,3
+"Bakery, Desserts",0,295
+"Bakery, Desserts",4,20
+"Bakery, Desserts",5,17
+"Bakery, Desserts",6,41
+"Bakery, Desserts",7,7
+"Bakery, Desserts",8,22
+"Bakery, Desserts",9,8
+"Bakery, Desserts",10,6
+"Bakery, Desserts",11,22
+"Bakery, Desserts",12,8
+"Bakery, Desserts",13,8
+"Bakery, Desserts",14,11
+"Bakery, Desserts",15,7
+"Bakery, Desserts",16,8
+"Bakery, Desserts",17,12
+"Bakery, Desserts",18,8
+"Bakery, Desserts",19,11
+"Bakery, Desserts",20,14
+"Bakery, Desserts",21,8
+"Bakery, Desserts",22,9
+"Bakery, Desserts",23,8
+"Bakery, Desserts",24,13
+"Bakery, Desserts",25,13
+"Bakery, Desserts",26,7
+"Bakery, Desserts",27,2
+"Bakery, Desserts",28,13
+"Bakery, Desserts",29,11
+"Bakery, Desserts",30,1
+"Bakery, Desserts",31,4
+"Bakery, Desserts",32,5
+"Bakery, Desserts",33,17
+"Bakery, Desserts",34,6
+"Bakery, Desserts",35,9
+"Bakery, Desserts",36,5
+"Bakery, Desserts",37,1
+"Bakery, Desserts",38,8
+"Bakery, Desserts",39,8
+"Bakery, Desserts",40,1
+"Bakery, Desserts",41,3
+"Bakery, Desserts",42,6
+"Bakery, Desserts",44,3
+"Bakery, Desserts",45,1
+"Bakery, Desserts",46,2
+"Bakery, Desserts",48,6
+"Bakery, Desserts",49,5
+"Bakery, Desserts",50,5
+"Bakery, Desserts",51,4
+"Bakery, Desserts",52,2
+"Bakery, Desserts",53,2
+"Bakery, Desserts",54,1
+"Bakery, Desserts",55,1
+"Bakery, Desserts",56,5
+"Bakery, Desserts",57,1
+"Bakery, Desserts",58,2
+"Bakery, Desserts",60,2
+"Bakery, Desserts",65,2
+"Bakery, Desserts",66,4
+"Bakery, Desserts",68,1
+"Bakery, Desserts",69,2
+"Bakery, Desserts",71,1
+"Bakery, Desserts",72,1
+"Bakery, Desserts",73,1
+"Bakery, Desserts",74,3
+"Bakery, Desserts",75,6
+"Bakery, Desserts",76,9
+"Bakery, Desserts",78,8
+"Bakery, Desserts",79,1
+"Bakery, Desserts",81,6
+"Bakery, Desserts",82,1
+"Bakery, Desserts",83,2
+"Bakery, Desserts",87,2
+"Bakery, Desserts",88,2
+"Bakery, Desserts",89,1
+"Bakery, Desserts",90,3
+"Bakery, Desserts",91,6
+"Bakery, Desserts",92,4
+"Bakery, Desserts",93,7
+"Bakery, Desserts",94,2
+"Bakery, Desserts",95,5
+"Bakery, Desserts",96,1
+"Bakery, Desserts",97,2
+"Bakery, Desserts",98,4
+"Bakery, Desserts",99,4
+"Bakery, Desserts",104,1
+"Bakery, Desserts",119,1
+"Bakery, Desserts",120,1
+"Bakery, Desserts",122,1
+"Bakery, Desserts",123,7
+"Bakery, Desserts",124,3
+"Bakery, Desserts",126,2
+"Bakery, Desserts",127,2
+"Bakery, Desserts",132,1
+"Bakery, Desserts",133,4
+"Bakery, Desserts",134,2
+"Bakery, Desserts",142,10
+"Bakery, Desserts",153,2
+"Bakery, Desserts",154,1
+"Bakery, Desserts",157,1
+"Bakery, Desserts",158,1
+"Bakery, Desserts",171,1
+"Bakery, Desserts",175,2
+"Bakery, Desserts",179,2
+"Bakery, Desserts",180,3
+"Bakery, Desserts",181,2
+"Bakery, Desserts",184,1
+"Bakery, Desserts",189,2
+"Bakery, Desserts",190,6
+"Bakery, Desserts",191,1
+"Bakery, Desserts",193,1
+"Bakery, Desserts",217,1
+"Bakery, Desserts",228,1
+"Bakery, Desserts",229,1
+"Bakery, Desserts",230,1
+"Bakery, Desserts",232,3
+"Bakery, Desserts",241,4
+"Bakery, Desserts",338,1
+"Bakery, Desserts",342,1
+"Bakery, Desserts",434,1
+"Bakery, Desserts",659,1
+"Bakery, Desserts",661,1
+"Bakery, Desserts",665,1
+"Bakery, Desserts",666,2
+"Bakery, Desserts",673,1
+"Bakery, Desserts",683,2
+"Bakery, Desserts",888,2
+"Bakery, Desserts",889,1
+"Bakery, Desserts",891,1
+"Bakery, Desserts",894,2
+"Bakery, Desserts",895,3
+"Bakery, Desserts",1156,1
+"Bakery, Desserts",1161,1
+"Bakery, Fast Food",0,73
+"Bakery, Fast Food",4,6
+"Bakery, Fast Food",7,3
+"Bakery, Fast Food",8,1
+"Bakery, Fast Food",9,7
+"Bakery, Fast Food",10,2
+"Bakery, Fast Food",11,2
+"Bakery, Fast Food",14,12
+"Bakery, Fast Food",18,1
+"Bakery, Fast Food",19,2
+"Bakery, Fast Food",20,1
+"Bakery, Fast Food",21,4
+"Bakery, Fast Food",23,4
+"Bakery, Fast Food",25,4
+"Bakery, Fast Food",27,1
+"Bakery, Fast Food",29,1
+"Bakery, Fast Food",30,5
+"Bakery, Fast Food",31,3
+"Bakery, Fast Food",32,2
+"Bakery, Fast Food",34,7
+"Bakery, Fast Food",35,3
+"Bakery, Fast Food",36,1
+"Bakery, Fast Food",37,6
+"Bakery, Fast Food",39,2
+"Bakery, Fast Food",49,2
+"Bakery, Fast Food",50,2
+"Bakery, Fast Food",52,4
+"Bakery, Fast Food",53,4
+"Bakery, Fast Food",55,2
+"Bakery, Fast Food",60,5
+"Bakery, Fast Food",111,6
+"Bakery, Fast Food",132,1
+"Bakery, Fast Food",133,1
+"Bakery, Fast Food",186,6
+"Bakery, Fast Food",187,3
+"Bakery, Fast Food",188,1
+"Bakery, Fast Food",189,1
+"Bakery, Fast Food",208,1
+"Bakery, Fast Food",211,6
+"Bakery, Fast Food",215,2
+"Bakery, Fast Food",346,1
+Beverages,0,111
+Beverages,4,18
+Beverages,5,12
+Beverages,6,18
+Beverages,7,14
+Beverages,8,19
+Beverages,9,13
+Beverages,10,3
+Beverages,11,2
+Beverages,12,3
+Beverages,13,4
+Beverages,15,2
+Beverages,16,2
+Beverages,18,1
+Beverages,20,1
+Beverages,25,2
+Beverages,26,1
+Beverages,28,4
+Beverages,29,1
+Beverages,39,6
+Beverages,40,8
+Beverages,41,10
+Beverages,45,3
+Beverages,47,4
+Beverages,48,1
+Beverages,54,8
+Beverages,55,3
+Beverages,56,3
+Beverages,87,9
+Beverages,96,2
+Beverages,105,2
+Beverages,135,1
+Beverages,169,1
+Beverages,210,1
+Beverages,248,1
+Beverages,249,6
+Beverages,250,1
+"Beverages, Desserts",0,48
+"Beverages, Desserts",9,2
+"Beverages, Desserts",11,2
+"Beverages, Desserts",12,2
+"Beverages, Desserts",15,1
+"Beverages, Desserts",16,11
+"Beverages, Desserts",18,2
+"Beverages, Desserts",23,7
+"Beverages, Desserts",25,6
+"Beverages, Desserts",28,2
+"Beverages, Desserts",46,2
+"Beverages, Desserts",49,1
+"Beverages, Desserts",58,2
+"Beverages, Desserts",61,4
+"Beverages, Desserts",70,2
+"Beverages, Desserts",73,3
+"Beverages, Desserts",82,1
+"Beverages, Desserts",95,6
+"Beverages, Desserts",96,2
+"Beverages, Desserts",99,1
+"Beverages, Desserts",110,1
+"Beverages, Desserts",121,1
+"Beverages, Desserts",141,1
+"Beverages, Desserts",143,2
+"Beverages, Desserts",149,9
+"Beverages, Desserts",154,1
+"Beverages, Desserts",209,2
+"Beverages, Desserts",210,4
+"Beverages, Desserts",820,1
+"Beverages, Desserts",822,1
+"Beverages, Fast Food",0,32
+"Beverages, Fast Food",4,4
+"Beverages, Fast Food",5,9
+"Beverages, Fast Food",6,3
+"Beverages, Fast Food",8,12
+"Beverages, Fast Food",9,2
+"Beverages, Fast Food",10,7
+"Beverages, Fast Food",11,8
+"Beverages, Fast Food",12,4
+"Beverages, Fast Food",13,6
+"Beverages, Fast Food",14,6
+"Beverages, Fast Food",15,1
+"Beverages, Fast Food",16,6
+"Beverages, Fast Food",17,4
+"Beverages, Fast Food",18,5
+"Beverages, Fast Food",19,1
+"Beverages, Fast Food",20,5
+"Beverages, Fast Food",21,3
+"Beverages, Fast Food",23,5
+"Beverages, Fast Food",24,1
+"Beverages, Fast Food",25,5
+"Beverages, Fast Food",29,5
+"Beverages, Fast Food",30,5
+"Beverages, Fast Food",31,3
+"Beverages, Fast Food",32,1
+"Beverages, Fast Food",35,3
+"Beverages, Fast Food",36,1
+"Beverages, Fast Food",40,6
+"Beverages, Fast Food",41,2
+"Beverages, Fast Food",42,2
+"Beverages, Fast Food",43,8
+"Beverages, Fast Food",44,4
+"Beverages, Fast Food",45,3
+"Beverages, Fast Food",47,1
+"Beverages, Fast Food",48,5
+"Beverages, Fast Food",49,2
+"Beverages, Fast Food",52,3
+"Beverages, Fast Food",55,2
+"Beverages, Fast Food",60,4
+"Beverages, Fast Food",64,2
+"Beverages, Fast Food",65,1
+"Beverages, Fast Food",66,1
+"Beverages, Fast Food",68,2
+"Beverages, Fast Food",93,1
+"Beverages, Fast Food",94,6
+"Beverages, Fast Food",97,1
+"Beverages, Fast Food",98,1
+"Beverages, Fast Food",115,4
+"Beverages, Fast Food",116,1
+"Beverages, Fast Food",119,1
+"Beverages, Fast Food",120,2
+"Beverages, Fast Food",122,9
+"Beverages, Fast Food",124,4
+"Beverages, Fast Food",125,3
+"Beverages, Fast Food",152,1
+"Beverages, Fast Food",159,2
+"Beverages, Fast Food",164,5
+"Beverages, Fast Food",165,1
+"Beverages, Fast Food",184,2
+"Beverages, Fast Food",209,1
+"Beverages, Fast Food",210,1
+"Beverages, Fast Food",288,2
+"Beverages, Fast Food",290,1
+"Beverages, Fast Food",658,2
+"Beverages, Fast Food",659,2
+Biryani,0,306
+Biryani,4,42
+Biryani,5,15
+Biryani,6,47
+Biryani,7,22
+Biryani,8,22
+Biryani,9,30
+Biryani,10,12
+Biryani,11,11
+Biryani,12,9
+Biryani,13,29
+Biryani,14,2
+Biryani,15,9
+Biryani,16,8
+Biryani,17,8
+Biryani,18,9
+Biryani,21,18
+Biryani,22,1
+Biryani,23,4
+Biryani,24,10
+Biryani,26,18
+Biryani,27,10
+Biryani,28,7
+Biryani,29,1
+Biryani,30,1
+Biryani,31,2
+Biryani,36,1
+Biryani,37,2
+Biryani,38,1
+Biryani,39,1
+Biryani,40,2
+Biryani,41,13
+Biryani,43,2
+Biryani,44,4
+Biryani,45,9
+Biryani,46,6
+Biryani,47,4
+Biryani,49,10
+Biryani,50,6
+Biryani,51,4
+Biryani,55,4
+Biryani,56,2
+Biryani,57,2
+Biryani,58,2
+Biryani,59,4
+Biryani,62,2
+Biryani,63,1
+Biryani,64,3
+Biryani,65,2
+Biryani,66,6
+Biryani,68,4
+Biryani,70,11
+Biryani,74,3
+Biryani,77,5
+Biryani,80,1
+Biryani,85,1
+Biryani,88,1
+Biryani,90,3
+Biryani,91,2
+Biryani,99,1
+Biryani,101,2
+Biryani,102,2
+Biryani,105,1
+Biryani,114,2
+Biryani,115,1
+Biryani,117,10
+Biryani,126,2
+Biryani,128,3
+Biryani,129,2
+Biryani,131,1
+Biryani,138,1
+Biryani,147,1
+Biryani,160,2
+Biryani,161,6
+Biryani,162,2
+Biryani,163,6
+Biryani,164,1
+Biryani,166,1
+Biryani,167,1
+Biryani,173,5
+Biryani,177,4
+Biryani,180,1
+Biryani,183,1
+Biryani,185,3
+Biryani,187,1
+Biryani,189,1
+Biryani,190,2
+Biryani,214,2
+Biryani,218,2
+Biryani,221,1
+Biryani,223,1
+Biryani,230,2
+Biryani,232,2
+Biryani,234,1
+Biryani,240,3
+Biryani,249,1
+Biryani,278,8
+Biryani,296,6
+Biryani,297,2
+Biryani,301,1
+Biryani,302,2
+Biryani,303,4
+Biryani,349,1
+Biryani,356,1
+Biryani,357,2
+Biryani,358,2
+Biryani,359,1
+Biryani,365,1
+Biryani,374,1
+Biryani,375,4
+Biryani,472,2
+Biryani,473,1
+Biryani,474,2
+Biryani,492,1
+Biryani,494,2
+Biryani,496,1
+Biryani,627,2
+Biryani,634,2
+Biryani,782,1
+Biryani,783,1
+Biryani,1071,1
+Biryani,1073,1
+Biryani,1076,1
+Biryani,1080,2
+Biryani,1081,1
+"Biryani, Fast Food",0,55
+"Biryani, Fast Food",4,5
+"Biryani, Fast Food",6,15
+"Biryani, Fast Food",7,6
+"Biryani, Fast Food",10,4
+"Biryani, Fast Food",11,10
+"Biryani, Fast Food",17,1
+"Biryani, Fast Food",24,1
+"Biryani, Fast Food",25,1
+"Biryani, Fast Food",38,2
+"Biryani, Fast Food",41,2
+"Biryani, Fast Food",51,1
+"Biryani, Fast Food",55,5
+"Biryani, Fast Food",56,6
+"Biryani, Fast Food",68,6
+"Biryani, Fast Food",69,2
+"Biryani, Fast Food",70,4
+"Biryani, Fast Food",73,2
+"Biryani, Fast Food",101,3
+"Biryani, Fast Food",104,4
+"Biryani, Fast Food",155,2
+"Biryani, Fast Food",162,2
+"Biryani, Fast Food",164,3
+"Biryani, Fast Food",166,2
+"Biryani, Fast Food",167,1
+"Biryani, Fast Food",171,2
+"Biryani, Fast Food",173,1
+"Biryani, Fast Food",189,1
+"Biryani, Fast Food",191,5
+"Biryani, Fast Food",192,3
+"Biryani, Fast Food",259,1
+"Biryani, Fast Food",261,4
+"Biryani, Fast Food",263,1
+"Biryani, Fast Food",334,1
+"Biryani, Fast Food",339,2
+"Biryani, Kebab",0,117
+"Biryani, Kebab",4,2
+"Biryani, Kebab",5,3
+"Biryani, Kebab",6,16
+"Biryani, Kebab",7,13
+"Biryani, Kebab",10,5
+"Biryani, Kebab",11,3
+"Biryani, Kebab",15,1
+"Biryani, Kebab",16,3
+"Biryani, Kebab",17,10
+"Biryani, Kebab",18,1
+"Biryani, Kebab",19,1
+"Biryani, Kebab",20,2
+"Biryani, Kebab",22,2
+"Biryani, Kebab",23,2
+"Biryani, Kebab",33,1
+"Biryani, Kebab",35,9
+"Biryani, Kebab",62,5
+"Biryani, Kebab",63,4
+"Biryani, Kebab",64,2
+"Biryani, Kebab",73,1
+"Biryani, Kebab",94,1
+"Biryani, Kebab",99,3
+"Biryani, Kebab",101,1
+"Biryani, Kebab",118,6
+"Biryani, Kebab",119,3
+"Biryani, Kebab",140,2
+"Biryani, Kebab",161,2
+"Biryani, Kebab",162,1
+"Biryani, Kebab",163,1
+"Biryani, Kebab",175,4
+"Biryani, Kebab",176,2
+"Biryani, Kebab",215,2
+"Biryani, Kebab",216,2
+"Biryani, Kebab",220,3
+"Biryani, Kebab",226,1
+"Biryani, Kebab",227,3
+"Biryani, Kebab",228,1
+"Biryani, Kebab",257,8
+"Biryani, Kebab",279,2
+"Biryani, Kebab",294,2
+"Biryani, Kebab",297,2
+"Biryani, Kebab",373,1
+"Biryani, Kebab",374,3
+"Biryani, Kebab",380,3
+"Biryani, Kebab",383,1
+"Biryani, Kebab",386,1
+"Biryani, Kebab",391,1
+"Biryani, Kebab",424,1
+"Biryani, Kebab",425,1
+"Biryani, Kebab",426,1
+"Biryani, Kebab",428,1
+"Biryani, Kebab",429,1
+"Biryani, Kebab",430,1
+"Biryani, Kebab",682,2
+"Biryani, Kebab",778,2
+"Biryani, Kebab",894,2
+"Biryani, Kebab",897,1
+"Biryani, North Indian",0,62
+"Biryani, North Indian",4,6
+"Biryani, North Indian",5,6
+"Biryani, North Indian",6,3
+"Biryani, North Indian",7,8
+"Biryani, North Indian",8,6
+"Biryani, North Indian",9,2
+"Biryani, North Indian",10,4
+"Biryani, North Indian",11,12
+"Biryani, North Indian",12,4
+"Biryani, North Indian",13,1
+"Biryani, North Indian",14,2
+"Biryani, North Indian",15,1
+"Biryani, North Indian",17,8
+"Biryani, North Indian",19,8
+"Biryani, North Indian",20,4
+"Biryani, North Indian",21,9
+"Biryani, North Indian",22,4
+"Biryani, North Indian",24,2
+"Biryani, North Indian",28,4
+"Biryani, North Indian",30,2
+"Biryani, North Indian",36,1
+"Biryani, North Indian",37,3
+"Biryani, North Indian",38,3
+"Biryani, North Indian",39,1
+"Biryani, North Indian",40,2
+"Biryani, North Indian",41,3
+"Biryani, North Indian",43,4
+"Biryani, North Indian",44,1
+"Biryani, North Indian",45,3
+"Biryani, North Indian",46,2
+"Biryani, North Indian",52,2
+"Biryani, North Indian",53,1
+"Biryani, North Indian",57,1
+"Biryani, North Indian",58,5
+"Biryani, North Indian",59,3
+"Biryani, North Indian",71,2
+"Biryani, North Indian",73,1
+"Biryani, North Indian",77,2
+"Biryani, North Indian",114,2
+"Biryani, North Indian",128,1
+"Biryani, North Indian",129,1
+"Biryani, North Indian",131,2
+"Biryani, North Indian",137,4
+"Biryani, North Indian",139,3
+"Biryani, North Indian",171,4
+"Biryani, North Indian",181,1
+"Biryani, North Indian",193,1
+"Biryani, North Indian",197,1
+"Biryani, North Indian",231,4
+"Biryani, North Indian",254,3
+"Biryani, North Indian",256,4
+"Biryani, North Indian",257,2
+"Biryani, North Indian",334,11
+"Biryani, North Indian",342,4
+"Biryani, North Indian",392,10
+"Biryani, North Indian",406,5
+"Biryani, North Indian",439,3
+"Biryani, North Indian",1369,1
+"Biryani, North Indian",1788,2
+"Biryani, North Indian",1799,2
+"Biryani, North Indian, Chinese",0,10
+"Biryani, North Indian, Chinese",4,1
+"Biryani, North Indian, Chinese",7,5
+"Biryani, North Indian, Chinese",11,3
+"Biryani, North Indian, Chinese",13,3
+"Biryani, North Indian, Chinese",14,1
+"Biryani, North Indian, Chinese",19,2
+"Biryani, North Indian, Chinese",20,1
+"Biryani, North Indian, Chinese",21,1
+"Biryani, North Indian, Chinese",22,1
+"Biryani, North Indian, Chinese",24,3
+"Biryani, North Indian, Chinese",33,2
+"Biryani, North Indian, Chinese",37,2
+"Biryani, North Indian, Chinese",45,1
+"Biryani, North Indian, Chinese",49,1
+"Biryani, North Indian, Chinese",50,2
+"Biryani, North Indian, Chinese",96,4
+"Biryani, North Indian, Chinese",97,4
+"Biryani, North Indian, Chinese",100,2
+"Biryani, North Indian, Chinese",102,1
+"Biryani, North Indian, Chinese",103,2
+"Biryani, North Indian, Chinese",132,7
+"Biryani, North Indian, Chinese",133,3
+"Biryani, North Indian, Chinese",135,2
+"Biryani, North Indian, Chinese",161,3
+"Biryani, North Indian, Chinese",168,1
+"Biryani, North Indian, Chinese",198,1
+"Biryani, North Indian, Chinese",199,1
+"Biryani, North Indian, Chinese",218,4
+"Biryani, North Indian, Chinese",220,1
+"Biryani, North Indian, Chinese",221,6
+"Biryani, North Indian, Chinese",222,1
+"Biryani, North Indian, Chinese",225,2
+"Biryani, North Indian, Chinese",229,2
+"Biryani, North Indian, Chinese",243,2
+"Biryani, North Indian, Chinese",244,2
+"Biryani, North Indian, Chinese",246,4
+"Biryani, North Indian, Chinese",255,2
+"Biryani, North Indian, Chinese",283,5
+"Biryani, North Indian, Chinese",298,9
+"Biryani, North Indian, Chinese",374,1
+"Biryani, North Indian, Chinese",378,2
+"Biryani, North Indian, Chinese",387,2
+"Biryani, North Indian, Chinese",395,2
+"Biryani, North Indian, Chinese",429,1
+"Biryani, North Indian, Chinese",434,2
+"Biryani, North Indian, Chinese",794,1
+"Biryani, North Indian, Chinese",796,1
+"Biryani, North Indian, Chinese",798,2
+"Biryani, North Indian, Chinese",833,5
+"Biryani, North Indian, Chinese",1348,2
+"Biryani, North Indian, Chinese",1352,2
+"Biryani, North Indian, Chinese",1363,4
+"Biryani, North Indian, Chinese",1364,2
+"Biryani, North Indian, Chinese",1615,2
+"Biryani, North Indian, Chinese",1626,1
+"Biryani, North Indian, Chinese",1627,1
+"Biryani, North Indian, Chinese",4401,2
+"Biryani, North Indian, Chinese",4432,1
+"Biryani, North Indian, Chinese",4455,1
+"Biryani, South Indian",0,38
+"Biryani, South Indian",4,6
+"Biryani, South Indian",5,4
+"Biryani, South Indian",7,3
+"Biryani, South Indian",8,4
+"Biryani, South Indian",9,16
+"Biryani, South Indian",17,2
+"Biryani, South Indian",28,2
+"Biryani, South Indian",32,8
+"Biryani, South Indian",42,2
+"Biryani, South Indian",43,1
+"Biryani, South Indian",44,1
+"Biryani, South Indian",60,6
+"Biryani, South Indian",62,5
+"Biryani, South Indian",65,10
+"Biryani, South Indian",72,1
+"Biryani, South Indian",73,2
+"Biryani, South Indian",74,1
+"Biryani, South Indian",120,3
+"Biryani, South Indian",121,2
+"Biryani, South Indian",175,2
+"Biryani, South Indian",281,2
+"Biryani, South Indian",282,2
+"Biryani, South Indian",283,3
+"Biryani, South Indian",1176,1
+"Burger, Fast Food",0,15
+"Burger, Fast Food",4,2
+"Burger, Fast Food",5,1
+"Burger, Fast Food",10,2
+"Burger, Fast Food",11,3
+"Burger, Fast Food",12,1
+"Burger, Fast Food",18,6
+"Burger, Fast Food",19,3
+"Burger, Fast Food",20,1
+"Burger, Fast Food",29,2
+"Burger, Fast Food",30,2
+"Burger, Fast Food",59,1
+"Burger, Fast Food",62,1
+"Burger, Fast Food",79,2
+"Burger, Fast Food",91,1
+"Burger, Fast Food",92,1
+"Burger, Fast Food",106,1
+"Burger, Fast Food",115,1
+"Burger, Fast Food",116,1
+"Burger, Fast Food",119,1
+"Burger, Fast Food",123,1
+"Burger, Fast Food",136,2
+"Burger, Fast Food",154,1
+"Burger, Fast Food",164,1
+"Burger, Fast Food",167,3
+"Burger, Fast Food",168,1
+"Burger, Fast Food",169,1
+"Burger, Fast Food",171,3
+"Burger, Fast Food",172,3
+"Burger, Fast Food",184,5
+"Burger, Fast Food",191,1
+"Burger, Fast Food",192,2
+"Burger, Fast Food",199,1
+"Burger, Fast Food",200,1
+"Burger, Fast Food",201,1
+"Burger, Fast Food",205,1
+"Burger, Fast Food",206,3
+"Burger, Fast Food",209,2
+"Burger, Fast Food",211,1
+"Burger, Fast Food",212,1
+"Burger, Fast Food",215,2
+"Burger, Fast Food",217,1
+"Burger, Fast Food",246,1
+"Burger, Fast Food",256,2
+"Burger, Fast Food",258,3
+"Burger, Fast Food",262,2
+"Burger, Fast Food",263,1
+"Burger, Fast Food",276,2
+"Burger, Fast Food",281,2
+"Burger, Fast Food",286,2
+"Burger, Fast Food",288,6
+"Burger, Fast Food",295,1
+"Burger, Fast Food",319,1
+"Burger, Fast Food",325,1
+"Burger, Fast Food",327,1
+"Burger, Fast Food",331,1
+"Burger, Fast Food",332,5
+"Burger, Fast Food",345,1
+"Burger, Fast Food",348,1
+"Burger, Fast Food",351,2
+"Burger, Fast Food",358,2
+"Burger, Fast Food",369,1
+"Burger, Fast Food",373,2
+"Burger, Fast Food",380,1
+"Burger, Fast Food",386,3
+"Burger, Fast Food",388,2
+"Burger, Fast Food",393,2
+"Burger, Fast Food",394,2
+"Burger, Fast Food",398,1
+"Burger, Fast Food",404,1
+"Burger, Fast Food",420,1
+"Burger, Fast Food",421,1
+"Burger, Fast Food",437,1
+"Burger, Fast Food",440,1
+"Burger, Fast Food",476,1
+"Burger, Fast Food",477,1
+"Burger, Fast Food",480,1
+"Burger, Fast Food",505,3
+"Burger, Fast Food",509,1
+"Burger, Fast Food",510,3
+"Burger, Fast Food",536,2
+"Burger, Fast Food",581,2
+"Burger, Fast Food",616,2
+"Burger, Fast Food",621,2
+"Burger, Fast Food",622,1
+"Burger, Fast Food",630,2
+"Burger, Fast Food",639,1
+"Burger, Fast Food",646,1
+"Burger, Fast Food",654,1
+"Burger, Fast Food",668,1
+"Burger, Fast Food",682,1
+"Burger, Fast Food",1344,1
+"Burger, Fast Food",1345,1
+Cafe,0,114
+Cafe,4,3
+Cafe,6,28
+Cafe,7,25
+Cafe,8,2
+Cafe,9,37
+Cafe,10,21
+Cafe,11,7
+Cafe,12,4
+Cafe,13,9
+Cafe,14,17
+Cafe,16,19
+Cafe,17,6
+Cafe,18,23
+Cafe,21,7
+Cafe,22,4
+Cafe,23,4
+Cafe,24,19
+Cafe,25,3
+Cafe,26,2
+Cafe,27,11
+Cafe,29,4
+Cafe,30,22
+Cafe,31,9
+Cafe,32,2
+Cafe,33,9
+Cafe,35,17
+Cafe,36,3
+Cafe,37,3
+Cafe,38,1
+Cafe,45,3
+Cafe,46,18
+Cafe,47,7
+Cafe,48,2
+Cafe,49,11
+Cafe,50,13
+Cafe,56,5
+Cafe,57,1
+Cafe,59,1
+Cafe,60,5
+Cafe,61,31
+Cafe,62,4
+Cafe,63,14
+Cafe,64,3
+Cafe,66,4
+Cafe,69,3
+Cafe,70,2
+Cafe,71,9
+Cafe,72,2
+Cafe,73,2
+Cafe,77,1
+Cafe,78,1
+Cafe,80,4
+Cafe,90,9
+Cafe,91,1
+Cafe,92,5
+Cafe,94,1
+Cafe,97,3
+Cafe,104,2
+Cafe,113,2
+Cafe,114,4
+Cafe,117,2
+Cafe,136,2
+Cafe,138,3
+Cafe,142,5
+Cafe,158,1
+Cafe,167,2
+Cafe,171,3
+Cafe,174,3
+Cafe,177,6
+Cafe,190,3
+Cafe,191,3
+Cafe,192,9
+Cafe,193,1
+Cafe,211,1
+Cafe,227,7
+Cafe,240,4
+Cafe,241,4
+Cafe,259,3
+Cafe,260,7
+Cafe,261,3
+Cafe,262,3
+Cafe,263,3
+Cafe,275,10
+Cafe,277,1
+Cafe,282,1
+Cafe,284,2
+Cafe,287,3
+Cafe,288,1
+Cafe,289,1
+Cafe,367,4
+Cafe,388,4
+Cafe,402,3
+Cafe,704,1
+Cafe,713,3
+Cafe,714,1
+Cafe,737,1
+Cafe,858,2
+Cafe,1012,1
+Cafe,1229,1
+Cafe,1236,2
+Cafe,1238,3
+Cafe,1241,5
+Cafe,1243,1
+Cafe,1266,1
+Cafe,1269,3
+Cafe,1275,4
+Cafe,2635,1
+Cafe,2638,2
+Cafe,2645,2
+Cafe,2650,1
+Cafe,2652,3
+Cafe,2662,1
+"Cafe, Bakery",0,9
+"Cafe, Bakery",5,3
+"Cafe, Bakery",6,11
+"Cafe, Bakery",11,4
+"Cafe, Bakery",22,16
+"Cafe, Bakery",33,6
+"Cafe, Bakery",69,10
+"Cafe, Bakery",114,3
+"Cafe, Bakery",115,7
+"Cafe, Bakery",116,4
+"Cafe, Bakery",118,4
+"Cafe, Bakery",119,3
+"Cafe, Bakery",121,4
+"Cafe, Bakery",124,4
+"Cafe, Bakery",147,4
+"Cafe, Bakery",203,1
+"Cafe, Bakery",204,8
+"Cafe, Bakery",205,3
+"Cafe, Bakery",207,1
+"Cafe, Bakery",722,3
+"Cafe, Bakery",723,1
+"Cafe, Continental",0,20
+"Cafe, Continental",7,6
+"Cafe, Continental",10,5
+"Cafe, Continental",11,1
+"Cafe, Continental",35,1
+"Cafe, Continental",36,6
+"Cafe, Continental",44,7
+"Cafe, Continental",45,4
+"Cafe, Continental",46,7
+"Cafe, Continental",69,3
+"Cafe, Continental",74,1
+"Cafe, Continental",90,6
+"Cafe, Continental",93,9
+"Cafe, Continental",96,4
+"Cafe, Continental",109,2
+"Cafe, Continental",129,3
+"Cafe, Continental",130,1
+"Cafe, Continental",135,1
+"Cafe, Continental",138,2
+"Cafe, Continental",139,1
+"Cafe, Continental",140,3
+"Cafe, Continental",141,2
+"Cafe, Continental",142,1
+"Cafe, Continental",148,2
+"Cafe, Continental",154,1
+"Cafe, Continental",155,6
+"Cafe, Continental",200,2
+"Cafe, Continental",314,5
+"Cafe, Continental",315,3
+"Cafe, Continental",337,1
+"Cafe, Continental",338,5
+"Cafe, Continental",362,7
+"Cafe, Continental",364,1
+"Cafe, Continental",365,1
+"Cafe, Continental",424,2
+"Cafe, Continental",552,1
+"Cafe, Continental",554,2
+"Cafe, Continental",555,1
+"Cafe, Continental",778,7
+"Cafe, Continental",779,6
+"Cafe, Continental",1509,3
+"Cafe, Continental",1510,1
+"Cafe, Continental",1512,1
+"Cafe, Continental",1513,2
+"Cafe, Continental",1515,4
+"Cafe, Continental",1519,4
+"Cafe, Continental",1852,1
+"Cafe, Continental",1855,3
+"Cafe, Continental",1876,1
+"Cafe, Continental",1918,1
+"Cafe, Continental",1920,1
+"Cafe, Desserts",0,14
+"Cafe, Desserts",6,1
+"Cafe, Desserts",15,2
+"Cafe, Desserts",24,3
+"Cafe, Desserts",34,4
+"Cafe, Desserts",35,4
+"Cafe, Desserts",36,1
+"Cafe, Desserts",37,1
+"Cafe, Desserts",38,2
+"Cafe, Desserts",39,2
+"Cafe, Desserts",52,2
+"Cafe, Desserts",83,1
+"Cafe, Desserts",85,1
+"Cafe, Desserts",86,2
+"Cafe, Desserts",87,7
+"Cafe, Desserts",108,5
+"Cafe, Desserts",109,1
+"Cafe, Desserts",110,1
+"Cafe, Desserts",134,2
+"Cafe, Desserts",135,2
+"Cafe, Desserts",153,12
+"Cafe, Desserts",154,1
+"Cafe, Desserts",155,2
+"Cafe, Desserts",166,2
+"Cafe, Desserts",168,2
+"Cafe, Desserts",169,5
+"Cafe, Desserts",170,4
+"Cafe, Desserts",177,1
+"Cafe, Desserts",386,3
+"Cafe, Desserts",399,1
+"Cafe, Desserts",400,1
+"Cafe, Desserts",526,1
+"Cafe, Desserts",583,5
+"Cafe, Desserts",591,1
+"Cafe, Desserts",592,4
+"Cafe, Desserts",652,4
+"Cafe, Desserts",654,4
+"Cafe, Desserts",655,4
+"Cafe, Desserts",657,7
+"Cafe, Desserts",658,6
+"Cafe, Desserts",1095,1
+"Cafe, Desserts",1099,1
+"Cafe, Desserts",1130,1
+"Cafe, Desserts",1132,1
+"Cafe, Desserts",1355,1
+"Cafe, Desserts",1358,1
+"Cafe, Desserts",1359,2
+"Cafe, Fast Food",0,37
+"Cafe, Fast Food",6,3
+"Cafe, Fast Food",7,14
+"Cafe, Fast Food",8,4
+"Cafe, Fast Food",9,1
+"Cafe, Fast Food",10,4
+"Cafe, Fast Food",11,8
+"Cafe, Fast Food",12,5
+"Cafe, Fast Food",13,5
+"Cafe, Fast Food",15,8
+"Cafe, Fast Food",16,4
+"Cafe, Fast Food",17,11
+"Cafe, Fast Food",18,1
+"Cafe, Fast Food",19,2
+"Cafe, Fast Food",20,3
+"Cafe, Fast Food",21,1
+"Cafe, Fast Food",22,17
+"Cafe, Fast Food",23,1
+"Cafe, Fast Food",25,1
+"Cafe, Fast Food",26,8
+"Cafe, Fast Food",27,2
+"Cafe, Fast Food",28,3
+"Cafe, Fast Food",30,5
+"Cafe, Fast Food",31,3
+"Cafe, Fast Food",33,2
+"Cafe, Fast Food",34,3
+"Cafe, Fast Food",36,1
+"Cafe, Fast Food",37,1
+"Cafe, Fast Food",40,3
+"Cafe, Fast Food",42,2
+"Cafe, Fast Food",43,1
+"Cafe, Fast Food",44,1
+"Cafe, Fast Food",48,6
+"Cafe, Fast Food",49,4
+"Cafe, Fast Food",55,1
+"Cafe, Fast Food",58,9
+"Cafe, Fast Food",59,6
+"Cafe, Fast Food",61,2
+"Cafe, Fast Food",62,1
+"Cafe, Fast Food",63,1
+"Cafe, Fast Food",65,2
+"Cafe, Fast Food",72,4
+"Cafe, Fast Food",74,5
+"Cafe, Fast Food",75,1
+"Cafe, Fast Food",76,6
+"Cafe, Fast Food",77,6
+"Cafe, Fast Food",78,1
+"Cafe, Fast Food",128,3
+"Cafe, Fast Food",147,3
+"Cafe, Fast Food",209,1
+"Cafe, Fast Food",236,3
+Chinese,0,145
+Chinese,4,30
+Chinese,5,30
+Chinese,6,21
+Chinese,7,3
+Chinese,8,11
+Chinese,9,7
+Chinese,10,1
+Chinese,11,4
+Chinese,12,5
+Chinese,14,1
+Chinese,15,1
+Chinese,16,2
+Chinese,17,9
+Chinese,18,2
+Chinese,19,1
+Chinese,21,2
+Chinese,22,16
+Chinese,23,14
+Chinese,24,2
+Chinese,25,3
+Chinese,26,1
+Chinese,27,2
+Chinese,30,2
+Chinese,34,1
+Chinese,37,2
+Chinese,38,6
+Chinese,39,3
+Chinese,41,8
+Chinese,42,4
+Chinese,49,1
+Chinese,50,4
+Chinese,55,1
+Chinese,56,4
+Chinese,58,7
+Chinese,59,4
+Chinese,61,2
+Chinese,64,2
+Chinese,72,1
+Chinese,79,2
+Chinese,80,6
+Chinese,84,2
+Chinese,85,2
+Chinese,86,2
+Chinese,87,3
+Chinese,95,2
+Chinese,101,2
+Chinese,102,8
+Chinese,112,2
+Chinese,113,1
+Chinese,114,2
+Chinese,115,3
+Chinese,116,3
+Chinese,118,11
+Chinese,127,2
+Chinese,134,2
+Chinese,136,1
+Chinese,146,8
+Chinese,149,3
+Chinese,168,3
+Chinese,171,3
+Chinese,188,1
+Chinese,189,1
+Chinese,200,2
+Chinese,201,2
+Chinese,221,3
+Chinese,224,1
+Chinese,225,2
+Chinese,234,3
+Chinese,247,2
+Chinese,248,4
+Chinese,249,2
+Chinese,254,11
+Chinese,283,4
+Chinese,382,2
+Chinese,384,2
+Chinese,424,4
+Chinese,430,4
+Chinese,432,1
+Chinese,438,5
+Chinese,455,5
+Chinese,457,9
+Chinese,514,1
+Chinese,1065,1
+Chinese,1150,3
+Chinese,1157,3
+Chinese,1187,3
+Chinese,1189,2
+Chinese,1191,2
+Chinese,1195,2
+Chinese,1199,1
+Chinese,1418,4
+Chinese,1426,1
+Chinese,1428,1
+Chinese,1429,2
+Chinese,1431,3
+Chinese,1542,1
+Chinese,1554,2
+Chinese,1555,1
+Chinese,1562,2
+Chinese,1851,2
+Chinese,1853,2
+Chinese,1854,4
+Chinese,1856,3
+"Chinese, Momos",0,13
+"Chinese, Momos",4,2
+"Chinese, Momos",5,4
+"Chinese, Momos",12,2
+"Chinese, Momos",13,4
+"Chinese, Momos",15,1
+"Chinese, Momos",22,1
+"Chinese, Momos",23,1
+"Chinese, Momos",27,6
+"Chinese, Momos",32,14
+"Chinese, Momos",36,1
+"Chinese, Momos",42,2
+"Chinese, Momos",43,3
+"Chinese, Momos",45,2
+"Chinese, Momos",49,2
+"Chinese, Momos",52,1
+"Chinese, Momos",63,2
+"Chinese, Momos",68,3
+"Chinese, Momos",70,2
+"Chinese, Momos",71,1
+"Chinese, Momos",73,1
+"Chinese, Momos",76,2
+"Chinese, Momos",79,1
+"Chinese, Momos",82,3
+"Chinese, Momos",84,1
+"Chinese, Momos",85,1
+"Chinese, Momos",86,1
+"Chinese, Momos",87,2
+"Chinese, Momos",89,4
+"Chinese, Momos",98,3
+"Chinese, Momos",100,4
+"Chinese, Momos",101,3
+"Chinese, Momos",102,1
+"Chinese, Momos",103,3
+"Chinese, Momos",109,3
+"Chinese, Momos",112,1
+"Chinese, Momos",123,2
+"Chinese, Momos",125,3
+"Chinese, Momos",126,6
+"Chinese, Momos",128,1
+"Chinese, Momos",129,2
+"Chinese, Momos",146,2
+"Chinese, Momos",147,2
+"Chinese, Momos",155,3
+"Chinese, Momos",163,1
+"Chinese, Momos",186,4
+"Chinese, Momos",198,1
+"Chinese, Momos",199,2
+"Chinese, Momos",201,1
+"Chinese, Momos",202,3
+"Chinese, Momos",205,1
+"Chinese, Momos",209,8
+"Chinese, Momos",210,2
+"Chinese, Momos",220,2
+"Chinese, Momos",221,1
+"Chinese, Momos",222,6
+"Chinese, Momos",263,2
+"Chinese, Momos",264,2
+"Chinese, Momos",324,1
+"Chinese, Momos",327,2
+"Chinese, Momos",449,3
+"Chinese, Momos",454,2
+"Chinese, Momos",457,1
+"Chinese, Momos",500,6
+"Chinese, Momos",508,1
+"Chinese, Momos",509,5
+"Chinese, Momos",512,2
+"Chinese, Momos",586,1
+"Chinese, Momos",587,1
+"Chinese, Momos",588,2
+"Chinese, Momos",589,2
+"Chinese, Momos",590,1
+"Chinese, Momos",592,1
+"Chinese, Momos",625,2
+"Chinese, Momos",626,7
+"Chinese, Momos",823,11
+"Chinese, Momos",881,1
+"Chinese, Momos",885,2
+"Chinese, Momos",891,1
+"Chinese, Momos",939,1
+"Chinese, Momos",943,1
+"Chinese, Momos",944,1
+"Chinese, Momos",1013,3
+"Chinese, Momos",1070,2
+"Chinese, Momos",1394,4
+"Chinese, Momos",1401,4
+"Chinese, Momos",1507,3
+"Chinese, Momos",1512,3
+"Chinese, Momos",1777,1
+"Chinese, Momos",1810,2
+"Chinese, North Indian",0,73
+"Chinese, North Indian",4,17
+"Chinese, North Indian",5,20
+"Chinese, North Indian",6,43
+"Chinese, North Indian",7,4
+"Chinese, North Indian",8,8
+"Chinese, North Indian",10,2
+"Chinese, North Indian",11,4
+"Chinese, North Indian",14,6
+"Chinese, North Indian",16,3
+"Chinese, North Indian",18,4
+"Chinese, North Indian",21,4
+"Chinese, North Indian",22,6
+"Chinese, North Indian",23,4
+"Chinese, North Indian",24,3
+"Chinese, North Indian",25,8
+"Chinese, North Indian",26,16
+"Chinese, North Indian",27,6
+"Chinese, North Indian",28,2
+"Chinese, North Indian",30,9
+"Chinese, North Indian",31,9
+"Chinese, North Indian",32,4
+"Chinese, North Indian",33,2
+"Chinese, North Indian",34,4
+"Chinese, North Indian",37,2
+"Chinese, North Indian",42,10
+"Chinese, North Indian",43,2
+"Chinese, North Indian",44,7
+"Chinese, North Indian",49,2
+"Chinese, North Indian",50,2
+"Chinese, North Indian",54,5
+"Chinese, North Indian",57,5
+"Chinese, North Indian",59,4
+"Chinese, North Indian",60,2
+"Chinese, North Indian",65,6
+"Chinese, North Indian",70,7
+"Chinese, North Indian",73,9
+"Chinese, North Indian",74,3
+"Chinese, North Indian",76,2
+"Chinese, North Indian",86,6
+"Chinese, North Indian",88,1
+"Chinese, North Indian",106,3
+"Chinese, North Indian",112,2
+"Chinese, North Indian",115,8
+"Chinese, North Indian",117,1
+"Chinese, North Indian",119,3
+"Chinese, North Indian",120,2
+"Chinese, North Indian",126,2
+"Chinese, North Indian",127,2
+"Chinese, North Indian",132,3
+"Chinese, North Indian",136,1
+"Chinese, North Indian",141,1
+"Chinese, North Indian",175,7
+"Chinese, North Indian",177,2
+"Chinese, North Indian",178,3
+"Chinese, North Indian",192,2
+"Chinese, North Indian",202,1
+"Chinese, North Indian",205,2
+"Chinese, North Indian",207,2
+"Chinese, North Indian",209,2
+"Chinese, North Indian",210,1
+"Chinese, North Indian",211,1
+"Chinese, North Indian",213,2
+"Chinese, North Indian",214,2
+"Chinese, North Indian",223,2
+"Chinese, North Indian",303,2
+"Chinese, North Indian",464,7
+"Chinese, North Indian",507,2
+"Chinese, North Indian",515,2
+"Chinese, North Indian",571,3
+"Chinese, North Indian",572,1
+"Chinese, North Indian",739,3
+"Chinese, North Indian",740,2
+"Chinese, Thai",0,21
+"Chinese, Thai",5,2
+"Chinese, Thai",7,2
+"Chinese, Thai",17,2
+"Chinese, Thai",18,4
+"Chinese, Thai",21,1
+"Chinese, Thai",29,9
+"Chinese, Thai",32,1
+"Chinese, Thai",34,1
+"Chinese, Thai",35,3
+"Chinese, Thai",37,1
+"Chinese, Thai",38,1
+"Chinese, Thai",57,7
+"Chinese, Thai",59,1
+"Chinese, Thai",75,2
+"Chinese, Thai",81,10
+"Chinese, Thai",99,2
+"Chinese, Thai",116,2
+"Chinese, Thai",118,5
+"Chinese, Thai",128,3
+"Chinese, Thai",160,5
+"Chinese, Thai",161,4
+"Chinese, Thai",162,4
+"Chinese, Thai",175,2
+"Chinese, Thai",181,1
+"Chinese, Thai",189,1
+"Chinese, Thai",198,1
+"Chinese, Thai",221,2
+"Chinese, Thai",262,4
+"Chinese, Thai",265,4
+"Chinese, Thai",266,2
+"Chinese, Thai",282,2
+"Chinese, Thai",292,2
+"Chinese, Thai",300,1
+"Chinese, Thai",314,1
+"Chinese, Thai",330,2
+"Chinese, Thai",331,3
+"Chinese, Thai",332,5
+"Chinese, Thai",341,1
+"Chinese, Thai",351,2
+"Chinese, Thai",355,1
+"Chinese, Thai",373,2
+"Chinese, Thai",396,1
+"Chinese, Thai",400,2
+"Chinese, Thai",411,1
+"Chinese, Thai",421,4
+"Chinese, Thai",455,1
+"Chinese, Thai",456,3
+"Chinese, Thai",457,5
+"Chinese, Thai",479,2
+"Chinese, Thai",497,2
+"Chinese, Thai",499,1
+"Chinese, Thai",501,2
+"Chinese, Thai",514,1
+"Chinese, Thai",679,1
+"Chinese, Thai",688,2
+"Chinese, Thai",690,2
+"Chinese, Thai",777,1
+"Chinese, Thai",778,1
+"Chinese, Thai",859,2
+"Chinese, Thai",864,1
+"Chinese, Thai, Momos",0,1
+"Chinese, Thai, Momos",9,6
+"Chinese, Thai, Momos",10,1
+"Chinese, Thai, Momos",11,1
+"Chinese, Thai, Momos",16,2
+"Chinese, Thai, Momos",17,2
+"Chinese, Thai, Momos",18,1
+"Chinese, Thai, Momos",19,10
+"Chinese, Thai, Momos",20,1
+"Chinese, Thai, Momos",23,1
+"Chinese, Thai, Momos",25,2
+"Chinese, Thai, Momos",55,2
+"Chinese, Thai, Momos",56,2
+"Chinese, Thai, Momos",86,2
+"Chinese, Thai, Momos",118,3
+"Chinese, Thai, Momos",120,1
+"Chinese, Thai, Momos",122,5
+"Chinese, Thai, Momos",123,1
+"Chinese, Thai, Momos",125,2
+"Chinese, Thai, Momos",163,1
+"Chinese, Thai, Momos",164,1
+"Chinese, Thai, Momos",180,1
+"Chinese, Thai, Momos",181,1
+"Chinese, Thai, Momos",182,1
+"Chinese, Thai, Momos",184,2
+"Chinese, Thai, Momos",210,2
+"Chinese, Thai, Momos",219,1
+"Chinese, Thai, Momos",306,4
+"Chinese, Thai, Momos",311,1
+"Chinese, Thai, Momos",323,2
+"Chinese, Thai, Momos",329,1
+"Chinese, Thai, Momos",330,1
+"Chinese, Thai, Momos",347,3
+"Chinese, Thai, Momos",349,3
+"Chinese, Thai, Momos",448,3
+"Chinese, Thai, Momos",449,1
+"Chinese, Thai, Momos",519,1
+"Chinese, Thai, Momos",522,1
+"Chinese, Thai, Momos",523,7
+"Chinese, Thai, Momos",647,2
+"Chinese, Thai, Momos",652,2
+"Chinese, Thai, Momos",820,3
+"Chinese, Thai, Momos",1647,4
+"Chinese, Thai, Momos",1654,1
+"Chinese, Thai, Momos",2241,3
+"Chinese, Thai, Momos",2245,1
+"Chinese, Thai, Momos",2246,1
+"Chinese, Thai, Momos",2248,6
+"Chinese, Thai, Momos",2254,4
+Continental,0,38
+Continental,4,4
+Continental,6,7
+Continental,7,5
+Continental,8,1
+Continental,9,5
+Continental,10,3
+Continental,11,7
+Continental,12,2
+Continental,15,2
+Continental,16,1
+Continental,17,1
+Continental,26,8
+Continental,27,7
+Continental,34,7
+Continental,35,2
+Continental,37,2
+Continental,43,4
+Continental,44,6
+Continental,46,2
+Continental,47,2
+Continental,51,4
+Continental,54,5
+Continental,57,2
+Continental,64,2
+Continental,65,6
+Continental,77,6
+Continental,113,2
+Continental,116,1
+Continental,130,13
+Continental,150,1
+Continental,151,3
+Continental,152,1
+Continental,167,3
+Continental,168,1
+Continental,175,1
+Continental,176,1
+Continental,178,3
+Continental,344,2
+Continental,348,3
+Continental,608,4
+Continental,609,2
+Continental,611,1
+Continental,612,2
+Continental,613,2
+Continental,3116,2
+Continental,3119,2
+Continental,3130,1
+Continental,3133,2
+Continental,3140,2
+Desserts,0,209
+Desserts,4,4
+Desserts,5,19
+Desserts,6,18
+Desserts,7,11
+Desserts,8,11
+Desserts,9,26
+Desserts,10,7
+Desserts,11,2
+Desserts,12,7
+Desserts,13,14
+Desserts,14,10
+Desserts,16,14
+Desserts,17,27
+Desserts,18,21
+Desserts,19,11
+Desserts,20,4
+Desserts,22,8
+Desserts,23,8
+Desserts,24,1
+Desserts,25,4
+Desserts,26,14
+Desserts,28,4
+Desserts,29,11
+Desserts,30,10
+Desserts,31,4
+Desserts,33,13
+Desserts,35,2
+Desserts,36,3
+Desserts,39,1
+Desserts,40,2
+Desserts,41,1
+Desserts,42,2
+Desserts,47,6
+Desserts,48,8
+Desserts,50,3
+Desserts,53,9
+Desserts,54,6
+Desserts,55,6
+Desserts,57,3
+Desserts,58,9
+Desserts,59,3
+Desserts,60,3
+Desserts,62,10
+Desserts,63,3
+Desserts,66,1
+Desserts,67,2
+Desserts,68,12
+Desserts,69,6
+Desserts,70,8
+Desserts,71,3
+Desserts,72,1
+Desserts,75,2
+Desserts,78,2
+Desserts,79,6
+Desserts,81,2
+Desserts,84,2
+Desserts,90,2
+Desserts,93,3
+Desserts,94,1
+Desserts,104,1
+Desserts,106,1
+Desserts,127,2
+Desserts,129,3
+Desserts,131,1
+Desserts,132,2
+Desserts,147,6
+Desserts,157,16
+Desserts,162,1
+Desserts,163,3
+Desserts,178,3
+Desserts,181,4
+Desserts,182,1
+Desserts,183,2
+Desserts,184,2
+Desserts,186,2
+Desserts,187,2
+Desserts,189,6
+Desserts,191,4
+Desserts,192,4
+Desserts,193,1
+Desserts,197,1
+Desserts,198,1
+Desserts,201,1
+Desserts,236,2
+Desserts,265,4
+Desserts,289,5
+Desserts,290,1
+Desserts,292,1
+Desserts,299,2
+Desserts,348,2
+Desserts,349,1
+Desserts,350,1
+Desserts,359,2
+Desserts,360,2
+Desserts,391,1
+Desserts,392,1
+Desserts,431,1
+Desserts,433,6
+Desserts,434,2
+Desserts,624,2
+Desserts,631,3
+Desserts,734,2
+Desserts,1735,1
+Desserts,1743,1
+Desserts,1744,2
+Desserts,1746,2
+Desserts,1749,4
+Desserts,1750,2
+Desserts,1822,1
+Desserts,1899,2
+Desserts,1901,2
+Desserts,1902,6
+Desserts,1904,1
+"Desserts, Bakery",0,39
+"Desserts, Bakery",6,6
+"Desserts, Bakery",7,3
+"Desserts, Bakery",8,8
+"Desserts, Bakery",9,4
+"Desserts, Bakery",10,8
+"Desserts, Bakery",11,12
+"Desserts, Bakery",14,2
+"Desserts, Bakery",22,4
+"Desserts, Bakery",23,4
+"Desserts, Bakery",24,4
+"Desserts, Bakery",25,2
+"Desserts, Bakery",26,8
+"Desserts, Bakery",27,10
+"Desserts, Bakery",29,11
+"Desserts, Bakery",32,3
+"Desserts, Bakery",33,6
+"Desserts, Bakery",34,2
+"Desserts, Bakery",35,1
+"Desserts, Bakery",36,4
+"Desserts, Bakery",41,4
+"Desserts, Bakery",42,2
+"Desserts, Bakery",43,2
+"Desserts, Bakery",50,4
+"Desserts, Bakery",51,2
+"Desserts, Bakery",56,1
+"Desserts, Bakery",72,2
+"Desserts, Bakery",89,2
+"Desserts, Bakery",90,2
+"Desserts, Bakery",104,1
+"Desserts, Bakery",106,1
+"Desserts, Bakery",111,5
+"Desserts, Bakery",113,3
+"Desserts, Bakery",127,2
+"Desserts, Bakery",128,2
+"Desserts, Bakery",164,2
+"Desserts, Bakery",177,2
+"Desserts, Bakery",179,2
+"Desserts, Bakery",274,2
+"Desserts, Bakery",366,3
+"Desserts, Bakery",535,1
+"Desserts, Bakery",536,3
+"Desserts, Bakery",537,1
+"Desserts, Bakery",540,1
+"Desserts, Bakery",541,1
+"Desserts, Bakery",542,2
+"Desserts, Bakery",723,2
+"Desserts, Bakery",724,5
+"Desserts, Beverages",0,18
+"Desserts, Beverages",4,1
+"Desserts, Beverages",8,2
+"Desserts, Beverages",10,8
+"Desserts, Beverages",14,3
+"Desserts, Beverages",15,1
+"Desserts, Beverages",16,1
+"Desserts, Beverages",17,2
+"Desserts, Beverages",19,2
+"Desserts, Beverages",24,1
+"Desserts, Beverages",31,8
+"Desserts, Beverages",32,4
+"Desserts, Beverages",34,1
+"Desserts, Beverages",35,2
+"Desserts, Beverages",44,2
+"Desserts, Beverages",47,12
+"Desserts, Beverages",48,1
+"Desserts, Beverages",49,5
+"Desserts, Beverages",50,1
+"Desserts, Beverages",53,10
+"Desserts, Beverages",56,2
+"Desserts, Beverages",58,1
+"Desserts, Beverages",63,1
+"Desserts, Beverages",69,1
+"Desserts, Beverages",70,2
+"Desserts, Beverages",71,3
+"Desserts, Beverages",73,4
+"Desserts, Beverages",74,3
+"Desserts, Beverages",75,2
+"Desserts, Beverages",77,7
+"Desserts, Beverages",78,4
+"Desserts, Beverages",80,2
+"Desserts, Beverages",82,2
+"Desserts, Beverages",87,4
+"Desserts, Beverages",95,2
+"Desserts, Beverages",96,1
+"Desserts, Beverages",117,1
+"Desserts, Beverages",118,1
+"Desserts, Beverages",119,1
+"Desserts, Beverages",121,3
+"Desserts, Beverages",129,2
+"Desserts, Beverages",130,4
+"Desserts, Beverages",131,2
+"Desserts, Beverages",132,1
+"Desserts, Beverages",135,2
+"Desserts, Beverages",141,1
+"Desserts, Beverages",143,1
+"Desserts, Beverages",144,1
+"Desserts, Beverages",150,3
+"Desserts, Beverages",151,7
+"Desserts, Beverages",152,2
+"Desserts, Beverages",169,10
+"Desserts, Beverages",178,1
+"Desserts, Beverages",180,5
+"Desserts, Beverages",184,1
+"Desserts, Beverages",196,2
+"Desserts, Beverages",197,2
+"Desserts, Beverages",215,2
+"Desserts, Beverages",216,3
+"Desserts, Beverages",221,2
+"Desserts, Beverages",222,3
+"Desserts, Beverages",249,2
+"Desserts, Beverages",251,3
+"Desserts, Beverages",253,6
+"Desserts, Beverages",254,1
+"Desserts, Beverages",259,2
+"Desserts, Beverages",261,3
+"Desserts, Beverages",319,1
+"Desserts, Beverages",321,2
+"Desserts, Beverages",340,4
+"Desserts, Beverages",341,2
+"Desserts, Beverages",356,2
+"Desserts, Beverages",358,1
+"Desserts, Beverages",359,2
+"Desserts, Beverages",360,2
+"Desserts, Beverages",362,1
+"Desserts, Beverages",432,4
+"Desserts, Beverages",447,1
+"Desserts, Beverages",448,2
+"Desserts, Beverages",449,1
+"Desserts, Beverages",502,1
+"Desserts, Beverages",549,1
+"Desserts, Beverages",554,1
+"Desserts, Beverages",556,1
+"Desserts, Beverages",557,1
+"Desserts, Beverages",558,1
+"Desserts, Beverages",560,1
+"Desserts, Beverages",563,1
+"Desserts, Beverages",565,1
+"Desserts, Beverages",583,1
+"Desserts, Beverages",600,4
+"Desserts, Beverages",602,3
+"Desserts, Beverages",603,3
+"Desserts, Beverages",605,1
+"Desserts, Beverages",743,2
+"Desserts, Beverages",833,1
+"Desserts, Beverages",834,2
+"Desserts, Beverages",835,1
+"Desserts, Beverages",1022,3
+"Desserts, Beverages",1023,3
+"Desserts, Ice Cream",0,110
+"Desserts, Ice Cream",4,6
+"Desserts, Ice Cream",5,1
+"Desserts, Ice Cream",6,2
+"Desserts, Ice Cream",7,1
+"Desserts, Ice Cream",8,15
+"Desserts, Ice Cream",9,6
+"Desserts, Ice Cream",10,6
+"Desserts, Ice Cream",13,1
+"Desserts, Ice Cream",14,2
+"Desserts, Ice Cream",16,2
+"Desserts, Ice Cream",17,9
+"Desserts, Ice Cream",18,5
+"Desserts, Ice Cream",19,1
+"Desserts, Ice Cream",20,7
+"Desserts, Ice Cream",21,6
+"Desserts, Ice Cream",22,1
+"Desserts, Ice Cream",24,1
+"Desserts, Ice Cream",25,4
+"Desserts, Ice Cream",28,5
+"Desserts, Ice Cream",32,1
+"Desserts, Ice Cream",33,1
+"Desserts, Ice Cream",38,2
+"Desserts, Ice Cream",39,2
+"Desserts, Ice Cream",40,2
+"Desserts, Ice Cream",41,14
+"Desserts, Ice Cream",42,9
+"Desserts, Ice Cream",43,5
+"Desserts, Ice Cream",44,2
+"Desserts, Ice Cream",45,3
+"Desserts, Ice Cream",46,1
+"Desserts, Ice Cream",47,3
+"Desserts, Ice Cream",48,4
+"Desserts, Ice Cream",53,1
+"Desserts, Ice Cream",54,1
+"Desserts, Ice Cream",56,6
+"Desserts, Ice Cream",58,6
+"Desserts, Ice Cream",68,3
+"Desserts, Ice Cream",69,8
+"Desserts, Ice Cream",94,1
+"Desserts, Ice Cream",102,3
+"Desserts, Ice Cream",103,3
+"Desserts, Ice Cream",107,1
+"Desserts, Ice Cream",108,1
+"Desserts, Ice Cream",116,4
+"Desserts, Ice Cream",120,4
+"Desserts, Ice Cream",122,2
+"Desserts, Ice Cream",123,2
+"Desserts, Ice Cream",124,2
+"Desserts, Ice Cream",125,1
+"Desserts, Ice Cream",138,1
+"Desserts, Ice Cream",139,1
+"Desserts, Ice Cream",140,1
+"Desserts, Ice Cream",145,2
+"Desserts, Ice Cream",149,1
+"Desserts, Ice Cream",179,2
+"Desserts, Ice Cream",182,2
+"Desserts, Ice Cream",183,2
+"Desserts, Ice Cream",184,4
+"Desserts, Ice Cream",185,2
+"Desserts, Ice Cream",192,2
+"Desserts, Ice Cream",193,4
+"Desserts, Ice Cream",194,1
+"Desserts, Ice Cream",228,1
+"Desserts, Ice Cream",230,2
+"Desserts, Ice Cream",234,1
+"Desserts, Ice Cream",239,2
+"Desserts, Ice Cream",240,1
+"Desserts, Ice Cream",242,1
+"Desserts, Ice Cream",255,3
+"Desserts, Ice Cream",275,2
+"Desserts, Ice Cream",282,2
+"Desserts, Ice Cream",284,2
+"Desserts, Ice Cream",287,2
+"Desserts, Ice Cream",491,1
+"Desserts, Ice Cream",493,1
+"Desserts, Ice Cream",494,1
+"Desserts, Ice Cream",499,1
+"Desserts, Ice Cream",507,1
+"Desserts, Ice Cream",511,9
+"Desserts, Ice Cream",860,4
+"Desserts, Ice Cream",864,1
+"Desserts, Ice Cream",865,1
+Fast Food,0,284
+Fast Food,4,42
+Fast Food,5,22
+Fast Food,6,25
+Fast Food,7,22
+Fast Food,8,24
+Fast Food,9,11
+Fast Food,10,3
+Fast Food,11,24
+Fast Food,12,15
+Fast Food,13,12
+Fast Food,14,4
+Fast Food,15,16
+Fast Food,16,7
+Fast Food,17,1
+Fast Food,18,2
+Fast Food,19,2
+Fast Food,20,1
+Fast Food,21,8
+Fast Food,22,23
+Fast Food,23,3
+Fast Food,24,3
+Fast Food,26,3
+Fast Food,27,6
+Fast Food,28,4
+Fast Food,29,2
+Fast Food,31,1
+Fast Food,32,5
+Fast Food,33,4
+Fast Food,34,2
+Fast Food,35,21
+Fast Food,36,5
+Fast Food,37,1
+Fast Food,41,4
+Fast Food,42,16
+Fast Food,43,3
+Fast Food,44,1
+Fast Food,45,2
+Fast Food,51,2
+Fast Food,52,2
+Fast Food,53,12
+Fast Food,54,2
+Fast Food,55,2
+Fast Food,56,5
+Fast Food,58,10
+Fast Food,59,2
+Fast Food,60,2
+Fast Food,61,7
+Fast Food,62,6
+Fast Food,67,6
+Fast Food,81,1
+Fast Food,82,1
+Fast Food,83,1
+Fast Food,86,2
+Fast Food,87,9
+Fast Food,88,6
+Fast Food,89,3
+Fast Food,91,1
+Fast Food,95,6
+Fast Food,96,4
+Fast Food,99,2
+Fast Food,104,3
+Fast Food,105,3
+Fast Food,106,2
+Fast Food,108,2
+Fast Food,110,3
+Fast Food,114,3
+Fast Food,123,6
+Fast Food,126,1
+Fast Food,130,2
+Fast Food,132,1
+Fast Food,133,4
+Fast Food,134,2
+Fast Food,154,1
+Fast Food,166,11
+Fast Food,167,1
+Fast Food,173,2
+Fast Food,176,1
+Fast Food,184,2
+Fast Food,185,2
+Fast Food,186,2
+Fast Food,195,1
+Fast Food,205,11
+Fast Food,255,1
+Fast Food,721,1
+Fast Food,723,2
+Fast Food,726,3
+"Fast Food, Beverages",0,94
+"Fast Food, Beverages",4,6
+"Fast Food, Beverages",5,3
+"Fast Food, Beverages",6,6
+"Fast Food, Beverages",7,1
+"Fast Food, Beverages",9,6
+"Fast Food, Beverages",12,13
+"Fast Food, Beverages",15,5
+"Fast Food, Beverages",16,17
+"Fast Food, Beverages",17,9
+"Fast Food, Beverages",20,3
+"Fast Food, Beverages",21,7
+"Fast Food, Beverages",22,4
+"Fast Food, Beverages",24,2
+"Fast Food, Beverages",25,2
+"Fast Food, Beverages",29,2
+"Fast Food, Beverages",31,2
+"Fast Food, Beverages",34,1
+"Fast Food, Beverages",43,1
+"Fast Food, Beverages",47,2
+"Fast Food, Beverages",48,9
+"Fast Food, Beverages",59,2
+"Fast Food, Beverages",62,1
+"Fast Food, Beverages",70,2
+"Fast Food, Beverages",71,3
+"Fast Food, Beverages",73,1
+"Fast Food, Beverages",87,1
+"Fast Food, Beverages",94,1
+"Fast Food, Beverages",108,2
+"Fast Food, Beverages",118,1
+"Fast Food, Beverages",131,1
+"Fast Food, Beverages",133,1
+"Fast Food, Beverages",134,4
+"Fast Food, Beverages",135,1
+"Fast Food, Beverages",140,2
+"Fast Food, Beverages",141,1
+"Fast Food, Beverages",179,2
+"Fast Food, Beverages",272,1
+"Fast Food, Beverages",323,1
+"Fast Food, Beverages",371,2
+"Fast Food, Burger",0,14
+"Fast Food, Burger",4,6
+"Fast Food, Burger",5,2
+"Fast Food, Burger",6,1
+"Fast Food, Burger",9,2
+"Fast Food, Burger",10,2
+"Fast Food, Burger",11,8
+"Fast Food, Burger",12,2
+"Fast Food, Burger",14,1
+"Fast Food, Burger",15,1
+"Fast Food, Burger",18,5
+"Fast Food, Burger",19,1
+"Fast Food, Burger",20,1
+"Fast Food, Burger",21,8
+"Fast Food, Burger",26,4
+"Fast Food, Burger",27,1
+"Fast Food, Burger",28,2
+"Fast Food, Burger",32,1
+"Fast Food, Burger",33,4
+"Fast Food, Burger",34,2
+"Fast Food, Burger",36,1
+"Fast Food, Burger",39,2
+"Fast Food, Burger",41,1
+"Fast Food, Burger",44,1
+"Fast Food, Burger",45,4
+"Fast Food, Burger",49,7
+"Fast Food, Burger",52,1
+"Fast Food, Burger",53,1
+"Fast Food, Burger",54,1
+"Fast Food, Burger",55,2
+"Fast Food, Burger",59,1
+"Fast Food, Burger",60,3
+"Fast Food, Burger",66,2
+"Fast Food, Burger",68,1
+"Fast Food, Burger",69,1
+"Fast Food, Burger",73,2
+"Fast Food, Burger",74,1
+"Fast Food, Burger",78,1
+"Fast Food, Burger",79,1
+"Fast Food, Burger",81,2
+"Fast Food, Burger",82,2
+"Fast Food, Burger",90,10
+"Fast Food, Burger",93,1
+"Fast Food, Burger",97,1
+"Fast Food, Burger",100,4
+"Fast Food, Burger",119,1
+"Fast Food, Burger",129,1
+"Fast Food, Burger",150,1
+"Fast Food, Burger",181,1
+"Fast Food, Burger",193,1
+"Fast Food, Burger",281,1
+"Fast Food, Burger",295,5
+"Fast Food, Burger",357,2
+"Fast Food, Rolls",0,22
+"Fast Food, Rolls",4,3
+"Fast Food, Rolls",6,6
+"Fast Food, Rolls",7,19
+"Fast Food, Rolls",8,7
+"Fast Food, Rolls",10,2
+"Fast Food, Rolls",11,1
+"Fast Food, Rolls",14,3
+"Fast Food, Rolls",17,1
+"Fast Food, Rolls",18,10
+"Fast Food, Rolls",19,1
+"Fast Food, Rolls",22,8
+"Fast Food, Rolls",24,3
+"Fast Food, Rolls",25,8
+"Fast Food, Rolls",26,1
+"Fast Food, Rolls",32,7
+"Fast Food, Rolls",34,2
+"Fast Food, Rolls",36,6
+"Fast Food, Rolls",53,1
+"Fast Food, Rolls",56,12
+"Fast Food, Rolls",59,1
+"Fast Food, Rolls",60,1
+"Fast Food, Rolls",61,2
+"Fast Food, Rolls",62,1
+"Fast Food, Rolls",63,7
+"Fast Food, Rolls",78,2
+"Fast Food, Rolls",79,2
+"Fast Food, Rolls",83,2
+"Fast Food, Rolls",84,1
+"Fast Food, Rolls",86,3
+"Fast Food, Rolls",87,2
+"Fast Food, Rolls",89,3
+"Fast Food, Rolls",94,1
+"Fast Food, Rolls",117,1
+"Fast Food, Rolls",134,2
+"Fast Food, Rolls",135,6
+"Fast Food, Rolls",185,1
+"Fast Food, Rolls",186,2
+"Fast Food, Rolls",303,1
+"Fast Food, Rolls",305,2
+"Fast Food, Rolls",1072,3
+"Fast Food, Rolls",1074,3
+Finger Food,0,8
+Finger Food,2,3
+Finger Food,5,2
+Finger Food,6,3
+Finger Food,7,3
+Finger Food,8,3
+Finger Food,9,6
+Finger Food,10,6
+Finger Food,11,8
+Finger Food,20,4
+Finger Food,21,5
+Finger Food,23,13
+Finger Food,24,2
+Finger Food,32,6
+Finger Food,33,3
+Finger Food,37,2
+Finger Food,38,3
+Finger Food,39,16
+Finger Food,43,4
+Finger Food,45,4
+Finger Food,46,1
+Finger Food,47,1
+Finger Food,49,1
+Finger Food,62,6
+Finger Food,64,10
+Finger Food,75,3
+Finger Food,76,2
+Finger Food,77,3
+Finger Food,81,8
+Finger Food,93,5
+Finger Food,94,1
+Finger Food,95,5
+Finger Food,103,2
+Finger Food,105,3
+Finger Food,107,3
+Finger Food,108,2
+Finger Food,109,7
+Finger Food,157,2
+Finger Food,159,1
+Finger Food,163,3
+Finger Food,165,4
+Finger Food,169,4
+Finger Food,170,1
+Finger Food,171,4
+Finger Food,190,10
+Finger Food,191,3
+Finger Food,236,3
+Finger Food,237,11
+Finger Food,374,1
+Finger Food,375,1
+Finger Food,395,2
+Finger Food,396,2
+Finger Food,397,3
+Finger Food,398,1
+Finger Food,402,1
+Finger Food,403,3
+Finger Food,417,3
+Finger Food,474,3
+Finger Food,477,1
+Finger Food,479,3
+Finger Food,481,2
+Finger Food,484,2
+Finger Food,548,2
+Finger Food,552,3
+Finger Food,557,2
+Finger Food,558,3
+Finger Food,559,1
+Finger Food,560,1
+Finger Food,628,1
+Finger Food,629,1
+Finger Food,630,1
+Finger Food,821,3
+Finger Food,977,4
+Finger Food,1089,3
+Finger Food,1096,3
+Ice Cream,0,76
+Ice Cream,4,6
+Ice Cream,5,3
+Ice Cream,6,15
+Ice Cream,7,4
+Ice Cream,8,9
+Ice Cream,9,5
+Ice Cream,10,9
+Ice Cream,11,3
+Ice Cream,13,1
+Ice Cream,14,1
+Ice Cream,15,2
+Ice Cream,16,1
+Ice Cream,19,2
+Ice Cream,21,1
+Ice Cream,23,1
+Ice Cream,25,2
+Ice Cream,27,8
+Ice Cream,28,3
+Ice Cream,35,3
+Ice Cream,38,5
+Ice Cream,41,3
+Ice Cream,47,1
+Ice Cream,48,1
+Ice Cream,49,1
+Ice Cream,66,6
+Ice Cream,70,3
+Ice Cream,81,2
+Ice Cream,86,2
+Ice Cream,92,4
+Ice Cream,128,4
+Ice Cream,130,2
+Ice Cream,131,5
+Ice Cream,132,8
+Ice Cream,138,1
+Ice Cream,145,2
+Ice Cream,147,3
+Ice Cream,154,2
+Ice Cream,155,2
+Ice Cream,171,1
+"Ice Cream, Desserts",0,32
+"Ice Cream, Desserts",4,13
+"Ice Cream, Desserts",5,6
+"Ice Cream, Desserts",6,7
+"Ice Cream, Desserts",7,9
+"Ice Cream, Desserts",8,2
+"Ice Cream, Desserts",9,2
+"Ice Cream, Desserts",11,1
+"Ice Cream, Desserts",12,4
+"Ice Cream, Desserts",13,2
+"Ice Cream, Desserts",14,4
+"Ice Cream, Desserts",16,5
+"Ice Cream, Desserts",17,2
+"Ice Cream, Desserts",20,2
+"Ice Cream, Desserts",21,14
+"Ice Cream, Desserts",22,6
+"Ice Cream, Desserts",23,1
+"Ice Cream, Desserts",24,10
+"Ice Cream, Desserts",25,19
+"Ice Cream, Desserts",27,7
+"Ice Cream, Desserts",28,7
+"Ice Cream, Desserts",32,1
+"Ice Cream, Desserts",34,7
+"Ice Cream, Desserts",35,1
+"Ice Cream, Desserts",36,4
+"Ice Cream, Desserts",37,4
+"Ice Cream, Desserts",40,2
+"Ice Cream, Desserts",41,3
+"Ice Cream, Desserts",42,6
+"Ice Cream, Desserts",43,4
+"Ice Cream, Desserts",47,3
+"Ice Cream, Desserts",48,3
+"Ice Cream, Desserts",51,2
+"Ice Cream, Desserts",52,1
+"Ice Cream, Desserts",54,2
+"Ice Cream, Desserts",55,1
+"Ice Cream, Desserts",57,2
+"Ice Cream, Desserts",58,1
+"Ice Cream, Desserts",59,1
+"Ice Cream, Desserts",60,1
+"Ice Cream, Desserts",61,2
+"Ice Cream, Desserts",65,2
+"Ice Cream, Desserts",66,5
+"Ice Cream, Desserts",67,4
+"Ice Cream, Desserts",69,4
+"Ice Cream, Desserts",71,1
+"Ice Cream, Desserts",72,4
+"Ice Cream, Desserts",75,4
+"Ice Cream, Desserts",77,7
+"Ice Cream, Desserts",79,8
+"Ice Cream, Desserts",80,1
+"Ice Cream, Desserts",82,1
+"Ice Cream, Desserts",83,2
+"Ice Cream, Desserts",90,4
+"Ice Cream, Desserts",92,3
+"Ice Cream, Desserts",99,2
+"Ice Cream, Desserts",100,6
+"Ice Cream, Desserts",101,3
+"Ice Cream, Desserts",102,3
+"Ice Cream, Desserts",103,2
+"Ice Cream, Desserts",107,1
+"Ice Cream, Desserts",108,2
+"Ice Cream, Desserts",109,4
+"Ice Cream, Desserts",118,5
+"Ice Cream, Desserts",119,2
+"Ice Cream, Desserts",128,7
+"Ice Cream, Desserts",131,6
+"Ice Cream, Desserts",142,2
+"Ice Cream, Desserts",143,2
+"Ice Cream, Desserts",148,1
+"Ice Cream, Desserts",149,4
+"Ice Cream, Desserts",150,1
+"Ice Cream, Desserts",187,2
+"Ice Cream, Desserts",194,2
+"Ice Cream, Desserts",197,1
+"Ice Cream, Desserts",204,2
+"Ice Cream, Desserts",205,5
+"Ice Cream, Desserts",206,5
+"Ice Cream, Desserts",208,2
+"Ice Cream, Desserts",219,1
+"Ice Cream, Desserts",220,3
+"Ice Cream, Desserts",221,2
+"Ice Cream, Desserts",229,3
+"Ice Cream, Desserts",231,7
+"Ice Cream, Desserts",234,1
+"Ice Cream, Desserts",251,3
+"Ice Cream, Desserts",267,1
+"Ice Cream, Desserts",277,4
+"Ice Cream, Desserts",278,2
+"Ice Cream, Desserts",283,1
+"Ice Cream, Desserts",291,2
+"Ice Cream, Desserts",292,2
+"Ice Cream, Desserts",324,4
+"Ice Cream, Desserts",345,3
+"Ice Cream, Desserts",366,1
+"Ice Cream, Desserts",372,1
+"Ice Cream, Desserts",384,2
+"Ice Cream, Desserts",397,2
+"Ice Cream, Desserts",398,1
+"Ice Cream, Desserts",402,2
+"Ice Cream, Desserts",403,4
+"Ice Cream, Desserts",405,1
+"Ice Cream, Desserts",406,1
+"Ice Cream, Desserts",423,2
+"Ice Cream, Desserts",501,2
+"Ice Cream, Desserts",509,1
+"Ice Cream, Desserts",512,2
+"Ice Cream, Desserts",633,1
+"Ice Cream, Desserts",635,2
+"Ice Cream, Desserts",637,1
+"Ice Cream, Desserts",638,2
+"Ice Cream, Desserts",669,2
+"Ice Cream, Desserts",703,1
+"Ice Cream, Desserts",790,1
+"Ice Cream, Desserts",819,1
+"Ice Cream, Desserts",825,2
+"Ice Cream, Desserts",827,2
+"Ice Cream, Desserts",847,1
+"Ice Cream, Desserts",922,1
+"Ice Cream, Desserts",949,2
+"Ice Cream, Desserts",971,2
+"Ice Cream, Desserts",1547,1
+"Ice Cream, Desserts",2090,1
+"Ice Cream, Desserts",2139,2
+"Ice Cream, Desserts",2172,1
+"Ice Cream, Desserts",2174,1
+"Italian, Pizza",0,1
+"Italian, Pizza",7,1
+"Italian, Pizza",22,2
+"Italian, Pizza",23,2
+"Italian, Pizza",27,1
+"Italian, Pizza",30,8
+"Italian, Pizza",34,17
+"Italian, Pizza",40,2
+"Italian, Pizza",41,2
+"Italian, Pizza",52,2
+"Italian, Pizza",54,2
+"Italian, Pizza",60,4
+"Italian, Pizza",61,3
+"Italian, Pizza",62,2
+"Italian, Pizza",77,4
+"Italian, Pizza",91,2
+"Italian, Pizza",92,1
+"Italian, Pizza",99,4
+"Italian, Pizza",109,3
+"Italian, Pizza",110,10
+"Italian, Pizza",227,3
+"Italian, Pizza",330,2
+"Italian, Pizza",331,4
+"Italian, Pizza",372,2
+"Italian, Pizza",374,2
+"Italian, Pizza",473,4
+"Italian, Pizza",671,1
+"Italian, Pizza",672,1
+"Italian, Pizza",673,1
+"Italian, Pizza",715,6
+"Italian, Pizza",733,3
+"Italian, Pizza",1107,3
+Kerala,0,33
+Kerala,4,16
+Kerala,5,5
+Kerala,6,15
+Kerala,7,6
+Kerala,10,3
+Kerala,12,2
+Kerala,14,8
+Kerala,15,7
+Kerala,16,1
+Kerala,19,10
+Kerala,24,2
+Kerala,32,2
+Kerala,33,4
+Kerala,34,3
+Kerala,35,1
+Kerala,36,11
+Kerala,40,3
+Kerala,41,9
+Kerala,43,4
+Kerala,47,1
+Kerala,49,2
+Kerala,50,2
+Kerala,60,1
+Kerala,61,1
+Kerala,63,2
+Kerala,64,9
+Kerala,68,5
+Kerala,80,4
+Kerala,93,2
+Kerala,94,5
+Kerala,101,2
+Kerala,123,3
+Kerala,128,1
+Kerala,160,2
+Kerala,162,3
+Kerala,167,1
+Kerala,224,1
+Kerala,226,2
+Kerala,243,3
+Kerala,247,1
+Kerala,253,1
+Kerala,255,3
+Kerala,262,1
+Kerala,517,2
+Kerala,522,1
+Kerala,523,2
+"Kerala, South Indian",0,42
+"Kerala, South Indian",6,1
+"Kerala, South Indian",8,2
+"Kerala, South Indian",10,1
+"Kerala, South Indian",11,6
+"Kerala, South Indian",16,1
+"Kerala, South Indian",18,10
+"Kerala, South Indian",19,2
+"Kerala, South Indian",25,1
+"Kerala, South Indian",26,8
+"Kerala, South Indian",27,10
+"Kerala, South Indian",29,1
+"Kerala, South Indian",31,5
+"Kerala, South Indian",32,6
+"Kerala, South Indian",33,1
+"Kerala, South Indian",36,8
+"Kerala, South Indian",41,9
+"Kerala, South Indian",93,4
+"Kerala, South Indian",94,1
+"Kerala, South Indian",140,7
+"Kerala, South Indian",149,1
+"Kerala, South Indian",190,4
+"Kerala, South Indian",197,1
+"Kerala, South Indian",405,2
+"Kerala, South Indian",410,2
+Mithai,0,63
+Mithai,4,8
+Mithai,5,2
+Mithai,6,4
+Mithai,7,2
+Mithai,8,1
+Mithai,9,12
+Mithai,16,3
+Mithai,22,3
+Mithai,23,6
+Mithai,24,1
+Mithai,27,4
+Mithai,28,2
+Mithai,29,2
+Mithai,31,2
+Mithai,32,1
+Mithai,33,4
+Mithai,39,1
+Mithai,61,3
+Mithai,356,2
+Mithai,358,1
+"Mithai, Street Food",0,46
+"Mithai, Street Food",4,8
+"Mithai, Street Food",5,12
+"Mithai, Street Food",6,10
+"Mithai, Street Food",7,2
+"Mithai, Street Food",8,8
+"Mithai, Street Food",9,7
+"Mithai, Street Food",10,2
+"Mithai, Street Food",11,1
+"Mithai, Street Food",13,3
+"Mithai, Street Food",14,7
+"Mithai, Street Food",15,4
+"Mithai, Street Food",16,4
+"Mithai, Street Food",18,12
+"Mithai, Street Food",19,6
+"Mithai, Street Food",20,5
+"Mithai, Street Food",22,4
+"Mithai, Street Food",23,4
+"Mithai, Street Food",24,2
+"Mithai, Street Food",26,3
+"Mithai, Street Food",27,7
+"Mithai, Street Food",28,4
+"Mithai, Street Food",29,3
+"Mithai, Street Food",31,4
+"Mithai, Street Food",32,1
+"Mithai, Street Food",34,8
+"Mithai, Street Food",35,2
+"Mithai, Street Food",36,5
+"Mithai, Street Food",37,1
+"Mithai, Street Food",40,1
+"Mithai, Street Food",42,6
+"Mithai, Street Food",46,10
+"Mithai, Street Food",47,5
+"Mithai, Street Food",48,6
+"Mithai, Street Food",49,1
+"Mithai, Street Food",51,6
+"Mithai, Street Food",52,1
+"Mithai, Street Food",53,1
+"Mithai, Street Food",56,3
+"Mithai, Street Food",57,2
+"Mithai, Street Food",58,2
+"Mithai, Street Food",61,2
+"Mithai, Street Food",63,5
+"Mithai, Street Food",64,2
+"Mithai, Street Food",65,1
+"Mithai, Street Food",66,1
+"Mithai, Street Food",67,3
+"Mithai, Street Food",68,4
+"Mithai, Street Food",70,3
+"Mithai, Street Food",71,1
+"Mithai, Street Food",72,2
+"Mithai, Street Food",73,2
+"Mithai, Street Food",75,17
+"Mithai, Street Food",84,4
+"Mithai, Street Food",92,1
+"Mithai, Street Food",96,1
+"Mithai, Street Food",99,4
+"Mithai, Street Food",100,2
+"Mithai, Street Food",101,1
+"Mithai, Street Food",102,1
+"Mithai, Street Food",103,2
+"Mithai, Street Food",104,3
+"Mithai, Street Food",110,6
+"Mithai, Street Food",112,1
+"Mithai, Street Food",113,7
+"Mithai, Street Food",114,1
+"Mithai, Street Food",115,4
+"Mithai, Street Food",122,2
+"Mithai, Street Food",123,2
+"Mithai, Street Food",124,1
+"Mithai, Street Food",125,2
+"Mithai, Street Food",131,2
+"Mithai, Street Food",132,1
+"Mithai, Street Food",148,6
+"Mithai, Street Food",149,1
+"Mithai, Street Food",151,3
+"Mithai, Street Food",152,3
+"Mithai, Street Food",154,3
+"Mithai, Street Food",159,1
+"Mithai, Street Food",163,1
+"Mithai, Street Food",182,1
+"Mithai, Street Food",183,3
+"Mithai, Street Food",184,1
+"Mithai, Street Food",218,2
+"Mithai, Street Food",226,2
+"Mithai, Street Food",261,2
+"Mithai, Street Food",267,2
+"Mithai, Street Food",370,3
+"Mithai, Street Food",371,1
+"Mithai, Street Food",376,6
+"Mithai, Street Food",377,1
+"Mithai, Street Food",1076,3
+"Mithai, Street Food",1077,7
+North Indian,0,752
+North Indian,1,1
+North Indian,4,83
+North Indian,5,40
+North Indian,6,38
+North Indian,7,60
+North Indian,8,34
+North Indian,9,45
+North Indian,10,26
+North Indian,11,38
+North Indian,12,18
+North Indian,13,20
+North Indian,14,18
+North Indian,15,50
+North Indian,16,43
+North Indian,17,19
+North Indian,18,14
+North Indian,19,25
+North Indian,20,22
+North Indian,21,7
+North Indian,22,25
+North Indian,23,23
+North Indian,24,21
+North Indian,25,18
+North Indian,26,6
+North Indian,27,5
+North Indian,28,5
+North Indian,29,20
+North Indian,30,2
+North Indian,31,13
+North Indian,32,10
+North Indian,33,24
+North Indian,34,26
+North Indian,35,8
+North Indian,36,13
+North Indian,37,10
+North Indian,38,27
+North Indian,39,17
+North Indian,40,10
+North Indian,41,10
+North Indian,42,6
+North Indian,43,11
+North Indian,44,16
+North Indian,45,1
+North Indian,46,26
+North Indian,47,17
+North Indian,48,22
+North Indian,49,6
+North Indian,50,14
+North Indian,51,17
+North Indian,52,5
+North Indian,53,12
+North Indian,54,5
+North Indian,56,8
+North Indian,57,12
+North Indian,58,1
+North Indian,59,2
+North Indian,60,6
+North Indian,61,5
+North Indian,62,4
+North Indian,63,7
+North Indian,64,2
+North Indian,66,3
+North Indian,67,7
+North Indian,68,11
+North Indian,69,10
+North Indian,70,3
+North Indian,71,2
+North Indian,72,3
+North Indian,73,6
+North Indian,74,10
+North Indian,75,13
+North Indian,76,6
+North Indian,77,3
+North Indian,78,1
+North Indian,79,4
+North Indian,80,2
+North Indian,81,11
+North Indian,82,3
+North Indian,83,2
+North Indian,84,10
+North Indian,85,11
+North Indian,86,4
+North Indian,87,2
+North Indian,89,4
+North Indian,90,2
+North Indian,91,2
+North Indian,92,1
+North Indian,93,1
+North Indian,94,3
+North Indian,95,10
+North Indian,96,2
+North Indian,97,4
+North Indian,98,1
+North Indian,99,3
+North Indian,100,5
+North Indian,101,2
+North Indian,102,2
+North Indian,103,7
+North Indian,104,7
+North Indian,105,3
+North Indian,106,2
+North Indian,107,8
+North Indian,108,3
+North Indian,109,8
+North Indian,110,4
+North Indian,112,3
+North Indian,113,3
+North Indian,114,2
+North Indian,116,2
+North Indian,117,7
+North Indian,120,2
+North Indian,122,4
+North Indian,123,2
+North Indian,125,2
+North Indian,126,5
+North Indian,127,6
+North Indian,128,2
+North Indian,130,3
+North Indian,131,3
+North Indian,132,6
+North Indian,133,4
+North Indian,134,7
+North Indian,137,10
+North Indian,140,17
+North Indian,141,1
+North Indian,142,3
+North Indian,143,1
+North Indian,144,3
+North Indian,145,3
+North Indian,150,2
+North Indian,152,7
+North Indian,154,1
+North Indian,155,2
+North Indian,156,3
+North Indian,158,3
+North Indian,159,2
+North Indian,160,1
+North Indian,162,3
+North Indian,163,1
+North Indian,164,3
+North Indian,165,2
+North Indian,166,3
+North Indian,167,10
+North Indian,169,5
+North Indian,170,1
+North Indian,171,5
+North Indian,172,1
+North Indian,173,3
+North Indian,175,5
+North Indian,176,6
+North Indian,178,1
+North Indian,181,2
+North Indian,182,1
+North Indian,183,9
+North Indian,184,2
+North Indian,194,4
+North Indian,195,8
+North Indian,196,5
+North Indian,197,2
+North Indian,198,7
+North Indian,199,8
+North Indian,200,3
+North Indian,201,3
+North Indian,203,1
+North Indian,205,4
+North Indian,206,2
+North Indian,210,4
+North Indian,212,4
+North Indian,214,6
+North Indian,215,2
+North Indian,217,5
+North Indian,219,1
+North Indian,220,6
+North Indian,221,15
+North Indian,225,1
+North Indian,226,1
+North Indian,228,2
+North Indian,229,6
+North Indian,230,2
+North Indian,233,1
+North Indian,235,3
+North Indian,236,1
+North Indian,240,2
+North Indian,242,2
+North Indian,243,3
+North Indian,244,1
+North Indian,246,2
+North Indian,247,3
+North Indian,248,2
+North Indian,250,2
+North Indian,251,1
+North Indian,255,2
+North Indian,256,2
+North Indian,257,2
+North Indian,258,3
+North Indian,260,7
+North Indian,262,1
+North Indian,266,2
+North Indian,268,2
+North Indian,270,4
+North Indian,275,5
+North Indian,277,2
+North Indian,278,1
+North Indian,279,5
+North Indian,280,3
+North Indian,283,2
+North Indian,286,6
+North Indian,287,6
+North Indian,289,4
+North Indian,291,3
+North Indian,295,1
+North Indian,296,3
+North Indian,297,7
+North Indian,303,1
+North Indian,304,2
+North Indian,307,1
+North Indian,308,1
+North Indian,310,1
+North Indian,312,2
+North Indian,319,1
+North Indian,320,1
+North Indian,321,2
+North Indian,322,6
+North Indian,325,2
+North Indian,327,1
+North Indian,330,1
+North Indian,331,9
+North Indian,333,1
+North Indian,334,2
+North Indian,335,1
+North Indian,336,1
+North Indian,337,2
+North Indian,338,2
+North Indian,343,1
+North Indian,344,7
+North Indian,347,2
+North Indian,348,2
+North Indian,349,2
+North Indian,350,1
+North Indian,351,1
+North Indian,355,1
+North Indian,356,4
+North Indian,357,5
+North Indian,360,1
+North Indian,362,2
+North Indian,363,1
+North Indian,364,2
+North Indian,367,2
+North Indian,371,1
+North Indian,373,2
+North Indian,376,2
+North Indian,380,1
+North Indian,394,4
+North Indian,395,7
+North Indian,396,1
+North Indian,397,4
+North Indian,402,1
+North Indian,403,1
+North Indian,405,1
+North Indian,416,1
+North Indian,426,2
+North Indian,431,3
+North Indian,432,4
+North Indian,442,2
+North Indian,444,5
+North Indian,446,2
+North Indian,450,8
+North Indian,452,3
+North Indian,453,5
+North Indian,454,1
+North Indian,455,4
+North Indian,456,4
+North Indian,457,12
+North Indian,459,10
+North Indian,460,1
+North Indian,461,3
+North Indian,463,4
+North Indian,468,3
+North Indian,470,3
+North Indian,471,2
+North Indian,472,2
+North Indian,488,1
+North Indian,489,2
+North Indian,504,1
+North Indian,510,2
+North Indian,511,2
+North Indian,518,1
+North Indian,527,4
+North Indian,528,1
+North Indian,533,1
+North Indian,535,2
+North Indian,540,1
+North Indian,547,8
+North Indian,560,2
+North Indian,561,6
+North Indian,562,1
+North Indian,563,1
+North Indian,564,1
+North Indian,592,3
+North Indian,597,2
+North Indian,598,1
+North Indian,600,3
+North Indian,609,1
+North Indian,610,4
+North Indian,650,1
+North Indian,654,1
+North Indian,669,1
+North Indian,670,2
+North Indian,671,1
+North Indian,672,2
+North Indian,676,1
+North Indian,688,1
+North Indian,705,1
+North Indian,707,1
+North Indian,711,1
+North Indian,730,2
+North Indian,735,1
+North Indian,741,1
+North Indian,750,2
+North Indian,751,2
+North Indian,753,1
+North Indian,754,2
+North Indian,756,3
+North Indian,758,3
+North Indian,759,1
+North Indian,760,2
+North Indian,763,4
+North Indian,765,1
+North Indian,768,1
+North Indian,783,5
+North Indian,785,1
+North Indian,787,1
+North Indian,792,1
+North Indian,795,1
+North Indian,797,5
+North Indian,800,2
+North Indian,818,3
+North Indian,820,1
+North Indian,821,1
+North Indian,822,1
+North Indian,823,6
+North Indian,832,3
+North Indian,840,1
+North Indian,880,2
+North Indian,885,1
+North Indian,886,1
+North Indian,887,2
+North Indian,889,1
+North Indian,891,1
+North Indian,901,1
+North Indian,907,1
+North Indian,911,1
+North Indian,915,2
+North Indian,917,2
+North Indian,919,2
+North Indian,946,2
+North Indian,987,1
+North Indian,988,1
+North Indian,1013,3
+North Indian,1021,3
+North Indian,1022,1
+North Indian,1025,2
+North Indian,1027,4
+North Indian,1028,3
+North Indian,1030,1
+North Indian,1036,1
+North Indian,1129,2
+North Indian,1134,1
+North Indian,1137,1
+North Indian,1208,3
+North Indian,1209,1
+North Indian,1216,1
+North Indian,1242,1
+North Indian,1244,1
+North Indian,1250,5
+North Indian,1286,2
+North Indian,1288,2
+North Indian,1290,1
+North Indian,1360,1
+North Indian,1361,2
+North Indian,1362,3
+North Indian,1370,2
+North Indian,1373,1
+North Indian,1374,1
+North Indian,1377,2
+North Indian,1414,1
+North Indian,1420,3
+North Indian,1432,1
+North Indian,1437,2
+North Indian,1488,2
+North Indian,1489,1
+North Indian,1551,1
+North Indian,1554,1
+North Indian,1691,4
+North Indian,1694,1
+North Indian,1696,4
+North Indian,1772,1
+North Indian,1774,1
+North Indian,1829,2
+North Indian,1851,2
+North Indian,1862,1
+North Indian,1863,2
+North Indian,1864,3
+North Indian,1871,2
+North Indian,1879,3
+North Indian,1880,1
+North Indian,2008,2
+North Indian,2073,1
+North Indian,2143,1
+North Indian,2283,1
+North Indian,2350,1
+North Indian,2353,1
+North Indian,2374,1
+North Indian,2420,3
+North Indian,2447,1
+North Indian,2992,2
+North Indian,3021,2
+North Indian,3219,2
+North Indian,3227,1
+North Indian,3230,3
+North Indian,3236,13
+North Indian,3447,2
+North Indian,3451,1
+North Indian,3455,1
+North Indian,3458,1
+North Indian,3459,2
+North Indian,3461,1
+North Indian,3463,2
+North Indian,3468,1
+"North Indian, Biryani",0,94
+"North Indian, Biryani",4,12
+"North Indian, Biryani",5,2
+"North Indian, Biryani",6,10
+"North Indian, Biryani",7,3
+"North Indian, Biryani",9,11
+"North Indian, Biryani",10,13
+"North Indian, Biryani",12,2
+"North Indian, Biryani",13,2
+"North Indian, Biryani",15,1
+"North Indian, Biryani",17,4
+"North Indian, Biryani",18,1
+"North Indian, Biryani",20,2
+"North Indian, Biryani",21,1
+"North Indian, Biryani",25,1
+"North Indian, Biryani",27,4
+"North Indian, Biryani",29,1
+"North Indian, Biryani",30,18
+"North Indian, Biryani",31,10
+"North Indian, Biryani",42,1
+"North Indian, Biryani",43,5
+"North Indian, Biryani",66,2
+"North Indian, Biryani",67,1
+"North Indian, Biryani",68,2
+"North Indian, Biryani",69,1
+"North Indian, Biryani",80,3
+"North Indian, Biryani",89,1
+"North Indian, Biryani",93,1
+"North Indian, Biryani",94,3
+"North Indian, Biryani",97,2
+"North Indian, Biryani",98,1
+"North Indian, Biryani",105,1
+"North Indian, Biryani",116,2
+"North Indian, Biryani",117,5
+"North Indian, Biryani",130,4
+"North Indian, Biryani",146,2
+"North Indian, Biryani",150,3
+"North Indian, Biryani",151,3
+"North Indian, Biryani",155,6
+"North Indian, Biryani",181,1
+"North Indian, Biryani",182,2
+"North Indian, Biryani",204,1
+"North Indian, Biryani",205,1
+"North Indian, Biryani",206,1
+"North Indian, Biryani",207,1
+"North Indian, Biryani",210,2
+"North Indian, Biryani",334,2
+"North Indian, Biryani",353,2
+"North Indian, Biryani",354,2
+"North Indian, Biryani",355,1
+"North Indian, Biryani",356,2
+"North Indian, Biryani",358,2
+"North Indian, Biryani",360,1
+"North Indian, Biryani",362,2
+"North Indian, Biryani",364,2
+"North Indian, Biryani",366,2
+"North Indian, Biryani",373,1
+"North Indian, Biryani",385,1
+"North Indian, Biryani",388,1
+"North Indian, Biryani",391,2
+"North Indian, Biryani",432,2
+"North Indian, Biryani",434,1
+"North Indian, Biryani",701,5
+"North Indian, Biryani",756,2
+"North Indian, Biryani",772,2
+"North Indian, Chinese",0,407
+"North Indian, Chinese",1,1
+"North Indian, Chinese",4,75
+"North Indian, Chinese",5,17
+"North Indian, Chinese",6,74
+"North Indian, Chinese",7,51
+"North Indian, Chinese",8,53
+"North Indian, Chinese",9,35
+"North Indian, Chinese",10,33
+"North Indian, Chinese",11,25
+"North Indian, Chinese",12,41
+"North Indian, Chinese",13,42
+"North Indian, Chinese",14,10
+"North Indian, Chinese",15,27
+"North Indian, Chinese",16,23
+"North Indian, Chinese",17,46
+"North Indian, Chinese",18,27
+"North Indian, Chinese",19,16
+"North Indian, Chinese",20,24
+"North Indian, Chinese",21,13
+"North Indian, Chinese",22,28
+"North Indian, Chinese",23,15
+"North Indian, Chinese",24,34
+"North Indian, Chinese",25,25
+"North Indian, Chinese",26,6
+"North Indian, Chinese",27,4
+"North Indian, Chinese",28,19
+"North Indian, Chinese",29,18
+"North Indian, Chinese",30,15
+"North Indian, Chinese",31,22
+"North Indian, Chinese",32,23
+"North Indian, Chinese",33,25
+"North Indian, Chinese",34,7
+"North Indian, Chinese",35,22
+"North Indian, Chinese",36,16
+"North Indian, Chinese",37,16
+"North Indian, Chinese",38,10
+"North Indian, Chinese",39,30
+"North Indian, Chinese",40,10
+"North Indian, Chinese",41,6
+"North Indian, Chinese",42,10
+"North Indian, Chinese",43,15
+"North Indian, Chinese",44,10
+"North Indian, Chinese",45,15
+"North Indian, Chinese",46,14
+"North Indian, Chinese",47,3
+"North Indian, Chinese",48,22
+"North Indian, Chinese",49,2
+"North Indian, Chinese",50,5
+"North Indian, Chinese",51,9
+"North Indian, Chinese",52,2
+"North Indian, Chinese",53,19
+"North Indian, Chinese",54,5
+"North Indian, Chinese",55,6
+"North Indian, Chinese",56,12
+"North Indian, Chinese",57,14
+"North Indian, Chinese",58,3
+"North Indian, Chinese",59,10
+"North Indian, Chinese",61,7
+"North Indian, Chinese",62,2
+"North Indian, Chinese",63,5
+"North Indian, Chinese",66,5
+"North Indian, Chinese",67,17
+"North Indian, Chinese",68,7
+"North Indian, Chinese",69,2
+"North Indian, Chinese",70,11
+"North Indian, Chinese",72,3
+"North Indian, Chinese",74,3
+"North Indian, Chinese",76,7
+"North Indian, Chinese",77,3
+"North Indian, Chinese",78,7
+"North Indian, Chinese",81,1
+"North Indian, Chinese",82,4
+"North Indian, Chinese",83,8
+"North Indian, Chinese",84,9
+"North Indian, Chinese",88,7
+"North Indian, Chinese",89,5
+"North Indian, Chinese",90,7
+"North Indian, Chinese",91,2
+"North Indian, Chinese",93,16
+"North Indian, Chinese",94,16
+"North Indian, Chinese",96,3
+"North Indian, Chinese",97,9
+"North Indian, Chinese",98,13
+"North Indian, Chinese",100,8
+"North Indian, Chinese",102,14
+"North Indian, Chinese",104,3
+"North Indian, Chinese",106,7
+"North Indian, Chinese",107,5
+"North Indian, Chinese",108,13
+"North Indian, Chinese",109,5
+"North Indian, Chinese",110,17
+"North Indian, Chinese",111,13
+"North Indian, Chinese",112,6
+"North Indian, Chinese",113,6
+"North Indian, Chinese",114,8
+"North Indian, Chinese",115,11
+"North Indian, Chinese",116,1
+"North Indian, Chinese",117,8
+"North Indian, Chinese",118,9
+"North Indian, Chinese",119,10
+"North Indian, Chinese",120,8
+"North Indian, Chinese",121,15
+"North Indian, Chinese",122,1
+"North Indian, Chinese",123,3
+"North Indian, Chinese",124,3
+"North Indian, Chinese",125,3
+"North Indian, Chinese",127,3
+"North Indian, Chinese",128,7
+"North Indian, Chinese",129,1
+"North Indian, Chinese",134,4
+"North Indian, Chinese",135,6
+"North Indian, Chinese",136,6
+"North Indian, Chinese",137,5
+"North Indian, Chinese",142,1
+"North Indian, Chinese",144,1
+"North Indian, Chinese",145,2
+"North Indian, Chinese",151,3
+"North Indian, Chinese",153,2
+"North Indian, Chinese",156,4
+"North Indian, Chinese",157,8
+"North Indian, Chinese",158,2
+"North Indian, Chinese",159,1
+"North Indian, Chinese",160,3
+"North Indian, Chinese",161,3
+"North Indian, Chinese",162,5
+"North Indian, Chinese",163,1
+"North Indian, Chinese",165,10
+"North Indian, Chinese",166,2
+"North Indian, Chinese",168,1
+"North Indian, Chinese",170,3
+"North Indian, Chinese",172,4
+"North Indian, Chinese",173,1
+"North Indian, Chinese",177,2
+"North Indian, Chinese",178,4
+"North Indian, Chinese",179,2
+"North Indian, Chinese",180,2
+"North Indian, Chinese",181,6
+"North Indian, Chinese",188,3
+"North Indian, Chinese",189,1
+"North Indian, Chinese",191,3
+"North Indian, Chinese",195,4
+"North Indian, Chinese",197,8
+"North Indian, Chinese",199,1
+"North Indian, Chinese",201,2
+"North Indian, Chinese",202,3
+"North Indian, Chinese",203,2
+"North Indian, Chinese",210,2
+"North Indian, Chinese",223,6
+"North Indian, Chinese",224,4
+"North Indian, Chinese",226,1
+"North Indian, Chinese",229,3
+"North Indian, Chinese",232,5
+"North Indian, Chinese",234,2
+"North Indian, Chinese",237,2
+"North Indian, Chinese",238,3
+"North Indian, Chinese",239,7
+"North Indian, Chinese",241,4
+"North Indian, Chinese",244,1
+"North Indian, Chinese",245,1
+"North Indian, Chinese",247,1
+"North Indian, Chinese",248,2
+"North Indian, Chinese",250,1
+"North Indian, Chinese",251,1
+"North Indian, Chinese",252,2
+"North Indian, Chinese",253,3
+"North Indian, Chinese",254,8
+"North Indian, Chinese",255,3
+"North Indian, Chinese",256,1
+"North Indian, Chinese",257,5
+"North Indian, Chinese",258,3
+"North Indian, Chinese",260,3
+"North Indian, Chinese",261,6
+"North Indian, Chinese",262,7
+"North Indian, Chinese",268,1
+"North Indian, Chinese",270,2
+"North Indian, Chinese",288,3
+"North Indian, Chinese",291,1
+"North Indian, Chinese",295,3
+"North Indian, Chinese",308,1
+"North Indian, Chinese",313,4
+"North Indian, Chinese",314,1
+"North Indian, Chinese",318,4
+"North Indian, Chinese",319,3
+"North Indian, Chinese",320,3
+"North Indian, Chinese",321,2
+"North Indian, Chinese",323,1
+"North Indian, Chinese",324,2
+"North Indian, Chinese",326,1
+"North Indian, Chinese",327,3
+"North Indian, Chinese",328,1
+"North Indian, Chinese",330,3
+"North Indian, Chinese",331,2
+"North Indian, Chinese",332,3
+"North Indian, Chinese",334,1
+"North Indian, Chinese",335,3
+"North Indian, Chinese",337,5
+"North Indian, Chinese",338,5
+"North Indian, Chinese",342,1
+"North Indian, Chinese",343,1
+"North Indian, Chinese",344,1
+"North Indian, Chinese",345,2
+"North Indian, Chinese",350,1
+"North Indian, Chinese",351,1
+"North Indian, Chinese",352,1
+"North Indian, Chinese",355,1
+"North Indian, Chinese",356,2
+"North Indian, Chinese",357,2
+"North Indian, Chinese",358,7
+"North Indian, Chinese",393,4
+"North Indian, Chinese",395,1
+"North Indian, Chinese",396,1
+"North Indian, Chinese",397,1
+"North Indian, Chinese",399,1
+"North Indian, Chinese",402,9
+"North Indian, Chinese",406,2
+"North Indian, Chinese",407,2
+"North Indian, Chinese",408,4
+"North Indian, Chinese",409,2
+"North Indian, Chinese",410,3
+"North Indian, Chinese",414,1
+"North Indian, Chinese",418,2
+"North Indian, Chinese",419,2
+"North Indian, Chinese",422,2
+"North Indian, Chinese",425,1
+"North Indian, Chinese",443,1
+"North Indian, Chinese",455,5
+"North Indian, Chinese",456,1
+"North Indian, Chinese",479,4
+"North Indian, Chinese",498,1
+"North Indian, Chinese",500,3
+"North Indian, Chinese",502,2
+"North Indian, Chinese",511,2
+"North Indian, Chinese",514,1
+"North Indian, Chinese",515,1
+"North Indian, Chinese",532,2
+"North Indian, Chinese",533,1
+"North Indian, Chinese",545,2
+"North Indian, Chinese",557,1
+"North Indian, Chinese",561,2
+"North Indian, Chinese",570,2
+"North Indian, Chinese",619,2
+"North Indian, Chinese",633,4
+"North Indian, Chinese",634,1
+"North Indian, Chinese",639,1
+"North Indian, Chinese",641,1
+"North Indian, Chinese",644,2
+"North Indian, Chinese",707,2
+"North Indian, Chinese",712,2
+"North Indian, Chinese",759,12
+"North Indian, Chinese",760,1
+"North Indian, Chinese",782,1
+"North Indian, Chinese",783,3
+"North Indian, Chinese",808,2
+"North Indian, Chinese",815,6
+"North Indian, Chinese",949,5
+"North Indian, Chinese",951,2
+"North Indian, Chinese",952,5
+"North Indian, Chinese",960,1
+"North Indian, Chinese",1070,3
+"North Indian, Chinese",1077,1
+"North Indian, Chinese",1078,2
+"North Indian, Chinese",1080,3
+"North Indian, Chinese",1082,3
+"North Indian, Chinese",1189,5
+"North Indian, Chinese",1190,5
+"North Indian, Chinese",1697,10
+"North Indian, Chinese",1698,1
+"North Indian, Chinese",2303,2
+"North Indian, Chinese",2309,1
+"North Indian, Chinese",2312,1
+"North Indian, Chinese",2317,1
+"North Indian, Chinese",2359,1
+"North Indian, Chinese, Biryani",0,86
+"North Indian, Chinese, Biryani",5,6
+"North Indian, Chinese, Biryani",6,15
+"North Indian, Chinese, Biryani",7,7
+"North Indian, Chinese, Biryani",8,2
+"North Indian, Chinese, Biryani",10,10
+"North Indian, Chinese, Biryani",13,4
+"North Indian, Chinese, Biryani",14,1
+"North Indian, Chinese, Biryani",15,5
+"North Indian, Chinese, Biryani",16,15
+"North Indian, Chinese, Biryani",17,9
+"North Indian, Chinese, Biryani",18,5
+"North Indian, Chinese, Biryani",19,4
+"North Indian, Chinese, Biryani",20,4
+"North Indian, Chinese, Biryani",22,1
+"North Indian, Chinese, Biryani",25,3
+"North Indian, Chinese, Biryani",26,6
+"North Indian, Chinese, Biryani",29,1
+"North Indian, Chinese, Biryani",37,1
+"North Indian, Chinese, Biryani",38,2
+"North Indian, Chinese, Biryani",39,6
+"North Indian, Chinese, Biryani",42,2
+"North Indian, Chinese, Biryani",43,2
+"North Indian, Chinese, Biryani",64,2
+"North Indian, Chinese, Biryani",66,1
+"North Indian, Chinese, Biryani",68,3
+"North Indian, Chinese, Biryani",70,3
+"North Indian, Chinese, Biryani",71,3
+"North Indian, Chinese, Biryani",72,9
+"North Indian, Chinese, Biryani",76,2
+"North Indian, Chinese, Biryani",77,1
+"North Indian, Chinese, Biryani",81,1
+"North Indian, Chinese, Biryani",88,2
+"North Indian, Chinese, Biryani",97,2
+"North Indian, Chinese, Biryani",98,6
+"North Indian, Chinese, Biryani",103,10
+"North Indian, Chinese, Biryani",105,1
+"North Indian, Chinese, Biryani",107,1
+"North Indian, Chinese, Biryani",108,2
+"North Indian, Chinese, Biryani",114,3
+"North Indian, Chinese, Biryani",115,2
+"North Indian, Chinese, Biryani",117,2
+"North Indian, Chinese, Biryani",119,2
+"North Indian, Chinese, Biryani",121,9
+"North Indian, Chinese, Biryani",127,1
+"North Indian, Chinese, Biryani",128,2
+"North Indian, Chinese, Biryani",129,1
+"North Indian, Chinese, Biryani",130,1
+"North Indian, Chinese, Biryani",132,1
+"North Indian, Chinese, Biryani",133,2
+"North Indian, Chinese, Biryani",136,6
+"North Indian, Chinese, Biryani",140,1
+"North Indian, Chinese, Biryani",145,2
+"North Indian, Chinese, Biryani",154,3
+"North Indian, Chinese, Biryani",158,2
+"North Indian, Chinese, Biryani",159,2
+"North Indian, Chinese, Biryani",160,1
+"North Indian, Chinese, Biryani",161,1
+"North Indian, Chinese, Biryani",162,3
+"North Indian, Chinese, Biryani",165,1
+"North Indian, Chinese, Biryani",180,1
+"North Indian, Chinese, Biryani",181,1
+"North Indian, Chinese, Biryani",185,8
+"North Indian, Chinese, Biryani",198,2
+"North Indian, Chinese, Biryani",239,1
+"North Indian, Chinese, Biryani",240,2
+"North Indian, Chinese, Biryani",253,1
+"North Indian, Chinese, Biryani",265,1
+"North Indian, Chinese, Biryani",267,2
+"North Indian, Chinese, Biryani",268,1
+"North Indian, Chinese, Biryani",317,2
+"North Indian, Chinese, Biryani",353,2
+"North Indian, Chinese, Biryani",354,1
+"North Indian, Chinese, Biryani",372,1
+"North Indian, Chinese, Biryani",374,1
+"North Indian, Chinese, Biryani",398,2
+"North Indian, Chinese, Biryani",401,2
+"North Indian, Chinese, Biryani",435,2
+"North Indian, Chinese, Biryani",439,2
+"North Indian, Chinese, Biryani",440,5
+"North Indian, Chinese, Biryani",442,1
+"North Indian, Chinese, Biryani",450,8
+"North Indian, Chinese, Biryani",808,2
+"North Indian, Chinese, Biryani",1110,1
+"North Indian, Chinese, Biryani",1113,4
+"North Indian, Chinese, Biryani",1114,1
+"North Indian, Chinese, Continental",0,21
+"North Indian, Chinese, Continental",4,2
+"North Indian, Chinese, Continental",8,2
+"North Indian, Chinese, Continental",10,9
+"North Indian, Chinese, Continental",11,2
+"North Indian, Chinese, Continental",15,9
+"North Indian, Chinese, Continental",23,8
+"North Indian, Chinese, Continental",26,5
+"North Indian, Chinese, Continental",27,1
+"North Indian, Chinese, Continental",28,2
+"North Indian, Chinese, Continental",30,4
+"North Indian, Chinese, Continental",32,1
+"North Indian, Chinese, Continental",38,2
+"North Indian, Chinese, Continental",42,1
+"North Indian, Chinese, Continental",43,1
+"North Indian, Chinese, Continental",55,4
+"North Indian, Chinese, Continental",100,2
+"North Indian, Chinese, Continental",113,2
+"North Indian, Chinese, Continental",118,2
+"North Indian, Chinese, Continental",128,2
+"North Indian, Chinese, Continental",135,4
+"North Indian, Chinese, Continental",139,7
+"North Indian, Chinese, Continental",140,1
+"North Indian, Chinese, Continental",151,1
+"North Indian, Chinese, Continental",177,8
+"North Indian, Chinese, Continental",297,4
+"North Indian, Chinese, Continental",298,2
+"North Indian, Chinese, Continental",299,1
+"North Indian, Chinese, Continental",300,1
+"North Indian, Chinese, Continental",358,2
+"North Indian, Chinese, Continental",620,2
+"North Indian, Chinese, Continental",621,1
+"North Indian, Chinese, Continental",840,3
+"North Indian, Chinese, Continental",880,2
+"North Indian, Chinese, Continental",886,1
+"North Indian, Chinese, Continental",1320,2
+"North Indian, Chinese, Continental",1322,2
+"North Indian, Chinese, Fast Food",0,27
+"North Indian, Chinese, Fast Food",4,1
+"North Indian, Chinese, Fast Food",5,1
+"North Indian, Chinese, Fast Food",6,2
+"North Indian, Chinese, Fast Food",7,5
+"North Indian, Chinese, Fast Food",8,2
+"North Indian, Chinese, Fast Food",10,6
+"North Indian, Chinese, Fast Food",12,3
+"North Indian, Chinese, Fast Food",16,1
+"North Indian, Chinese, Fast Food",21,1
+"North Indian, Chinese, Fast Food",22,5
+"North Indian, Chinese, Fast Food",24,1
+"North Indian, Chinese, Fast Food",25,2
+"North Indian, Chinese, Fast Food",26,1
+"North Indian, Chinese, Fast Food",31,1
+"North Indian, Chinese, Fast Food",32,3
+"North Indian, Chinese, Fast Food",33,2
+"North Indian, Chinese, Fast Food",38,12
+"North Indian, Chinese, Fast Food",39,1
+"North Indian, Chinese, Fast Food",44,3
+"North Indian, Chinese, Fast Food",45,1
+"North Indian, Chinese, Fast Food",46,3
+"North Indian, Chinese, Fast Food",51,5
+"North Indian, Chinese, Fast Food",77,10
+"North Indian, Chinese, Fast Food",79,7
+"North Indian, Chinese, Fast Food",87,1
+"North Indian, Chinese, Fast Food",88,2
+"North Indian, Chinese, Fast Food",89,1
+"North Indian, Chinese, Fast Food",90,1
+"North Indian, Chinese, Fast Food",91,2
+"North Indian, Chinese, Fast Food",100,1
+"North Indian, Chinese, Fast Food",102,1
+"North Indian, Chinese, Fast Food",103,1
+"North Indian, Chinese, Fast Food",205,5
+"North Indian, Chinese, Fast Food",206,3
+"North Indian, Chinese, Fast Food",207,3
+"North Indian, Chinese, Fast Food",210,4
+"North Indian, Chinese, Fast Food",214,1
+"North Indian, Chinese, Fast Food",229,3
+"North Indian, Chinese, Fast Food",234,2
+"North Indian, Chinese, Fast Food",250,4
+"North Indian, Chinese, Fast Food",307,2
+"North Indian, Chinese, Fast Food",378,6
+"North Indian, Chinese, Fast Food",434,1
+"North Indian, Chinese, Fast Food",449,1
+"North Indian, Chinese, Fast Food",474,3
+"North Indian, Chinese, Fast Food",476,3
+"North Indian, Chinese, Fast Food",477,1
+"North Indian, Chinese, Fast Food",478,1
+"North Indian, Chinese, Fast Food",479,2
+"North Indian, Chinese, Fast Food",482,1
+"North Indian, Chinese, Fast Food",516,3
+"North Indian, Chinese, Fast Food",519,1
+"North Indian, Chinese, Fast Food",521,1
+"North Indian, Chinese, Seafood",0,19
+"North Indian, Chinese, Seafood",4,2
+"North Indian, Chinese, Seafood",5,1
+"North Indian, Chinese, Seafood",7,2
+"North Indian, Chinese, Seafood",25,2
+"North Indian, Chinese, Seafood",29,2
+"North Indian, Chinese, Seafood",43,3
+"North Indian, Chinese, Seafood",46,5
+"North Indian, Chinese, Seafood",52,2
+"North Indian, Chinese, Seafood",53,1
+"North Indian, Chinese, Seafood",79,2
+"North Indian, Chinese, Seafood",91,1
+"North Indian, Chinese, Seafood",94,3
+"North Indian, Chinese, Seafood",115,1
+"North Indian, Chinese, Seafood",118,2
+"North Indian, Chinese, Seafood",153,3
+"North Indian, Chinese, Seafood",154,2
+"North Indian, Chinese, Seafood",160,2
+"North Indian, Chinese, Seafood",278,1
+"North Indian, Chinese, Seafood",279,4
+"North Indian, Chinese, Seafood",280,2
+"North Indian, Chinese, Seafood",281,4
+"North Indian, Chinese, Seafood",405,3
+"North Indian, Chinese, Seafood",474,3
+"North Indian, Chinese, Seafood",475,6
+"North Indian, Chinese, Seafood",476,10
+"North Indian, Chinese, Seafood",767,13
+"North Indian, Chinese, Seafood",768,1
+"North Indian, Chinese, South Indian",0,79
+"North Indian, Chinese, South Indian",5,1
+"North Indian, Chinese, South Indian",6,2
+"North Indian, Chinese, South Indian",10,13
+"North Indian, Chinese, South Indian",11,1
+"North Indian, Chinese, South Indian",13,4
+"North Indian, Chinese, South Indian",15,3
+"North Indian, Chinese, South Indian",17,5
+"North Indian, Chinese, South Indian",18,6
+"North Indian, Chinese, South Indian",19,1
+"North Indian, Chinese, South Indian",21,2
+"North Indian, Chinese, South Indian",26,8
+"North Indian, Chinese, South Indian",28,6
+"North Indian, Chinese, South Indian",30,6
+"North Indian, Chinese, South Indian",38,3
+"North Indian, Chinese, South Indian",41,2
+"North Indian, Chinese, South Indian",45,3
+"North Indian, Chinese, South Indian",48,4
+"North Indian, Chinese, South Indian",66,2
+"North Indian, Chinese, South Indian",69,2
+"North Indian, Chinese, South Indian",73,3
+"North Indian, Chinese, South Indian",74,8
+"North Indian, Chinese, South Indian",88,3
+"North Indian, Chinese, South Indian",89,2
+"North Indian, Chinese, South Indian",91,3
+"North Indian, Chinese, South Indian",92,1
+"North Indian, Chinese, South Indian",119,2
+"North Indian, Chinese, South Indian",120,1
+"North Indian, Chinese, South Indian",139,4
+"North Indian, Chinese, South Indian",140,1
+"North Indian, Chinese, South Indian",141,4
+"North Indian, Chinese, South Indian",142,1
+"North Indian, Chinese, South Indian",218,1
+"North Indian, Chinese, South Indian",257,3
+"North Indian, Chinese, South Indian",258,2
+"North Indian, Chinese, South Indian",284,1
+"North Indian, Chinese, South Indian",285,1
+"North Indian, Chinese, South Indian",407,2
+"North Indian, Chinese, South Indian",555,1
+"North Indian, Chinese, South Indian",556,2
+"North Indian, Chinese, South Indian",558,3
+"North Indian, Chinese, South Indian",560,2
+"North Indian, Chinese, South Indian",750,4
+"North Indian, Chinese, South Indian",753,1
+"North Indian, Continental",0,23
+"North Indian, Continental",8,5
+"North Indian, Continental",11,12
+"North Indian, Continental",19,8
+"North Indian, Continental",23,1
+"North Indian, Continental",27,3
+"North Indian, Continental",28,4
+"North Indian, Continental",29,1
+"North Indian, Continental",34,7
+"North Indian, Continental",55,2
+"North Indian, Continental",78,2
+"North Indian, Continental",152,2
+"North Indian, Continental",153,4
+"North Indian, Continental",160,1
+"North Indian, Continental",161,4
+"North Indian, Continental",163,1
+"North Indian, Continental",175,1
+"North Indian, Continental",176,1
+"North Indian, Continental",213,2
+"North Indian, Continental",229,1
+"North Indian, Continental",230,1
+"North Indian, Continental",231,2
+"North Indian, Continental",232,2
+"North Indian, Continental",270,3
+"North Indian, Continental",271,2
+"North Indian, Continental",293,3
+"North Indian, Continental",294,3
+"North Indian, Continental",297,2
+"North Indian, Continental",298,5
+"North Indian, Continental",409,2
+"North Indian, Continental",416,1
+"North Indian, Continental",420,1
+"North Indian, Continental",675,3
+"North Indian, Continental",676,1
+"North Indian, Continental",866,2
+"North Indian, Continental",870,2
+"North Indian, Continental",871,1
+"North Indian, Continental",884,1
+"North Indian, Continental",900,1
+"North Indian, Continental",950,2
+"North Indian, Continental",965,1
+"North Indian, Continental",968,1
+"North Indian, Continental",1403,3
+"North Indian, Continental",1405,3
+"North Indian, Continental",1406,1
+"North Indian, Continental",1407,1
+"North Indian, Continental",1411,1
+"North Indian, Fast Food",0,98
+"North Indian, Fast Food",4,5
+"North Indian, Fast Food",6,4
+"North Indian, Fast Food",7,18
+"North Indian, Fast Food",8,19
+"North Indian, Fast Food",11,6
+"North Indian, Fast Food",12,1
+"North Indian, Fast Food",13,5
+"North Indian, Fast Food",15,2
+"North Indian, Fast Food",21,9
+"North Indian, Fast Food",22,4
+"North Indian, Fast Food",25,2
+"North Indian, Fast Food",29,1
+"North Indian, Fast Food",31,2
+"North Indian, Fast Food",34,1
+"North Indian, Fast Food",35,1
+"North Indian, Fast Food",39,1
+"North Indian, Fast Food",44,2
+"North Indian, Fast Food",55,8
+"North Indian, Fast Food",57,1
+"North Indian, Fast Food",61,5
+"North Indian, Fast Food",69,3
+"North Indian, Fast Food",83,1
+"North Indian, Fast Food",84,1
+"North Indian, Fast Food",95,4
+"North Indian, Fast Food",96,7
+"North Indian, Fast Food",97,2
+"North Indian, Fast Food",108,1
+"North Indian, Fast Food",138,4
+"North Indian, Fast Food",139,3
+"North Indian, Fast Food",140,5
+"North Indian, Fast Food",147,4
+"North Indian, Fast Food",237,1
+"North Indian, Fast Food",248,2
+"North Indian, Fast Food",252,1
+"North Indian, Fast Food",405,1
+"North Indian, Fast Food",419,1
+"North Indian, Fast Food",425,1
+"North Indian, Mughlai",0,14
+"North Indian, Mughlai",4,2
+"North Indian, Mughlai",5,4
+"North Indian, Mughlai",6,4
+"North Indian, Mughlai",7,6
+"North Indian, Mughlai",8,1
+"North Indian, Mughlai",9,8
+"North Indian, Mughlai",20,2
+"North Indian, Mughlai",24,1
+"North Indian, Mughlai",27,1
+"North Indian, Mughlai",32,6
+"North Indian, Mughlai",33,2
+"North Indian, Mughlai",34,1
+"North Indian, Mughlai",45,4
+"North Indian, Mughlai",47,2
+"North Indian, Mughlai",60,1
+"North Indian, Mughlai",63,2
+"North Indian, Mughlai",70,1
+"North Indian, Mughlai",71,1
+"North Indian, Mughlai",76,1
+"North Indian, Mughlai",77,1
+"North Indian, Mughlai",146,2
+"North Indian, Mughlai",148,1
+"North Indian, Mughlai",151,1
+"North Indian, Mughlai",155,2
+"North Indian, Mughlai",281,1
+"North Indian, Mughlai",282,2
+"North Indian, Mughlai",319,5
+"North Indian, Mughlai",324,3
+"North Indian, Mughlai",327,2
+"North Indian, Mughlai",328,1
+"North Indian, Mughlai",329,2
+"North Indian, Mughlai",332,4
+"North Indian, Mughlai",335,2
+"North Indian, Mughlai",337,6
+"North Indian, Mughlai",341,2
+"North Indian, Mughlai",347,2
+"North Indian, Mughlai",355,1
+"North Indian, Mughlai",357,1
+"North Indian, Mughlai",361,1
+"North Indian, Mughlai",362,1
+"North Indian, Mughlai",365,1
+"North Indian, Mughlai",409,1
+"North Indian, Mughlai",410,1
+"North Indian, Mughlai",411,3
+"North Indian, Mughlai",413,1
+"North Indian, Mughlai",485,1
+"North Indian, Mughlai",487,2
+"North Indian, Mughlai",493,1
+"North Indian, Mughlai",543,2
+"North Indian, Mughlai",547,1
+"North Indian, Mughlai",553,2
+"North Indian, Mughlai",558,2
+"North Indian, Mughlai",577,1
+"North Indian, Mughlai",694,2
+"North Indian, Mughlai",782,2
+"North Indian, Mughlai",785,2
+"North Indian, Mughlai",786,6
+"North Indian, Mughlai",869,2
+"North Indian, Mughlai",888,6
+"North Indian, Mughlai",889,5
+"North Indian, Mughlai",1016,1
+"North Indian, Mughlai",1021,3
+"North Indian, Mughlai",1022,3
+"North Indian, Mughlai",1024,1
+"North Indian, Mughlai",1026,2
+"North Indian, Mughlai",1251,1
+"North Indian, Mughlai",1336,2
+"North Indian, Mughlai",1338,1
+"North Indian, Mughlai",1339,1
+"North Indian, Mughlai",1340,1
+"North Indian, Mughlai",1341,1
+"North Indian, Mughlai",1342,4
+"North Indian, Mughlai",1940,2
+"North Indian, Mughlai",1973,1
+"North Indian, Mughlai",1985,1
+"North Indian, Mughlai",2044,1
+"North Indian, Mughlai",2046,1
+"North Indian, Mughlai",2047,1
+"North Indian, Mughlai",2049,1
+"North Indian, Mughlai",2050,1
+"North Indian, Mughlai",2051,1
+"North Indian, Mughlai",2173,1
+"North Indian, Mughlai",2189,1
+"North Indian, Mughlai",3423,1
+"North Indian, Mughlai",3429,1
+"North Indian, Mughlai",3439,1
+"North Indian, Mughlai, Chinese",0,15
+"North Indian, Mughlai, Chinese",7,3
+"North Indian, Mughlai, Chinese",10,2
+"North Indian, Mughlai, Chinese",11,1
+"North Indian, Mughlai, Chinese",12,4
+"North Indian, Mughlai, Chinese",17,2
+"North Indian, Mughlai, Chinese",19,2
+"North Indian, Mughlai, Chinese",21,5
+"North Indian, Mughlai, Chinese",27,2
+"North Indian, Mughlai, Chinese",29,2
+"North Indian, Mughlai, Chinese",30,3
+"North Indian, Mughlai, Chinese",31,2
+"North Indian, Mughlai, Chinese",34,4
+"North Indian, Mughlai, Chinese",35,8
+"North Indian, Mughlai, Chinese",46,4
+"North Indian, Mughlai, Chinese",54,4
+"North Indian, Mughlai, Chinese",55,1
+"North Indian, Mughlai, Chinese",67,1
+"North Indian, Mughlai, Chinese",97,5
+"North Indian, Mughlai, Chinese",98,1
+"North Indian, Mughlai, Chinese",104,1
+"North Indian, Mughlai, Chinese",106,1
+"North Indian, Mughlai, Chinese",114,2
+"North Indian, Mughlai, Chinese",191,4
+"North Indian, Mughlai, Chinese",194,1
+"North Indian, Mughlai, Chinese",196,2
+"North Indian, Mughlai, Chinese",218,2
+"North Indian, Mughlai, Chinese",252,2
+"North Indian, Mughlai, Chinese",253,7
+"North Indian, Mughlai, Chinese",254,2
+"North Indian, Mughlai, Chinese",775,5
+"North Indian, Mughlai, Chinese",783,3
+"North Indian, Mughlai, Chinese",804,1
+"North Indian, South Indian",0,118
+"North Indian, South Indian",4,6
+"North Indian, South Indian",5,24
+"North Indian, South Indian",6,6
+"North Indian, South Indian",7,7
+"North Indian, South Indian",8,11
+"North Indian, South Indian",10,1
+"North Indian, South Indian",11,8
+"North Indian, South Indian",12,11
+"North Indian, South Indian",14,8
+"North Indian, South Indian",15,6
+"North Indian, South Indian",16,6
+"North Indian, South Indian",17,2
+"North Indian, South Indian",18,1
+"North Indian, South Indian",21,2
+"North Indian, South Indian",22,4
+"North Indian, South Indian",23,1
+"North Indian, South Indian",27,4
+"North Indian, South Indian",28,4
+"North Indian, South Indian",30,2
+"North Indian, South Indian",32,2
+"North Indian, South Indian",33,2
+"North Indian, South Indian",40,6
+"North Indian, South Indian",41,1
+"North Indian, South Indian",42,5
+"North Indian, South Indian",50,1
+"North Indian, South Indian",59,6
+"North Indian, South Indian",60,3
+"North Indian, South Indian",61,1
+"North Indian, South Indian",71,2
+"North Indian, South Indian",78,2
+"North Indian, South Indian",79,5
+"North Indian, South Indian",80,4
+"North Indian, South Indian",90,2
+"North Indian, South Indian",91,2
+"North Indian, South Indian",118,2
+"North Indian, South Indian",169,6
+"North Indian, South Indian",170,2
+"North Indian, South Indian",212,3
+"North Indian, South Indian",214,1
+"North Indian, South Indian",232,2
+"North Indian, South Indian",300,2
+"North Indian, South Indian",309,2
+"North Indian, South Indian",353,3
+"North Indian, South Indian",357,4
+"North Indian, South Indian",359,1
+"North Indian, South Indian",362,1
+"North Indian, South Indian",519,1
+"North Indian, South Indian",522,1
+"North Indian, South Indian",568,2
+"North Indian, South Indian",569,2
+"North Indian, South Indian",1143,3
+"North Indian, South Indian",1145,3
+"North Indian, South Indian",2022,3
+"North Indian, South Indian",2025,1
+"North Indian, South Indian",2027,1
+"North Indian, South Indian",2031,1
+"North Indian, South Indian",2032,1
+"North Indian, South Indian",2049,1
+"North Indian, South Indian",2127,2
+"North Indian, South Indian",3126,3
+"North Indian, South Indian",3130,2
+"North Indian, South Indian",3135,1
+"North Indian, South Indian",3150,3
+"North Indian, South Indian",3152,6
+"North Indian, South Indian, Chinese",0,93
+"North Indian, South Indian, Chinese",4,9
+"North Indian, South Indian, Chinese",5,5
+"North Indian, South Indian, Chinese",6,14
+"North Indian, South Indian, Chinese",7,4
+"North Indian, South Indian, Chinese",8,5
+"North Indian, South Indian, Chinese",9,4
+"North Indian, South Indian, Chinese",10,3
+"North Indian, South Indian, Chinese",11,1
+"North Indian, South Indian, Chinese",12,10
+"North Indian, South Indian, Chinese",13,5
+"North Indian, South Indian, Chinese",14,11
+"North Indian, South Indian, Chinese",15,1
+"North Indian, South Indian, Chinese",16,1
+"North Indian, South Indian, Chinese",20,4
+"North Indian, South Indian, Chinese",21,1
+"North Indian, South Indian, Chinese",22,1
+"North Indian, South Indian, Chinese",24,2
+"North Indian, South Indian, Chinese",27,2
+"North Indian, South Indian, Chinese",28,4
+"North Indian, South Indian, Chinese",30,1
+"North Indian, South Indian, Chinese",31,3
+"North Indian, South Indian, Chinese",32,3
+"North Indian, South Indian, Chinese",33,4
+"North Indian, South Indian, Chinese",34,2
+"North Indian, South Indian, Chinese",36,2
+"North Indian, South Indian, Chinese",42,2
+"North Indian, South Indian, Chinese",46,3
+"North Indian, South Indian, Chinese",51,2
+"North Indian, South Indian, Chinese",52,2
+"North Indian, South Indian, Chinese",53,2
+"North Indian, South Indian, Chinese",59,3
+"North Indian, South Indian, Chinese",60,3
+"North Indian, South Indian, Chinese",61,1
+"North Indian, South Indian, Chinese",62,5
+"North Indian, South Indian, Chinese",81,4
+"North Indian, South Indian, Chinese",91,4
+"North Indian, South Indian, Chinese",92,4
+"North Indian, South Indian, Chinese",93,9
+"North Indian, South Indian, Chinese",97,2
+"North Indian, South Indian, Chinese",115,1
+"North Indian, South Indian, Chinese",116,2
+"North Indian, South Indian, Chinese",128,3
+"North Indian, South Indian, Chinese",139,1
+"North Indian, South Indian, Chinese",142,3
+"North Indian, South Indian, Chinese",146,2
+"North Indian, South Indian, Chinese",154,1
+"North Indian, South Indian, Chinese",155,1
+"North Indian, South Indian, Chinese",156,1
+"North Indian, South Indian, Chinese",172,11
+"North Indian, South Indian, Chinese",217,2
+"North Indian, South Indian, Chinese",218,2
+"North Indian, South Indian, Chinese",241,2
+"North Indian, South Indian, Chinese",343,2
+"North Indian, South Indian, Chinese",344,2
+"North Indian, South Indian, Chinese",358,2
+"North Indian, South Indian, Chinese",434,10
+"North Indian, South Indian, Chinese",500,1
+"North Indian, South Indian, Chinese",502,2
+"North Indian, South Indian, Chinese",503,2
+"North Indian, South Indian, Chinese",504,2
+"North Indian, South Indian, Chinese",510,1
+"North Indian, South Indian, Chinese",512,1
+"North Indian, South Indian, Chinese",1033,1
+"North Indian, South Indian, Chinese",1234,1
+"North Indian, South Indian, Chinese",1235,1
+"North Indian, South Indian, Chinese",1239,3
+"North Indian, South Indian, Chinese",1240,1
+"North Indian, Street Food",0,27
+"North Indian, Street Food",4,2
+"North Indian, Street Food",6,1
+"North Indian, Street Food",10,2
+"North Indian, Street Food",13,2
+"North Indian, Street Food",16,9
+"North Indian, Street Food",18,2
+"North Indian, Street Food",22,2
+"North Indian, Street Food",26,4
+"North Indian, Street Food",28,3
+"North Indian, Street Food",38,3
+"North Indian, Street Food",39,4
+"North Indian, Street Food",51,2
+"North Indian, Street Food",59,3
+"North Indian, Street Food",60,1
+"North Indian, Street Food",67,1
+"North Indian, Street Food",69,2
+"North Indian, Street Food",70,2
+"North Indian, Street Food",75,6
+"North Indian, Street Food",87,1
+"North Indian, Street Food",116,3
+"North Indian, Street Food",118,2
+"North Indian, Street Food",137,10
+"North Indian, Street Food",138,3
+"North Indian, Street Food",154,8
+"North Indian, Street Food",159,4
+"North Indian, Street Food",161,6
+"North Indian, Street Food",162,1
+"North Indian, Street Food",199,1
+"North Indian, Street Food",201,2
+"North Indian, Street Food",203,6
+"North Indian, Street Food",258,4
+"North Indian, Street Food",262,2
+"North Indian, Street Food",428,2
+"North Indian, Street Food",458,1
+"North Indian, Street Food",461,2
+"North Indian, Street Food",515,2
+"North Indian, Street Food",528,2
+"North Indian, Street Food",631,1
+"North Indian, Street Food",632,2
+"North Indian, Street Food",1098,1
+"North Indian, Street Food",1100,1
+"North Indian, Street Food",1837,2
+"North Indian, Street Food",1838,1
+"North Indian, Street Food",1849,1
+"North Indian, Street Food",1850,1
+Pizza,0,28
+Pizza,4,3
+Pizza,8,2
+Pizza,9,2
+Pizza,10,2
+Pizza,16,9
+Pizza,17,2
+Pizza,22,1
+Pizza,25,5
+Pizza,28,1
+Pizza,30,1
+Pizza,34,1
+Pizza,38,5
+Pizza,45,2
+Pizza,46,6
+Pizza,49,1
+Pizza,50,1
+Pizza,55,1
+Pizza,59,1
+Pizza,60,3
+Pizza,61,1
+Pizza,68,1
+Pizza,74,9
+Pizza,77,3
+Pizza,80,5
+Pizza,81,1
+Pizza,82,1
+Pizza,91,2
+Pizza,97,3
+Pizza,99,1
+Pizza,100,1
+Pizza,106,2
+Pizza,108,1
+Pizza,115,2
+Pizza,120,1
+Pizza,122,1
+Pizza,144,1
+Pizza,159,4
+Pizza,162,2
+Pizza,164,1
+Pizza,166,2
+Pizza,167,1
+Pizza,172,3
+Pizza,179,1
+Pizza,182,2
+Pizza,192,4
+Pizza,195,1
+Pizza,200,3
+Pizza,201,1
+Pizza,203,1
+Pizza,204,1
+Pizza,217,1
+Pizza,218,1
+Pizza,227,1
+Pizza,235,1
+Pizza,237,1
+Pizza,238,1
+Pizza,239,1
+Pizza,263,1
+Pizza,268,2
+Pizza,270,2
+Pizza,289,1
+Pizza,290,1
+Pizza,310,1
+Pizza,369,1
+Pizza,384,1
+Pizza,475,1
+Pizza,476,1
+Pizza,486,1
+"Pizza, Fast Food",0,20
+"Pizza, Fast Food",4,2
+"Pizza, Fast Food",5,4
+"Pizza, Fast Food",6,1
+"Pizza, Fast Food",7,1
+"Pizza, Fast Food",10,1
+"Pizza, Fast Food",11,1
+"Pizza, Fast Food",15,1
+"Pizza, Fast Food",19,1
+"Pizza, Fast Food",23,1
+"Pizza, Fast Food",25,2
+"Pizza, Fast Food",30,1
+"Pizza, Fast Food",31,1
+"Pizza, Fast Food",32,1
+"Pizza, Fast Food",37,1
+"Pizza, Fast Food",39,1
+"Pizza, Fast Food",43,1
+"Pizza, Fast Food",49,1
+"Pizza, Fast Food",61,2
+"Pizza, Fast Food",66,1
+"Pizza, Fast Food",69,1
+"Pizza, Fast Food",104,1
+"Pizza, Fast Food",105,1
+"Pizza, Fast Food",108,1
+"Pizza, Fast Food",116,1
+"Pizza, Fast Food",117,4
+"Pizza, Fast Food",120,1
+"Pizza, Fast Food",121,4
+"Pizza, Fast Food",122,2
+"Pizza, Fast Food",142,1
+"Pizza, Fast Food",148,1
+"Pizza, Fast Food",150,2
+"Pizza, Fast Food",172,1
+"Pizza, Fast Food",185,1
+"Pizza, Fast Food",189,1
+"Pizza, Fast Food",208,1
+"Pizza, Fast Food",217,1
+"Pizza, Fast Food",235,3
+"Pizza, Fast Food",236,2
+"Pizza, Fast Food",251,1
+"Pizza, Fast Food",257,1
+"Pizza, Fast Food",260,1
+"Pizza, Fast Food",262,1
+"Pizza, Fast Food",266,1
+"Pizza, Fast Food",270,1
+"Pizza, Fast Food",284,1
+"Pizza, Fast Food",288,2
+"Pizza, Fast Food",290,1
+"Pizza, Fast Food",291,2
+"Pizza, Fast Food",302,2
+"Pizza, Fast Food",304,1
+"Pizza, Fast Food",314,1
+"Pizza, Fast Food",319,1
+"Pizza, Fast Food",332,2
+"Pizza, Fast Food",340,2
+"Pizza, Fast Food",347,1
+"Pizza, Fast Food",348,1
+"Pizza, Fast Food",377,3
+"Pizza, Fast Food",378,2
+"Pizza, Fast Food",383,1
+"Pizza, Fast Food",386,1
+"Pizza, Fast Food",387,1
+"Pizza, Fast Food",388,1
+"Pizza, Fast Food",390,1
+"Pizza, Fast Food",392,1
+"Pizza, Fast Food",399,1
+"Pizza, Fast Food",405,1
+"Pizza, Fast Food",413,1
+"Pizza, Fast Food",419,1
+"Pizza, Fast Food",434,2
+"Pizza, Fast Food",436,2
+"Pizza, Fast Food",442,1
+"Pizza, Fast Food",452,2
+"Pizza, Fast Food",458,1
+"Pizza, Fast Food",464,1
+"Pizza, Fast Food",466,1
+"Pizza, Fast Food",477,1
+"Pizza, Fast Food",487,1
+"Pizza, Fast Food",490,5
+"Pizza, Fast Food",492,2
+"Pizza, Fast Food",521,1
+"Pizza, Fast Food",540,2
+"Pizza, Fast Food",542,1
+"Pizza, Fast Food",567,4
+"Pizza, Fast Food",693,2
+"Pizza, Fast Food",706,1
+"Pizza, Fast Food",707,1
+"Pizza, Fast Food",708,1
+"Pizza, Fast Food",770,1
+"Pizza, Fast Food",833,1
+"Pizza, Fast Food",835,1
+South Indian,0,592
+South Indian,4,63
+South Indian,5,64
+South Indian,6,29
+South Indian,7,43
+South Indian,8,30
+South Indian,9,51
+South Indian,10,25
+South Indian,11,40
+South Indian,12,30
+South Indian,13,39
+South Indian,14,35
+South Indian,15,17
+South Indian,16,29
+South Indian,17,23
+South Indian,18,12
+South Indian,19,10
+South Indian,20,12
+South Indian,21,21
+South Indian,22,7
+South Indian,23,4
+South Indian,24,24
+South Indian,25,14
+South Indian,26,15
+South Indian,27,25
+South Indian,28,9
+South Indian,29,12
+South Indian,30,7
+South Indian,31,8
+South Indian,32,4
+South Indian,33,6
+South Indian,34,5
+South Indian,35,9
+South Indian,36,14
+South Indian,37,10
+South Indian,38,22
+South Indian,40,13
+South Indian,41,5
+South Indian,42,5
+South Indian,43,16
+South Indian,44,9
+South Indian,45,5
+South Indian,46,9
+South Indian,47,12
+South Indian,49,1
+South Indian,50,3
+South Indian,51,6
+South Indian,52,13
+South Indian,53,3
+South Indian,54,3
+South Indian,55,7
+South Indian,56,2
+South Indian,57,5
+South Indian,58,3
+South Indian,59,4
+South Indian,60,2
+South Indian,62,3
+South Indian,63,3
+South Indian,64,5
+South Indian,65,2
+South Indian,66,8
+South Indian,67,18
+South Indian,69,5
+South Indian,70,3
+South Indian,73,2
+South Indian,75,6
+South Indian,76,7
+South Indian,77,4
+South Indian,78,1
+South Indian,82,1
+South Indian,83,5
+South Indian,84,1
+South Indian,85,1
+South Indian,86,1
+South Indian,87,2
+South Indian,88,2
+South Indian,90,4
+South Indian,91,3
+South Indian,92,1
+South Indian,93,2
+South Indian,94,4
+South Indian,96,1
+South Indian,97,3
+South Indian,98,2
+South Indian,99,1
+South Indian,100,6
+South Indian,101,4
+South Indian,102,2
+South Indian,104,2
+South Indian,105,2
+South Indian,106,8
+South Indian,109,2
+South Indian,111,1
+South Indian,112,1
+South Indian,115,4
+South Indian,126,1
+South Indian,127,1
+South Indian,128,1
+South Indian,129,1
+South Indian,130,3
+South Indian,134,2
+South Indian,135,1
+South Indian,140,3
+South Indian,141,1
+South Indian,144,6
+South Indian,148,2
+South Indian,153,2
+South Indian,159,1
+South Indian,163,1
+South Indian,177,1
+South Indian,178,1
+South Indian,179,1
+South Indian,181,2
+South Indian,187,1
+South Indian,189,4
+South Indian,191,1
+South Indian,193,1
+South Indian,197,1
+South Indian,202,1
+South Indian,203,5
+South Indian,205,1
+South Indian,206,2
+South Indian,207,1
+South Indian,208,2
+South Indian,214,2
+South Indian,219,1
+South Indian,220,2
+South Indian,222,1
+South Indian,228,1
+South Indian,238,2
+South Indian,253,3
+South Indian,254,1
+South Indian,255,1
+South Indian,257,1
+South Indian,264,4
+South Indian,266,1
+South Indian,267,3
+South Indian,274,4
+South Indian,275,4
+South Indian,276,1
+South Indian,278,2
+South Indian,280,1
+South Indian,282,1
+South Indian,283,1
+South Indian,284,1
+South Indian,286,2
+South Indian,287,2
+South Indian,310,1
+South Indian,316,1
+South Indian,319,1
+South Indian,322,3
+South Indian,325,1
+South Indian,326,2
+South Indian,327,4
+South Indian,343,2
+South Indian,344,1
+South Indian,421,1
+South Indian,424,2
+South Indian,434,2
+South Indian,444,4
+South Indian,449,1
+South Indian,463,1
+South Indian,466,1
+South Indian,468,4
+South Indian,470,1
+South Indian,473,4
+South Indian,478,1
+South Indian,482,1
+South Indian,485,1
+South Indian,489,2
+South Indian,504,2
+South Indian,558,4
+South Indian,560,1
+South Indian,562,1
+South Indian,564,1
+South Indian,650,1
+South Indian,651,1
+South Indian,653,1
+South Indian,654,1
+South Indian,655,1
+South Indian,656,5
+South Indian,678,1
+South Indian,690,1
+South Indian,697,2
+South Indian,700,2
+South Indian,703,1
+South Indian,722,2
+South Indian,731,1
+South Indian,748,1
+South Indian,750,1
+South Indian,873,2
+South Indian,875,1
+South Indian,969,1
+South Indian,971,2
+South Indian,972,4
+South Indian,973,3
+South Indian,1217,1
+South Indian,1218,1
+South Indian,1221,1
+South Indian,1223,2
+South Indian,1573,2
+South Indian,1576,3
+South Indian,1597,1
+South Indian,1598,1
+South Indian,1602,2
+South Indian,1604,1
+South Indian,1610,1
+South Indian,1611,1
+South Indian,1878,1
+South Indian,2407,1
+South Indian,2416,1
+South Indian,2679,1
+South Indian,2896,1
+South Indian,4408,2
+South Indian,4421,2
+South Indian,4460,2
+"South Indian, Biryani",0,82
+"South Indian, Biryani",4,26
+"South Indian, Biryani",5,1
+"South Indian, Biryani",6,27
+"South Indian, Biryani",9,14
+"South Indian, Biryani",10,21
+"South Indian, Biryani",11,2
+"South Indian, Biryani",13,4
+"South Indian, Biryani",14,2
+"South Indian, Biryani",15,2
+"South Indian, Biryani",17,3
+"South Indian, Biryani",24,3
+"South Indian, Biryani",29,6
+"South Indian, Biryani",30,1
+"South Indian, Biryani",31,6
+"South Indian, Biryani",33,2
+"South Indian, Biryani",39,4
+"South Indian, Biryani",70,1
+"South Indian, Biryani",78,3
+"South Indian, Biryani",79,10
+"South Indian, Biryani",92,1
+"South Indian, Biryani",95,2
+"South Indian, Biryani",97,2
+"South Indian, Biryani",112,2
+"South Indian, Biryani",116,2
+"South Indian, Biryani",120,1
+"South Indian, Biryani",199,2
+"South Indian, Biryani",200,3
+"South Indian, Biryani",258,1
+"South Indian, Biryani",266,2
+"South Indian, Biryani",268,2
+"South Indian, Biryani",332,1
+"South Indian, Biryani",725,1
+"South Indian, Biryani",734,1
+"South Indian, Biryani",760,1
+"South Indian, Biryani",2486,1
+"South Indian, Biryani",2497,1
+"South Indian, Chinese",0,86
+"South Indian, Chinese",4,23
+"South Indian, Chinese",5,4
+"South Indian, Chinese",6,1
+"South Indian, Chinese",7,2
+"South Indian, Chinese",8,2
+"South Indian, Chinese",9,2
+"South Indian, Chinese",10,11
+"South Indian, Chinese",11,5
+"South Indian, Chinese",12,3
+"South Indian, Chinese",13,11
+"South Indian, Chinese",14,3
+"South Indian, Chinese",16,6
+"South Indian, Chinese",17,2
+"South Indian, Chinese",18,4
+"South Indian, Chinese",21,7
+"South Indian, Chinese",22,3
+"South Indian, Chinese",23,4
+"South Indian, Chinese",27,5
+"South Indian, Chinese",28,1
+"South Indian, Chinese",33,1
+"South Indian, Chinese",34,11
+"South Indian, Chinese",40,5
+"South Indian, Chinese",46,1
+"South Indian, Chinese",54,1
+"South Indian, Chinese",55,1
+"South Indian, Chinese",56,2
+"South Indian, Chinese",58,2
+"South Indian, Chinese",59,1
+"South Indian, Chinese",60,1
+"South Indian, Chinese",62,2
+"South Indian, Chinese",70,5
+"South Indian, Chinese",73,4
+"South Indian, Chinese",93,10
+"South Indian, Chinese",94,2
+"South Indian, Chinese",106,10
+"South Indian, Chinese",166,1
+"South Indian, Chinese",232,3
+"South Indian, Chinese",233,5
+"South Indian, Chinese",370,1
+"South Indian, Chinese, North Indian",0,59
+"South Indian, Chinese, North Indian",6,2
+"South Indian, Chinese, North Indian",7,2
+"South Indian, Chinese, North Indian",9,2
+"South Indian, Chinese, North Indian",15,1
+"South Indian, Chinese, North Indian",17,1
+"South Indian, Chinese, North Indian",19,2
+"South Indian, Chinese, North Indian",20,1
+"South Indian, Chinese, North Indian",27,2
+"South Indian, Chinese, North Indian",30,1
+"South Indian, Chinese, North Indian",33,6
+"South Indian, Chinese, North Indian",39,6
+"South Indian, Chinese, North Indian",53,1
+"South Indian, Chinese, North Indian",66,3
+"South Indian, Chinese, North Indian",67,8
+"South Indian, Chinese, North Indian",71,2
+"South Indian, Chinese, North Indian",77,1
+"South Indian, Chinese, North Indian",79,1
+"South Indian, Chinese, North Indian",111,1
+"South Indian, Chinese, North Indian",171,1
+"South Indian, Chinese, North Indian",443,2
+"South Indian, Fast Food",0,46
+"South Indian, Fast Food",5,4
+"South Indian, Fast Food",8,1
+"South Indian, Fast Food",14,2
+"South Indian, Fast Food",33,1
+"South Indian, Fast Food",34,3
+"South Indian, Fast Food",35,2
+"South Indian, Fast Food",65,2
+"South Indian, Fast Food",66,7
+"South Indian, Fast Food",67,2
+"South Indian, Fast Food",70,1
+"South Indian, Fast Food",74,1
+"South Indian, Fast Food",81,6
+"South Indian, Fast Food",92,2
+"South Indian, Fast Food",136,3
+"South Indian, Fast Food",137,4
+"South Indian, Fast Food",197,4
+"South Indian, Fast Food",237,5
+"South Indian, Fast Food",286,3
+"South Indian, Fast Food",543,3
+"South Indian, Fast Food",544,1
+"South Indian, Fast Food",549,1
+"South Indian, North Indian",0,123
+"South Indian, North Indian",4,13
+"South Indian, North Indian",5,2
+"South Indian, North Indian",6,20
+"South Indian, North Indian",7,3
+"South Indian, North Indian",8,7
+"South Indian, North Indian",9,3
+"South Indian, North Indian",10,2
+"South Indian, North Indian",11,23
+"South Indian, North Indian",12,3
+"South Indian, North Indian",14,6
+"South Indian, North Indian",15,5
+"South Indian, North Indian",17,11
+"South Indian, North Indian",18,3
+"South Indian, North Indian",19,5
+"South Indian, North Indian",20,3
+"South Indian, North Indian",21,2
+"South Indian, North Indian",22,5
+"South Indian, North Indian",23,6
+"South Indian, North Indian",24,3
+"South Indian, North Indian",28,1
+"South Indian, North Indian",31,9
+"South Indian, North Indian",38,1
+"South Indian, North Indian",39,3
+"South Indian, North Indian",46,1
+"South Indian, North Indian",47,4
+"South Indian, North Indian",49,4
+"South Indian, North Indian",50,1
+"South Indian, North Indian",52,2
+"South Indian, North Indian",53,2
+"South Indian, North Indian",56,7
+"South Indian, North Indian",68,12
+"South Indian, North Indian",69,3
+"South Indian, North Indian",71,2
+"South Indian, North Indian",73,1
+"South Indian, North Indian",88,2
+"South Indian, North Indian",99,7
+"South Indian, North Indian",135,1
+"South Indian, North Indian",136,1
+"South Indian, North Indian",169,5
+"South Indian, North Indian",170,8
+"South Indian, North Indian",206,2
+"South Indian, North Indian",221,1
+"South Indian, North Indian",223,1
+"South Indian, North Indian",254,1
+"South Indian, North Indian",339,1
+"South Indian, North Indian",371,6
+"South Indian, North Indian",484,2
+"South Indian, North Indian",491,2
+"South Indian, North Indian",493,2
+"South Indian, North Indian, Chinese",0,166
+"South Indian, North Indian, Chinese",4,19
+"South Indian, North Indian, Chinese",5,7
+"South Indian, North Indian, Chinese",6,4
+"South Indian, North Indian, Chinese",7,23
+"South Indian, North Indian, Chinese",8,8
+"South Indian, North Indian, Chinese",9,13
+"South Indian, North Indian, Chinese",10,13
+"South Indian, North Indian, Chinese",11,9
+"South Indian, North Indian, Chinese",12,3
+"South Indian, North Indian, Chinese",13,18
+"South Indian, North Indian, Chinese",14,19
+"South Indian, North Indian, Chinese",15,10
+"South Indian, North Indian, Chinese",16,8
+"South Indian, North Indian, Chinese",17,3
+"South Indian, North Indian, Chinese",18,1
+"South Indian, North Indian, Chinese",19,10
+"South Indian, North Indian, Chinese",20,16
+"South Indian, North Indian, Chinese",21,28
+"South Indian, North Indian, Chinese",22,3
+"South Indian, North Indian, Chinese",23,4
+"South Indian, North Indian, Chinese",24,14
+"South Indian, North Indian, Chinese",25,11
+"South Indian, North Indian, Chinese",26,2
+"South Indian, North Indian, Chinese",27,2
+"South Indian, North Indian, Chinese",28,3
+"South Indian, North Indian, Chinese",29,2
+"South Indian, North Indian, Chinese",30,11
+"South Indian, North Indian, Chinese",31,17
+"South Indian, North Indian, Chinese",32,5
+"South Indian, North Indian, Chinese",33,2
+"South Indian, North Indian, Chinese",34,1
+"South Indian, North Indian, Chinese",35,2
+"South Indian, North Indian, Chinese",36,2
+"South Indian, North Indian, Chinese",37,2
+"South Indian, North Indian, Chinese",38,1
+"South Indian, North Indian, Chinese",40,1
+"South Indian, North Indian, Chinese",41,1
+"South Indian, North Indian, Chinese",42,11
+"South Indian, North Indian, Chinese",43,3
+"South Indian, North Indian, Chinese",47,3
+"South Indian, North Indian, Chinese",48,2
+"South Indian, North Indian, Chinese",49,2
+"South Indian, North Indian, Chinese",50,12
+"South Indian, North Indian, Chinese",52,11
+"South Indian, North Indian, Chinese",55,2
+"South Indian, North Indian, Chinese",61,2
+"South Indian, North Indian, Chinese",62,10
+"South Indian, North Indian, Chinese",64,5
+"South Indian, North Indian, Chinese",67,8
+"South Indian, North Indian, Chinese",69,3
+"South Indian, North Indian, Chinese",70,1
+"South Indian, North Indian, Chinese",71,1
+"South Indian, North Indian, Chinese",72,8
+"South Indian, North Indian, Chinese",74,4
+"South Indian, North Indian, Chinese",76,2
+"South Indian, North Indian, Chinese",77,4
+"South Indian, North Indian, Chinese",82,2
+"South Indian, North Indian, Chinese",83,1
+"South Indian, North Indian, Chinese",84,5
+"South Indian, North Indian, Chinese",90,2
+"South Indian, North Indian, Chinese",91,2
+"South Indian, North Indian, Chinese",92,5
+"South Indian, North Indian, Chinese",93,1
+"South Indian, North Indian, Chinese",95,1
+"South Indian, North Indian, Chinese",99,5
+"South Indian, North Indian, Chinese",100,5
+"South Indian, North Indian, Chinese",101,6
+"South Indian, North Indian, Chinese",102,8
+"South Indian, North Indian, Chinese",106,4
+"South Indian, North Indian, Chinese",108,2
+"South Indian, North Indian, Chinese",117,1
+"South Indian, North Indian, Chinese",126,7
+"South Indian, North Indian, Chinese",127,1
+"South Indian, North Indian, Chinese",128,1
+"South Indian, North Indian, Chinese",129,4
+"South Indian, North Indian, Chinese",130,3
+"South Indian, North Indian, Chinese",131,3
+"South Indian, North Indian, Chinese",133,1
+"South Indian, North Indian, Chinese",135,4
+"South Indian, North Indian, Chinese",137,2
+"South Indian, North Indian, Chinese",140,2
+"South Indian, North Indian, Chinese",141,2
+"South Indian, North Indian, Chinese",142,2
+"South Indian, North Indian, Chinese",148,2
+"South Indian, North Indian, Chinese",156,1
+"South Indian, North Indian, Chinese",158,1
+"South Indian, North Indian, Chinese",159,1
+"South Indian, North Indian, Chinese",160,2
+"South Indian, North Indian, Chinese",161,2
+"South Indian, North Indian, Chinese",162,1
+"South Indian, North Indian, Chinese",164,2
+"South Indian, North Indian, Chinese",166,6
+"South Indian, North Indian, Chinese",167,1
+"South Indian, North Indian, Chinese",170,1
+"South Indian, North Indian, Chinese",178,1
+"South Indian, North Indian, Chinese",180,1
+"South Indian, North Indian, Chinese",193,2
+"South Indian, North Indian, Chinese",194,7
+"South Indian, North Indian, Chinese",199,1
+"South Indian, North Indian, Chinese",203,1
+"South Indian, North Indian, Chinese",253,2
+"South Indian, North Indian, Chinese",265,1
+"South Indian, North Indian, Chinese",317,2
+"South Indian, North Indian, Chinese",327,3
+"South Indian, North Indian, Chinese",332,3
+"South Indian, North Indian, Chinese",334,2
+"South Indian, North Indian, Chinese",335,1
+"South Indian, North Indian, Chinese",339,3
+"South Indian, North Indian, Chinese",340,1
+"South Indian, North Indian, Chinese",377,1
+"South Indian, North Indian, Chinese",378,1
+"South Indian, North Indian, Chinese",379,1
+"South Indian, North Indian, Chinese",396,1
+"South Indian, North Indian, Chinese",398,1
+"South Indian, North Indian, Chinese",403,1
+"South Indian, North Indian, Chinese",417,1
+"South Indian, North Indian, Chinese",419,1
+"South Indian, North Indian, Chinese",518,2
+"South Indian, North Indian, Chinese",519,4
+"South Indian, North Indian, Chinese",520,1
+"South Indian, North Indian, Chinese",538,1
+"South Indian, North Indian, Chinese",600,2
+"South Indian, North Indian, Chinese",674,2
+"South Indian, North Indian, Chinese",676,7
+"South Indian, North Indian, Chinese",679,1
+"South Indian, North Indian, Chinese",771,3
+"South Indian, North Indian, Chinese",1192,2
+"South Indian, North Indian, Chinese",1195,1
+"South Indian, North Indian, Chinese",1196,1
+"South Indian, North Indian, Chinese, Street Food",0,15
+"South Indian, North Indian, Chinese, Street Food",4,3
+"South Indian, North Indian, Chinese, Street Food",6,4
+"South Indian, North Indian, Chinese, Street Food",8,1
+"South Indian, North Indian, Chinese, Street Food",11,2
+"South Indian, North Indian, Chinese, Street Food",12,5
+"South Indian, North Indian, Chinese, Street Food",13,6
+"South Indian, North Indian, Chinese, Street Food",15,3
+"South Indian, North Indian, Chinese, Street Food",16,1
+"South Indian, North Indian, Chinese, Street Food",18,1
+"South Indian, North Indian, Chinese, Street Food",20,3
+"South Indian, North Indian, Chinese, Street Food",22,1
+"South Indian, North Indian, Chinese, Street Food",26,1
+"South Indian, North Indian, Chinese, Street Food",32,1
+"South Indian, North Indian, Chinese, Street Food",36,11
+"South Indian, North Indian, Chinese, Street Food",38,4
+"South Indian, North Indian, Chinese, Street Food",39,3
+"South Indian, North Indian, Chinese, Street Food",41,2
+"South Indian, North Indian, Chinese, Street Food",49,5
+"South Indian, North Indian, Chinese, Street Food",51,2
+"South Indian, North Indian, Chinese, Street Food",52,1
+"South Indian, North Indian, Chinese, Street Food",53,5
+"South Indian, North Indian, Chinese, Street Food",54,2
+"South Indian, North Indian, Chinese, Street Food",57,3
+"South Indian, North Indian, Chinese, Street Food",58,2
+"South Indian, North Indian, Chinese, Street Food",60,4
+"South Indian, North Indian, Chinese, Street Food",70,2
+"South Indian, North Indian, Chinese, Street Food",81,1
+"South Indian, North Indian, Chinese, Street Food",82,5
+"South Indian, North Indian, Chinese, Street Food",86,1
+"South Indian, North Indian, Chinese, Street Food",97,1
+"South Indian, North Indian, Chinese, Street Food",100,1
+"South Indian, North Indian, Chinese, Street Food",101,2
+"South Indian, North Indian, Chinese, Street Food",155,4
+"South Indian, North Indian, Chinese, Street Food",156,4
+"South Indian, North Indian, Chinese, Street Food",160,1
+"South Indian, North Indian, Chinese, Street Food",161,2
+"South Indian, North Indian, Chinese, Street Food",163,5
+"South Indian, North Indian, Chinese, Street Food",201,3
+"South Indian, North Indian, Chinese, Street Food",207,4
+"South Indian, North Indian, Chinese, Street Food",208,4
+"South Indian, North Indian, Chinese, Street Food",210,2
+"South Indian, North Indian, Chinese, Street Food",211,1
+"South Indian, North Indian, Chinese, Street Food",240,2
+"South Indian, North Indian, Chinese, Street Food",241,1
+"South Indian, North Indian, Chinese, Street Food",244,2
+"South Indian, North Indian, Chinese, Street Food",266,1
+"South Indian, North Indian, Chinese, Street Food",289,4
+"South Indian, North Indian, Chinese, Street Food",291,3
+"South Indian, North Indian, Chinese, Street Food",301,1
+"South Indian, North Indian, Chinese, Street Food",325,2
+"South Indian, North Indian, Chinese, Street Food",404,2
+"South Indian, North Indian, Chinese, Street Food",407,1
+"South Indian, North Indian, Chinese, Street Food",409,1
+"South Indian, North Indian, Chinese, Street Food",425,1
+"South Indian, North Indian, Chinese, Street Food",446,2
+"South Indian, North Indian, Chinese, Street Food",465,3
+"South Indian, North Indian, Chinese, Street Food",467,1
+"South Indian, North Indian, Chinese, Street Food",468,1
+"South Indian, North Indian, Chinese, Street Food",469,1
+"South Indian, North Indian, Chinese, Street Food",473,8
+"South Indian, North Indian, Chinese, Street Food",474,1
+"South Indian, North Indian, Chinese, Street Food",532,2
+"South Indian, North Indian, Chinese, Street Food",564,1
+"South Indian, North Indian, Chinese, Street Food",734,2
+"South Indian, North Indian, Chinese, Street Food",775,1
+"South Indian, North Indian, Chinese, Street Food",783,2
+"South Indian, North Indian, Chinese, Street Food",785,1
+"South Indian, North Indian, Chinese, Street Food",786,1
+"South Indian, North Indian, Chinese, Street Food",787,1
+"South Indian, North Indian, Chinese, Street Food",789,2
+"South Indian, North Indian, Chinese, Street Food",790,1
+Street Food,0,46
+Street Food,4,14
+Street Food,5,1
+Street Food,6,6
+Street Food,7,20
+Street Food,8,2
+Street Food,9,18
+Street Food,11,2
+Street Food,12,5
+Street Food,13,4
+Street Food,14,7
+Street Food,15,5
+Street Food,16,3
+Street Food,18,6
+Street Food,19,5
+Street Food,20,1
+Street Food,21,2
+Street Food,22,1
+Street Food,23,1
+Street Food,25,3
+Street Food,27,4
+Street Food,29,2
+Street Food,31,2
+Street Food,32,4
+Street Food,33,8
+Street Food,34,9
+Street Food,35,2
+Street Food,38,2
+Street Food,39,1
+Street Food,41,3
+Street Food,42,3
+Street Food,43,1
+Street Food,44,4
+Street Food,47,2
+Street Food,49,1
+Street Food,50,1
+Street Food,51,2
+Street Food,61,3
+Street Food,62,1
+Street Food,65,5
+Street Food,69,2
+Street Food,74,1
+Street Food,76,1
+Street Food,78,1
+Street Food,84,6
+Street Food,86,2
+Street Food,91,3
+Street Food,93,5
+Street Food,188,3
+Street Food,201,2
+Street Food,215,3
+Street Food,217,2
+Street Food,219,2
+Street Food,233,2
+Street Food,239,1
+Street Food,240,1
+Street Food,241,1
+Street Food,306,1
+Street Food,312,1
+Street Food,449,3
+Street Food,453,1
+Street Food,471,1
+others,0,3687
+others,2,7
+others,4,444
+others,5,254
+others,6,326
+others,7,371
+others,8,200
+others,9,296
+others,10,270
+others,11,310
+others,12,225
+others,13,181
+others,14,194
+others,15,133
+others,16,241
+others,17,185
+others,18,167
+others,19,180
+others,20,142
+others,21,168
+others,22,119
+others,23,200
+others,24,171
+others,25,144
+others,26,134
+others,27,97
+others,28,129
+others,29,68
+others,30,97
+others,31,113
+others,32,124
+others,33,107
+others,34,171
+others,35,79
+others,36,95
+others,37,113
+others,38,119
+others,39,102
+others,40,75
+others,41,90
+others,42,118
+others,43,91
+others,44,103
+others,45,55
+others,46,103
+others,47,105
+others,48,97
+others,49,84
+others,50,86
+others,51,81
+others,52,80
+others,53,113
+others,54,117
+others,55,57
+others,56,75
+others,57,100
+others,58,64
+others,59,87
+others,60,38
+others,61,90
+others,62,71
+others,63,62
+others,64,79
+others,65,59
+others,66,60
+others,67,56
+others,68,52
+others,69,53
+others,70,64
+others,71,59
+others,72,71
+others,73,69
+others,74,97
+others,75,76
+others,76,75
+others,77,33
+others,78,28
+others,79,37
+others,80,44
+others,81,26
+others,82,67
+others,83,50
+others,84,35
+others,85,53
+others,86,28
+others,87,28
+others,88,49
+others,89,71
+others,90,50
+others,91,51
+others,92,28
+others,93,38
+others,94,49
+others,95,65
+others,96,60
+others,97,65
+others,98,33
+others,99,37
+others,100,37
+others,101,45
+others,102,27
+others,103,15
+others,104,53
+others,105,39
+others,106,39
+others,107,42
+others,108,54
+others,109,36
+others,110,49
+others,111,30
+others,112,43
+others,113,50
+others,114,33
+others,115,57
+others,116,33
+others,117,58
+others,118,38
+others,119,51
+others,120,37
+others,121,50
+others,122,59
+others,123,22
+others,124,49
+others,125,36
+others,126,29
+others,127,27
+others,128,32
+others,129,39
+others,130,26
+others,131,25
+others,132,43
+others,133,39
+others,134,32
+others,135,22
+others,136,32
+others,137,35
+others,138,38
+others,139,23
+others,140,46
+others,141,42
+others,142,24
+others,143,16
+others,144,37
+others,145,36
+others,146,21
+others,147,21
+others,148,36
+others,149,40
+others,150,27
+others,151,43
+others,152,68
+others,153,25
+others,154,11
+others,155,28
+others,156,18
+others,157,27
+others,158,37
+others,159,20
+others,160,19
+others,161,15
+others,162,14
+others,163,21
+others,164,29
+others,165,35
+others,166,37
+others,167,20
+others,168,18
+others,169,24
+others,170,29
+others,171,18
+others,172,34
+others,173,11
+others,174,32
+others,175,28
+others,176,46
+others,177,44
+others,178,25
+others,179,22
+others,180,16
+others,181,21
+others,182,20
+others,183,29
+others,184,34
+others,185,33
+others,186,16
+others,187,27
+others,188,32
+others,189,15
+others,190,21
+others,191,16
+others,192,10
+others,193,20
+others,194,22
+others,195,34
+others,196,17
+others,197,16
+others,198,32
+others,199,1
+others,200,33
+others,201,29
+others,202,21
+others,203,37
+others,204,18
+others,205,22
+others,206,20
+others,207,26
+others,208,30
+others,209,31
+others,210,26
+others,211,28
+others,212,35
+others,213,31
+others,214,33
+others,215,24
+others,216,23
+others,217,35
+others,218,23
+others,219,32
+others,220,18
+others,221,38
+others,222,17
+others,223,21
+others,224,34
+others,225,25
+others,226,22
+others,227,19
+others,228,19
+others,229,11
+others,230,17
+others,231,36
+others,232,31
+others,233,20
+others,234,28
+others,235,16
+others,236,23
+others,237,25
+others,238,11
+others,239,22
+others,240,19
+others,241,19
+others,242,18
+others,243,17
+others,244,20
+others,245,13
+others,246,8
+others,247,28
+others,248,11
+others,249,8
+others,250,9
+others,251,6
+others,252,17
+others,253,10
+others,254,6
+others,255,23
+others,256,14
+others,257,16
+others,258,21
+others,259,38
+others,260,5
+others,261,29
+others,262,8
+others,263,18
+others,264,12
+others,265,11
+others,266,12
+others,267,15
+others,268,11
+others,269,11
+others,270,20
+others,271,23
+others,272,11
+others,273,23
+others,274,15
+others,275,2
+others,276,3
+others,277,20
+others,278,5
+others,279,6
+others,280,11
+others,281,25
+others,282,9
+others,283,18
+others,284,14
+others,285,8
+others,286,4
+others,287,10
+others,288,4
+others,289,31
+others,290,17
+others,291,32
+others,292,18
+others,293,29
+others,294,27
+others,295,17
+others,296,9
+others,297,11
+others,298,7
+others,299,4
+others,300,16
+others,301,9
+others,302,12
+others,303,4
+others,304,7
+others,305,4
+others,306,22
+others,307,9
+others,308,8
+others,309,8
+others,310,23
+others,311,11
+others,312,13
+others,313,9
+others,314,22
+others,315,15
+others,316,9
+others,317,14
+others,318,3
+others,319,4
+others,320,15
+others,321,14
+others,322,7
+others,323,24
+others,324,33
+others,325,18
+others,326,16
+others,327,8
+others,328,11
+others,329,10
+others,330,7
+others,331,14
+others,332,8
+others,333,3
+others,334,15
+others,335,7
+others,336,13
+others,337,11
+others,338,10
+others,339,12
+others,340,14
+others,341,19
+others,342,16
+others,343,17
+others,344,12
+others,345,17
+others,346,11
+others,347,14
+others,348,11
+others,349,9
+others,350,5
+others,351,7
+others,352,2
+others,353,4
+others,354,28
+others,355,5
+others,356,5
+others,357,7
+others,358,5
+others,359,3
+others,360,12
+others,361,10
+others,362,18
+others,363,11
+others,364,17
+others,365,4
+others,366,10
+others,367,11
+others,368,5
+others,369,3
+others,370,8
+others,371,10
+others,372,10
+others,373,12
+others,374,8
+others,375,6
+others,376,9
+others,377,20
+others,378,9
+others,379,13
+others,380,11
+others,382,23
+others,383,15
+others,384,14
+others,385,8
+others,386,11
+others,387,9
+others,388,5
+others,389,4
+others,390,7
+others,391,22
+others,392,3
+others,393,12
+others,394,7
+others,395,9
+others,396,3
+others,397,6
+others,398,7
+others,399,27
+others,400,5
+others,401,7
+others,402,25
+others,403,8
+others,404,5
+others,405,10
+others,406,10
+others,407,5
+others,408,4
+others,409,16
+others,410,4
+others,411,2
+others,412,3
+others,413,6
+others,414,22
+others,415,9
+others,416,8
+others,417,1
+others,418,13
+others,419,7
+others,420,14
+others,421,17
+others,422,2
+others,423,2
+others,424,5
+others,425,2
+others,426,16
+others,427,13
+others,428,7
+others,429,5
+others,430,10
+others,431,18
+others,432,9
+others,433,13
+others,434,2
+others,435,9
+others,436,2
+others,437,1
+others,438,9
+others,439,5
+others,440,1
+others,441,9
+others,442,7
+others,443,8
+others,444,9
+others,445,7
+others,446,8
+others,447,5
+others,448,5
+others,449,4
+others,450,28
+others,451,2
+others,452,4
+others,453,3
+others,454,14
+others,455,2
+others,456,9
+others,457,9
+others,458,4
+others,459,12
+others,460,7
+others,461,15
+others,462,18
+others,463,6
+others,464,20
+others,465,18
+others,466,11
+others,467,12
+others,468,18
+others,469,18
+others,470,6
+others,471,7
+others,472,3
+others,473,7
+others,474,2
+others,475,11
+others,476,6
+others,478,4
+others,480,12
+others,481,9
+others,482,4
+others,483,10
+others,484,18
+others,485,14
+others,486,4
+others,487,9
+others,488,15
+others,489,1
+others,490,4
+others,491,2
+others,492,5
+others,493,4
+others,494,9
+others,495,1
+others,496,13
+others,497,3
+others,498,13
+others,499,7
+others,500,10
+others,501,6
+others,502,5
+others,503,7
+others,504,11
+others,505,13
+others,506,18
+others,507,8
+others,508,7
+others,509,3
+others,510,15
+others,511,4
+others,512,2
+others,513,3
+others,514,11
+others,515,15
+others,516,6
+others,517,1
+others,518,1
+others,519,12
+others,520,4
+others,521,9
+others,522,9
+others,523,15
+others,524,5
+others,525,4
+others,526,6
+others,527,2
+others,528,4
+others,529,5
+others,530,5
+others,531,9
+others,532,8
+others,533,14
+others,534,4
+others,535,5
+others,536,8
+others,537,11
+others,538,10
+others,539,15
+others,540,3
+others,541,4
+others,542,1
+others,543,3
+others,544,10
+others,545,1
+others,546,8
+others,547,1
+others,548,13
+others,549,14
+others,550,9
+others,551,15
+others,552,7
+others,553,12
+others,554,10
+others,555,4
+others,556,9
+others,557,5
+others,558,1
+others,559,12
+others,560,6
+others,561,2
+others,563,9
+others,564,11
+others,565,1
+others,566,6
+others,567,5
+others,568,11
+others,569,7
+others,570,18
+others,571,15
+others,572,2
+others,573,1
+others,574,2
+others,575,1
+others,576,6
+others,577,13
+others,578,14
+others,579,6
+others,580,11
+others,581,2
+others,582,7
+others,583,6
+others,584,15
+others,585,5
+others,586,3
+others,587,5
+others,588,2
+others,589,5
+others,590,13
+others,591,8
+others,592,12
+others,593,2
+others,594,2
+others,595,7
+others,596,7
+others,597,10
+others,598,8
+others,599,8
+others,600,6
+others,601,14
+others,602,6
+others,603,5
+others,604,3
+others,605,4
+others,606,8
+others,608,6
+others,609,4
+others,610,1
+others,611,6
+others,612,6
+others,613,7
+others,614,10
+others,615,1
+others,616,9
+others,617,11
+others,618,9
+others,619,8
+others,620,10
+others,621,1
+others,622,1
+others,623,4
+others,624,5
+others,625,2
+others,626,1
+others,627,3
+others,628,1
+others,629,6
+others,630,7
+others,631,3
+others,632,7
+others,633,6
+others,634,5
+others,635,1
+others,637,4
+others,638,4
+others,643,2
+others,644,4
+others,645,2
+others,648,1
+others,649,1
+others,650,3
+others,651,1
+others,652,1
+others,653,3
+others,654,3
+others,656,1
+others,657,1
+others,658,2
+others,659,1
+others,660,8
+others,661,6
+others,662,8
+others,663,1
+others,664,4
+others,666,8
+others,667,5
+others,668,5
+others,669,3
+others,670,6
+others,671,7
+others,672,3
+others,673,9
+others,674,16
+others,675,5
+others,676,4
+others,677,6
+others,678,7
+others,679,5
+others,680,7
+others,681,14
+others,682,6
+others,683,1
+others,684,17
+others,685,14
+others,686,4
+others,687,4
+others,688,7
+others,689,8
+others,690,4
+others,691,3
+others,692,6
+others,693,2
+others,694,1
+others,695,4
+others,696,3
+others,697,2
+others,698,5
+others,699,1
+others,700,9
+others,701,4
+others,702,5
+others,703,7
+others,704,1
+others,705,1
+others,706,1
+others,707,5
+others,710,8
+others,711,2
+others,712,5
+others,713,1
+others,714,2
+others,715,3
+others,716,2
+others,717,10
+others,718,5
+others,719,4
+others,720,7
+others,721,8
+others,722,8
+others,723,4
+others,724,7
+others,725,7
+others,726,4
+others,727,5
+others,728,5
+others,729,1
+others,730,3
+others,731,6
+others,732,1
+others,733,9
+others,734,1
+others,735,5
+others,736,2
+others,737,6
+others,738,7
+others,739,13
+others,740,13
+others,741,2
+others,742,4
+others,743,5
+others,744,5
+others,745,3
+others,746,5
+others,747,6
+others,749,3
+others,751,6
+others,752,2
+others,753,1
+others,754,3
+others,755,5
+others,756,2
+others,757,1
+others,758,1
+others,759,2
+others,760,2
+others,763,3
+others,764,7
+others,765,18
+others,766,7
+others,767,3
+others,768,6
+others,769,3
+others,770,9
+others,771,7
+others,772,9
+others,773,2
+others,774,6
+others,775,2
+others,776,3
+others,777,6
+others,778,1
+others,779,1
+others,781,4
+others,782,5
+others,783,7
+others,784,5
+others,785,4
+others,786,2
+others,787,13
+others,788,8
+others,789,8
+others,790,12
+others,791,4
+others,792,5
+others,793,7
+others,794,1
+others,795,4
+others,796,2
+others,797,7
+others,798,6
+others,799,6
+others,800,1
+others,801,2
+others,802,2
+others,803,7
+others,804,3
+others,807,4
+others,808,1
+others,809,3
+others,811,4
+others,813,1
+others,815,7
+others,816,7
+others,817,4
+others,818,4
+others,819,9
+others,820,1
+others,821,2
+others,822,6
+others,823,2
+others,825,4
+others,826,1
+others,827,9
+others,829,5
+others,830,1
+others,832,2
+others,833,3
+others,834,1
+others,835,1
+others,836,1
+others,837,3
+others,840,10
+others,841,5
+others,842,5
+others,843,1
+others,845,11
+others,847,9
+others,848,3
+others,850,2
+others,851,2
+others,853,5
+others,854,7
+others,856,7
+others,857,1
+others,858,17
+others,859,8
+others,860,20
+others,861,8
+others,863,5
+others,864,15
+others,865,3
+others,866,6
+others,867,2
+others,868,13
+others,869,13
+others,870,4
+others,871,4
+others,872,7
+others,873,3
+others,874,3
+others,875,6
+others,876,3
+others,877,1
+others,879,4
+others,881,2
+others,882,4
+others,883,2
+others,884,3
+others,885,2
+others,886,1
+others,888,8
+others,889,4
+others,890,2
+others,891,1
+others,892,1
+others,893,3
+others,894,7
+others,895,8
+others,898,2
+others,901,6
+others,902,5
+others,903,2
+others,904,4
+others,905,2
+others,907,1
+others,908,4
+others,909,4
+others,910,9
+others,911,15
+others,912,2
+others,914,7
+others,918,12
+others,919,2
+others,922,1
+others,924,3
+others,926,2
+others,929,9
+others,930,13
+others,932,5
+others,933,5
+others,935,3
+others,937,2
+others,938,8
+others,939,3
+others,940,5
+others,941,6
+others,942,6
+others,944,1
+others,945,5
+others,946,2
+others,949,4
+others,950,6
+others,951,1
+others,952,2
+others,953,2
+others,954,1
+others,956,7
+others,957,6
+others,958,5
+others,960,8
+others,961,1
+others,962,3
+others,964,1
+others,966,2
+others,968,3
+others,969,6
+others,970,5
+others,971,1
+others,972,3
+others,973,5
+others,974,2
+others,975,3
+others,976,1
+others,977,5
+others,978,2
+others,979,4
+others,980,8
+others,982,8
+others,983,3
+others,984,6
+others,985,3
+others,986,6
+others,987,1
+others,988,11
+others,991,5
+others,992,7
+others,994,3
+others,995,5
+others,996,7
+others,997,4
+others,998,1
+others,1000,1
+others,1003,11
+others,1004,4
+others,1007,2
+others,1008,1
+others,1010,3
+others,1014,12
+others,1015,12
+others,1016,4
+others,1017,4
+others,1018,2
+others,1022,5
+others,1024,2
+others,1025,4
+others,1026,13
+others,1027,2
+others,1028,5
+others,1030,2
+others,1031,1
+others,1033,3
+others,1034,4
+others,1037,2
+others,1038,2
+others,1042,1
+others,1043,2
+others,1045,1
+others,1047,5
+others,1048,7
+others,1049,1
+others,1050,5
+others,1051,1
+others,1052,5
+others,1053,5
+others,1054,5
+others,1055,3
+others,1056,1
+others,1058,2
+others,1059,5
+others,1060,5
+others,1061,3
+others,1063,9
+others,1064,2
+others,1065,6
+others,1066,1
+others,1067,3
+others,1073,2
+others,1074,2
+others,1075,4
+others,1078,1
+others,1079,9
+others,1080,1
+others,1081,1
+others,1082,4
+others,1083,2
+others,1084,5
+others,1086,3
+others,1087,8
+others,1091,1
+others,1092,1
+others,1093,5
+others,1094,4
+others,1095,2
+others,1096,2
+others,1098,4
+others,1099,9
+others,1101,6
+others,1102,2
+others,1103,6
+others,1104,3
+others,1105,3
+others,1106,6
+others,1108,1
+others,1109,3
+others,1110,3
+others,1111,2
+others,1112,7
+others,1113,4
+others,1114,1
+others,1115,5
+others,1116,2
+others,1117,6
+others,1118,6
+others,1120,3
+others,1122,2
+others,1123,3
+others,1124,2
+others,1125,1
+others,1126,1
+others,1128,2
+others,1129,3
+others,1131,2
+others,1132,4
+others,1133,9
+others,1134,3
+others,1135,12
+others,1136,2
+others,1137,2
+others,1138,2
+others,1139,2
+others,1140,3
+others,1141,1
+others,1142,8
+others,1143,6
+others,1145,3
+others,1146,1
+others,1147,2
+others,1148,2
+others,1149,5
+others,1151,1
+others,1153,1
+others,1154,5
+others,1155,3
+others,1156,1
+others,1157,3
+others,1159,2
+others,1160,5
+others,1161,9
+others,1162,4
+others,1166,3
+others,1167,3
+others,1168,3
+others,1170,1
+others,1174,1
+others,1175,2
+others,1176,3
+others,1177,3
+others,1178,3
+others,1179,4
+others,1181,11
+others,1184,3
+others,1185,1
+others,1187,6
+others,1189,2
+others,1190,1
+others,1192,4
+others,1193,6
+others,1194,1
+others,1195,4
+others,1196,5
+others,1197,2
+others,1198,1
+others,1201,1
+others,1202,1
+others,1203,5
+others,1204,4
+others,1205,5
+others,1207,2
+others,1208,3
+others,1209,10
+others,1210,3
+others,1211,4
+others,1212,2
+others,1213,3
+others,1214,8
+others,1215,1
+others,1216,3
+others,1217,5
+others,1218,7
+others,1219,2
+others,1220,1
+others,1221,2
+others,1222,2
+others,1223,3
+others,1224,9
+others,1225,9
+others,1227,11
+others,1228,10
+others,1229,1
+others,1230,5
+others,1231,3
+others,1233,4
+others,1235,4
+others,1236,5
+others,1237,5
+others,1238,3
+others,1239,2
+others,1240,2
+others,1241,2
+others,1242,1
+others,1244,4
+others,1245,4
+others,1246,5
+others,1247,5
+others,1248,1
+others,1249,1
+others,1250,5
+others,1251,2
+others,1252,3
+others,1255,1
+others,1257,1
+others,1258,6
+others,1260,1
+others,1262,1
+others,1265,8
+others,1268,1
+others,1269,1
+others,1272,2
+others,1273,3
+others,1274,1
+others,1277,1
+others,1278,1
+others,1279,3
+others,1280,1
+others,1282,3
+others,1283,1
+others,1284,1
+others,1285,1
+others,1287,2
+others,1289,3
+others,1294,1
+others,1295,2
+others,1296,1
+others,1298,1
+others,1302,1
+others,1303,2
+others,1305,1
+others,1306,1
+others,1308,2
+others,1310,3
+others,1313,7
+others,1316,1
+others,1318,1
+others,1324,6
+others,1326,1
+others,1327,4
+others,1328,1
+others,1330,4
+others,1331,2
+others,1332,2
+others,1337,3
+others,1339,4
+others,1340,1
+others,1341,4
+others,1343,3
+others,1345,5
+others,1347,2
+others,1351,1
+others,1352,1
+others,1354,1
+others,1359,1
+others,1365,9
+others,1367,5
+others,1368,2
+others,1369,3
+others,1370,5
+others,1372,6
+others,1377,1
+others,1379,1
+others,1380,5
+others,1381,1
+others,1382,2
+others,1383,6
+others,1384,2
+others,1385,1
+others,1386,2
+others,1387,4
+others,1388,4
+others,1389,11
+others,1390,9
+others,1391,4
+others,1393,3
+others,1394,1
+others,1400,2
+others,1401,1
+others,1408,9
+others,1409,1
+others,1413,4
+others,1418,6
+others,1423,1
+others,1427,3
+others,1428,8
+others,1429,1
+others,1430,5
+others,1431,4
+others,1432,3
+others,1434,1
+others,1437,3
+others,1438,2
+others,1439,1
+others,1440,3
+others,1442,2
+others,1443,6
+others,1445,9
+others,1446,1
+others,1447,2
+others,1452,1
+others,1453,3
+others,1459,2
+others,1460,4
+others,1461,2
+others,1462,1
+others,1463,3
+others,1466,4
+others,1469,5
+others,1470,3
+others,1471,1
+others,1472,1
+others,1473,2
+others,1474,2
+others,1475,1
+others,1476,5
+others,1496,3
+others,1499,4
+others,1502,2
+others,1503,1
+others,1506,1
+others,1508,3
+others,1514,1
+others,1520,1
+others,1522,2
+others,1526,2
+others,1531,3
+others,1533,3
+others,1534,11
+others,1536,1
+others,1538,3
+others,1539,1
+others,1541,3
+others,1542,3
+others,1543,9
+others,1544,5
+others,1545,7
+others,1546,3
+others,1547,5
+others,1550,1
+others,1551,3
+others,1555,2
+others,1557,3
+others,1558,3
+others,1559,3
+others,1561,2
+others,1562,1
+others,1563,1
+others,1567,2
+others,1569,3
+others,1570,1
+others,1574,3
+others,1575,2
+others,1577,3
+others,1580,1
+others,1582,2
+others,1585,2
+others,1586,2
+others,1587,3
+others,1588,2
+others,1590,1
+others,1592,2
+others,1593,6
+others,1594,3
+others,1614,1
+others,1617,1
+others,1618,2
+others,1619,2
+others,1621,3
+others,1623,5
+others,1624,2
+others,1626,3
+others,1627,2
+others,1629,1
+others,1633,2
+others,1636,5
+others,1642,1
+others,1644,1
+others,1648,2
+others,1649,1
+others,1651,5
+others,1654,1
+others,1658,1
+others,1670,2
+others,1673,1
+others,1674,1
+others,1677,1
+others,1687,1
+others,1688,2
+others,1689,2
+others,1692,3
+others,1697,1
+others,1699,3
+others,1700,2
+others,1701,3
+others,1702,1
+others,1703,4
+others,1704,4
+others,1705,3
+others,1706,7
+others,1707,1
+others,1708,4
+others,1710,1
+others,1717,1
+others,1720,5
+others,1721,5
+others,1722,1
+others,1724,6
+others,1726,1
+others,1730,2
+others,1731,4
+others,1732,3
+others,1734,4
+others,1737,1
+others,1739,5
+others,1741,5
+others,1743,3
+others,1745,5
+others,1746,4
+others,1749,3
+others,1750,4
+others,1751,1
+others,1752,1
+others,1754,2
+others,1755,5
+others,1757,1
+others,1758,1
+others,1760,2
+others,1763,2
+others,1764,5
+others,1765,2
+others,1766,1
+others,1768,2
+others,1769,2
+others,1770,4
+others,1771,2
+others,1773,3
+others,1774,5
+others,1776,5
+others,1778,8
+others,1779,2
+others,1781,3
+others,1782,2
+others,1784,1
+others,1785,4
+others,1786,2
+others,1788,2
+others,1789,3
+others,1791,1
+others,1792,3
+others,1794,1
+others,1795,4
+others,1796,1
+others,1798,5
+others,1799,2
+others,1800,3
+others,1804,4
+others,1805,2
+others,1806,2
+others,1807,3
+others,1808,10
+others,1810,4
+others,1811,4
+others,1813,2
+others,1819,1
+others,1824,2
+others,1827,4
+others,1830,1
+others,1833,1
+others,1840,1
+others,1842,3
+others,1845,1
+others,1847,4
+others,1849,2
+others,1850,3
+others,1852,4
+others,1853,3
+others,1854,2
+others,1855,11
+others,1856,2
+others,1857,4
+others,1858,3
+others,1864,3
+others,1865,2
+others,1867,2
+others,1870,2
+others,1872,1
+others,1873,1
+others,1874,3
+others,1875,2
+others,1876,1
+others,1877,1
+others,1878,4
+others,1879,5
+others,1880,5
+others,1883,1
+others,1884,4
+others,1885,1
+others,1888,2
+others,1889,5
+others,1890,1
+others,1892,2
+others,1895,1
+others,1896,2
+others,1897,1
+others,1899,2
+others,1901,3
+others,1903,1
+others,1904,1
+others,1905,1
+others,1907,4
+others,1908,2
+others,1909,4
+others,1910,1
+others,1912,4
+others,1913,4
+others,1914,1
+others,1915,2
+others,1916,2
+others,1919,1
+others,1920,1
+others,1922,1
+others,1923,1
+others,1932,2
+others,1937,3
+others,1939,2
+others,1940,1
+others,1943,3
+others,1944,1
+others,1956,1
+others,1959,3
+others,1962,9
+others,1963,4
+others,1964,3
+others,1972,5
+others,1974,1
+others,1975,1
+others,1976,2
+others,1980,4
+others,1986,4
+others,1989,2
+others,1991,1
+others,1992,1
+others,1994,2
+others,1995,2
+others,2003,1
+others,2005,1
+others,2011,3
+others,2014,2
+others,2015,2
+others,2020,2
+others,2022,1
+others,2028,1
+others,2029,1
+others,2030,1
+others,2031,3
+others,2032,1
+others,2034,1
+others,2035,4
+others,2037,1
+others,2039,7
+others,2040,5
+others,2041,4
+others,2043,2
+others,2047,2
+others,2051,1
+others,2052,4
+others,2053,2
+others,2054,4
+others,2055,3
+others,2062,1
+others,2068,1
+others,2069,1
+others,2071,1
+others,2072,1
+others,2073,1
+others,2074,1
+others,2075,3
+others,2076,1
+others,2079,2
+others,2080,1
+others,2084,2
+others,2090,1
+others,2096,1
+others,2099,1
+others,2100,1
+others,2103,3
+others,2110,3
+others,2111,1
+others,2112,4
+others,2115,5
+others,2119,2
+others,2123,1
+others,2130,1
+others,2131,2
+others,2133,2
+others,2136,2
+others,2139,3
+others,2143,2
+others,2144,2
+others,2151,5
+others,2155,1
+others,2157,1
+others,2158,1
+others,2159,3
+others,2160,2
+others,2161,3
+others,2162,2
+others,2164,2
+others,2166,1
+others,2169,3
+others,2171,1
+others,2177,2
+others,2178,3
+others,2180,2
+others,2181,1
+others,2182,5
+others,2184,1
+others,2192,3
+others,2194,2
+others,2198,2
+others,2202,1
+others,2206,4
+others,2211,3
+others,2212,2
+others,2213,2
+others,2215,1
+others,2216,2
+others,2217,2
+others,2219,2
+others,2225,2
+others,2227,1
+others,2229,5
+others,2230,3
+others,2232,5
+others,2233,4
+others,2235,3
+others,2237,1
+others,2239,3
+others,2240,3
+others,2241,4
+others,2242,2
+others,2244,6
+others,2245,2
+others,2246,1
+others,2247,1
+others,2249,3
+others,2254,1
+others,2256,1
+others,2257,1
+others,2259,1
+others,2263,2
+others,2264,1
+others,2265,1
+others,2266,4
+others,2270,4
+others,2272,7
+others,2273,1
+others,2275,2
+others,2282,1
+others,2283,3
+others,2286,4
+others,2289,2
+others,2290,2
+others,2291,4
+others,2292,1
+others,2293,2
+others,2295,2
+others,2296,2
+others,2303,1
+others,2304,3
+others,2306,1
+others,2307,2
+others,2308,1
+others,2315,2
+others,2316,1
+others,2318,1
+others,2319,1
+others,2322,2
+others,2324,2
+others,2328,1
+others,2329,4
+others,2330,2
+others,2332,2
+others,2338,1
+others,2339,4
+others,2341,1
+others,2342,1
+others,2345,2
+others,2347,1
+others,2349,2
+others,2355,1
+others,2362,2
+others,2365,3
+others,2368,1
+others,2369,3
+others,2370,1
+others,2372,3
+others,2374,1
+others,2377,1
+others,2380,1
+others,2382,1
+others,2386,1
+others,2389,2
+others,2391,2
+others,2392,3
+others,2394,2
+others,2395,3
+others,2396,1
+others,2398,1
+others,2400,1
+others,2401,2
+others,2402,1
+others,2403,1
+others,2415,2
+others,2418,1
+others,2421,1
+others,2423,2
+others,2428,2
+others,2431,1
+others,2432,3
+others,2435,2
+others,2445,3
+others,2448,2
+others,2449,4
+others,2450,5
+others,2451,1
+others,2456,2
+others,2461,3
+others,2464,1
+others,2487,2
+others,2488,1
+others,2490,2
+others,2492,2
+others,2493,5
+others,2496,7
+others,2499,1
+others,2508,1
+others,2510,1
+others,2511,1
+others,2513,2
+others,2518,1
+others,2519,1
+others,2521,2
+others,2540,1
+others,2556,4
+others,2558,2
+others,2560,1
+others,2562,1
+others,2563,3
+others,2565,1
+others,2569,1
+others,2571,1
+others,2572,3
+others,2576,3
+others,2577,3
+others,2578,1
+others,2579,2
+others,2580,1
+others,2584,2
+others,2585,1
+others,2589,6
+others,2590,1
+others,2592,1
+others,2594,3
+others,2597,1
+others,2601,1
+others,2604,1
+others,2608,1
+others,2611,2
+others,2613,1
+others,2616,3
+others,2617,1
+others,2618,1
+others,2619,4
+others,2620,15
+others,2621,4
+others,2626,1
+others,2627,3
+others,2629,1
+others,2634,1
+others,2640,1
+others,2651,3
+others,2654,1
+others,2658,4
+others,2660,1
+others,2664,2
+others,2668,1
+others,2669,3
+others,2671,3
+others,2686,2
+others,2687,1
+others,2692,1
+others,2697,1
+others,2698,2
+others,2699,1
+others,2701,1
+others,2709,3
+others,2710,1
+others,2711,1
+others,2713,2
+others,2714,11
+others,2716,3
+others,2717,1
+others,2720,3
+others,2721,1
+others,2723,1
+others,2724,2
+others,2725,1
+others,2726,3
+others,2727,7
+others,2729,5
+others,2730,1
+others,2731,1
+others,2732,5
+others,2733,4
+others,2734,2
+others,2737,3
+others,2738,1
+others,2741,2
+others,2745,5
+others,2747,3
+others,2749,1
+others,2750,1
+others,2773,4
+others,2781,2
+others,2785,3
+others,2800,2
+others,2807,3
+others,2834,1
+others,2838,1
+others,2840,8
+others,2852,1
+others,2854,6
+others,2855,2
+others,2856,2
+others,2859,5
+others,2860,1
+others,2861,3
+others,2862,1
+others,2866,1
+others,2867,4
+others,2871,1
+others,2872,1
+others,2873,8
+others,2874,1
+others,2878,3
+others,2881,1
+others,2882,2
+others,2901,3
+others,2906,3
+others,2907,1
+others,2921,1
+others,2923,2
+others,2924,3
+others,2930,2
+others,2932,2
+others,2934,1
+others,2935,3
+others,2936,1
+others,2938,2
+others,2946,3
+others,2949,1
+others,2950,1
+others,2993,3
+others,3001,1
+others,3003,1
+others,3004,3
+others,3006,9
+others,3007,3
+others,3009,1
+others,3020,4
+others,3030,1
+others,3056,4
+others,3061,4
+others,3077,1
+others,3113,2
+others,3115,1
+others,3125,3
+others,3128,4
+others,3130,1
+others,3133,1
+others,3151,1
+others,3156,2
+others,3161,1
+others,3163,6
+others,3170,3
+others,3173,2
+others,3174,1
+others,3177,1
+others,3178,1
+others,3197,1
+others,3209,1
+others,3213,3
+others,3214,1
+others,3215,1
+others,3217,1
+others,3220,1
+others,3232,1
+others,3236,1
+others,3238,2
+others,3248,2
+others,3256,1
+others,3261,1
+others,3268,1
+others,3275,1
+others,3276,2
+others,3286,2
+others,3305,2
+others,3307,1
+others,3334,1
+others,3336,1
+others,3367,2
+others,3421,2
+others,3458,3
+others,3464,1
+others,3467,5
+others,3468,1
+others,3469,2
+others,3471,3
+others,3473,1
+others,3484,4
+others,3485,5
+others,3486,2
+others,3492,3
+others,3496,4
+others,3498,3
+others,3547,3
+others,3548,2
+others,3568,1
+others,3569,4
+others,3573,6
+others,3574,1
+others,3576,1
+others,3581,3
+others,3586,1
+others,3589,3
+others,3592,2
+others,3595,2
+others,3596,1
+others,3599,3
+others,3605,1
+others,3614,4
+others,3617,2
+others,3618,3
+others,3621,2
+others,3624,1
+others,3625,1
+others,3628,2
+others,3632,1
+others,3651,3
+others,3655,1
+others,3656,3
+others,3657,1
+others,3659,2
+others,3667,2
+others,3673,1
+others,3674,3
+others,3675,2
+others,3676,1
+others,3677,2
+others,3702,2
+others,3709,1
+others,3712,2
+others,3727,2
+others,3730,1
+others,3738,1
+others,3760,3
+others,3764,5
+others,3766,1
+others,3818,1
+others,3823,2
+others,3826,3
+others,3831,1
+others,3833,1
+others,3838,1
+others,3842,1
+others,3843,1
+others,3844,1
+others,3845,4
+others,3847,2
+others,3848,4
+others,3849,3
+others,3852,2
+others,3854,1
+others,3855,3
+others,3859,1
+others,3864,4
+others,3870,3
+others,3888,1
+others,3890,3
+others,3894,2
+others,3902,3
+others,3903,1
+others,3909,1
+others,3912,4
+others,3914,3
+others,3915,3
+others,3916,1
+others,3919,5
+others,3920,2
+others,3923,1
+others,3932,3
+others,3944,1
+others,3950,1
+others,3953,1
+others,3960,1
+others,3967,3
+others,3987,2
+others,3991,3
+others,3996,2
+others,3998,1
+others,4021,2
+others,4048,1
+others,4079,1
+others,4081,2
+others,4086,2
+others,4090,2
+others,4096,3
+others,4099,4
+others,4108,4
+others,4119,1
+others,4139,4
+others,4187,3
+others,4239,3
+others,4309,1
+others,4312,2
+others,4315,3
+others,4321,4
+others,4323,1
+others,4325,1
+others,4381,3
+others,4386,2
+others,4390,4
+others,4398,1
+others,4410,4
+others,4421,1
+others,4422,1
+others,4428,2
+others,4441,2
+others,4442,3
+others,4443,1
+others,4445,1
+others,4447,3
+others,4448,1
+others,4449,3
+others,4453,1
+others,4464,2
+others,4470,1
+others,4569,1
+others,4575,2
+others,4582,2
+others,4605,1
+others,4611,2
+others,4614,1
+others,4616,1
+others,4639,1
+others,4644,1
+others,4645,2
+others,4646,1
+others,4648,1
+others,4650,4
+others,4652,7
+others,4655,4
+others,4657,5
+others,4660,2
+others,4675,1
+others,4677,6
+others,4678,6
+others,4686,1
+others,4689,1
+others,4694,3
+others,4695,2
+others,4696,1
+others,4705,1
+others,4707,3
+others,4709,1
+others,4714,2
+others,4732,2
+others,4733,3
+others,4734,1
+others,4748,3
+others,4750,2
+others,4752,4
+others,4767,1
+others,4768,1
+others,4781,2
+others,4811,4
+others,4819,1
+others,4839,2
+others,4840,3
+others,4841,5
+others,4845,2
+others,4857,1
+others,4860,1
+others,4869,1
+others,4870,1
+others,4872,1
+others,4873,2
+others,4884,3
+others,4892,1
+others,4897,1
+others,4912,1
+others,4947,2
+others,4955,1
+others,4957,1
+others,4965,1
+others,4986,1
+others,4997,2
+others,5002,2
+others,5015,2
+others,5017,2
+others,5024,1
+others,5060,1
+others,5262,2
+others,5265,3
+others,5281,1
+others,5282,1
+others,5284,2
+others,5285,1
+others,5290,1
+others,5294,1
+others,5295,1
+others,5299,3
+others,5308,1
+others,5344,1
+others,5352,1
+others,5421,2
+others,5436,1
+others,5446,1
+others,5448,1
+others,5746,1
+others,5890,1
+others,5892,1
+others,5894,3
+others,5913,1
+others,5954,3
+others,6348,2
+others,6349,1
+others,6371,1
+others,6372,2
+others,6375,2
+others,6377,2
+others,6383,2
+others,6384,1
+others,6385,2
+others,6404,3
+others,6433,2
+others,6440,1
+others,6452,1
+others,6461,1
+others,6470,2
+others,6490,1
+others,6745,3
+others,6865,1
+others,6875,2
+others,6876,1
+others,6907,3
+others,6914,1
+others,6937,1
+others,6943,2
+others,6948,2
+others,6959,2
+others,6998,3
+others,7023,3
+others,7064,3
+others,7113,1
+others,7120,1
+others,7122,2
+others,7127,1
+others,7129,2
+others,7137,1
+others,7152,1
+others,7154,3
+others,7160,1
+others,7193,4
+others,7210,2
+others,7220,1
+others,7221,1
+others,7227,1
+others,7232,1
+others,7233,2
+others,7234,1
+others,7238,3
+others,7261,1
+others,7270,1
+others,7284,2
+others,7330,4
+others,7544,2
+others,7546,1
+others,7547,2
+others,7568,2
+others,7573,1
+others,7574,1
+others,7584,2
+others,7854,3
+others,7856,2
+others,7862,2
+others,7870,2
+others,7871,1
+others,8176,1
+others,8185,1
+others,8286,2
+others,8304,1
+others,8375,2
+others,8382,3
+others,8402,1
+others,8405,1
+others,8413,2
+others,8414,1
+others,8419,1
+others,9021,1
+others,9041,4
+others,9064,2
+others,9079,5
+others,9080,5
+others,9084,4
+others,9085,2
+others,9272,1
+others,9300,3
+others,10413,2
+others,10422,1
+others,10471,1
+others,10503,1
+others,10512,2
+others,10530,2
+others,10541,2
+others,10547,1
+others,10550,1
+others,12121,2
+others,14654,3
+others,14690,1
+others,14694,1
+others,14704,1
+others,14710,3
+others,14717,2
+others,14723,3
+others,14726,1
+others,14956,2
+others,16345,3
+others,16832,3
